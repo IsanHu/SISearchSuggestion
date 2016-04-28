@@ -1,0 +1,7134 @@
+seacock	海水阀	1
+cutout	排气阀；断流器；切口	4
+sojourn time	停留时间	4
+cycle	环，回路；循环；周期	5
+nominal diameter	公称直径	1
+discriminant	判别式	4
+massif	地块，断层块	3
+conversion switch	转换开关	1
+fibre interference effect	纤维干涉效果	1
+workload measurement	工作负荷测量	2
+spring vibrator	弹簧振子	3
+air blast	强气流鼓风，气喷净法	4
+pyroxene	辉石	1
+fracture density	裂缝密度	3
+axially symmetric	轴对称的	1
+collapse	崩塌；套缩；纵弯曲	1
+rich ore	富矿	5
+equation of compatibility	协调方程	5
+microcamera	微型照相机；缩微照相机	3
+surface area	表面积	2
+axonometric axis	轴测轴	1
+part	部件；成分	2
+sinusoidal function	正弦函数	4
+exchange measurement	调换测量法	3
+cirque	冰斗	2
+uniform circular motion	匀速圆周运动	3
+stock keeping unit (SKU)	库存单元	1
+driving axle	驱动轴，主动轴，传动轴	4
+bounded area	有界区间	5
+agricultural bionics	农业仿生学	4
+simultaneous blasting	齐发爆破，同时爆破	1
+teleseismology	遥测地震学	4
+diaphragm	隔膜；遮光板；光圈	2
+photorelay	光控继电器	5
+chlorite	绿泥石；亚氯酸盐	5
+subjective tolerable limit	主诉可耐限	3
+vibration blasting	振动爆破	1
+qualitative classification	定性分类法	2
+blind area	死区	1
+equation of state	状态方程	4
+PSIG (pound per square inch gauge)	磅/平方英寸表压	5
+virtual reality modelling language	虚拟现实模拟语言	3
+fault wall	断层盘，断层壁	4
+horizontal coordinates	横坐标；地平坐标	3
+fibrous protein	纤维状蛋白质	2
+heading blasting	掘进爆破；硐室爆破	5
+one-piece piston	整体活塞	5
+central angle	中心角	2
+roller	辊，滚筒，滚轴	1
+corrosiveness	腐蚀性	4
+andalusite	红柱石	3
+specific volume	比容	3
+stomatal structure	气孔构造	2
+stoper	向上凿岩机	4
+consistent convergence	一致收敛	1
+aniline point	苯胺点；苯胺溶液临界温度	2
+single crystal	单晶	3
+basin recharge	流域再补给	5
+excited state	激发态，受激态	1
+ultrared probing	红外探触	5
+bottom priming	孔底起爆；反向起爆	5
+colourant	颜料；染料	2
+spray deposition	喷射沉积	4
+flexible mechanism	柔性机构	2
+spot labelling	局部贴标签	3
+aerial view	鸟瞰视图，航摄照片	3
+diffusion process	扩散过程；扩散工艺	3
+simplex algorithm	单纯形算法	3
+refracting angle	折射角，折射棱角	2
+flash line	突起线	4
+coastlining	海岸线测量	3
+inductance element	电感元件	5
+exposure intentional double (EID)	特需二次曝光	1
+lifting rod	调节杆	1
+transformer	变压器，变换器	3
+puff drying	膨化干燥	5
+water year	水文年	2
+maskant	保护层；掩蔽体	3
+starting value	初始值，起始值	1
+reservoir flood routing	水库调洪计算	1
+salt lake	盐湖	1
+temperature survey	地热测量	3
+non-dimension resonant frequency	无因次谐振频率	5
+permeation constant	渗透常数	4
+scalene triangle	不等边三角形	4
+side heading	侧导坑超前掘进	4
+principle of unification	统一原理	4
+object display	客体显示	3
+telluric-current method	大地电流法	1
+autoformer	自耦变压器	2
+mechanical property	机械性能	1
+air-bubble curtain	气泡帷幕，气泡帘	5
+debinding	脱黏	4
+heat-proof explosive	耐热炸药	5
+gating matrix	控制矩阵	2
+bottom meter	水底重力仪	4
+hypsophobia	居高恐怖	5
+plasticizer	增塑剂，增韧剂	1
+turbulence characteristic	紊流特征	5
+coupling effect	耦合效应	4
+back break	超挖；超爆	5
+breccia	角砾岩	4
+potash feldspar	钾长石	3
+graphite fibre	石墨纤维	4
+parameter function	参数函数	3
+optical effect	光学作用	1
+chemical equilibrium	化学平衡	3
+optimization	最佳化，最优化	5
+contrast	反差，差别；对比法	5
+air door	风门	2
+fusion electrolysis	熔凝电解	5
+absolute zero	绝对零度	5
+trough valley	槽谷	2
+air shooting	气垫爆破；空中爆破法	4
+photocentre	光心	1
+random variable	随机变量，随机变数	4
+spectrum	谱；光谱；波谱；频谱	3
+forward difference	前向差分	2
+fiard	低峡湾	2
+reversed fault	逆断层	2
+hyperelliptic equation	超椭圆方程	2
+underdevelop	显影不足	5
+seam cut	缝式掏槽，龟裂掏槽；煤层切割	4
+prime number	质数，素数	1
+force polygon	力多边形	4
+convolute fold	翻卷褶皱	3
+silicon retina	硅网膜	4
+spray forming	喷射成形	4
+system of integrated standardization	综合标准化体系	3
+rigid package	硬包装	3
+bearing stratum	持力层	3
+water seal	水封	3
+superposition	叠加	1
+safety operation specification	安全操作规程	2
+gasket seal	密封垫片	5
+lopolith	岩盆	4
+gravity determination	重力测量	3
+manganese	锰	3
+concussion of blasting	爆破冲击作用	1
+ordinary number	普通数	4
+moment of couple	力偶矩	2
+multiple	并联；多路系统；倍数	3
+outer package	外包装	4
+lighting	照明；引燃；照明设备	3
+one point press	单点压力机	1
+electro-optical countermeasure	光电对抗	3
+directional view	向视图	2
+integrate	积分运算	5
+pseudo three-dimension graphics	拟三维图	4
+palimpsest structure	变余构造	3
+detonation	爆轰，引爆，爆燃	2
+component	元件；分力,分量	2
+multimedia communication	多媒体通讯	4
+automatic first-frame positioning (AFFP)	自动返回初始位置	3
+tangential shear force	切力	5
+abrasive	研磨剂，研磨材料	2
+disability glare	失能眩光	1
+raise round	向上掘进炮孔组；天井炮孔组	2
+stage of processing	加工阶段	2
+complex wave	复合波	5
+jackrod	钻杆	5
+universal electric machine	交直流两用电机	1
+codeterminant	共同决定因素	2
+gas range	含气范围，气带	4
+real leak	有效泄露	5
+micrography	显微照相术，显微绘图术	4
+vigilance task	警戒作业	4
+colinear	共线的	5
+chemical decomposition	化学分解	4
+close shot	近景	1
+shot firing cable	爆破母线，爆破主线	1
+refractory coating	耐火涂层	1
+right plane triangle	正平面三角形	5
+impulse	脉冲；冲量；推力	2
+double spiral cut	双螺旋掏槽	2
+gas mixture	气体混合物；毒气混合物	2
+sectorial stress distribution	扇形应力分布	5
+membrane filter	薄膜过滤器	3
+tangential point	切点	4
+laser	激光；激光器	5
+cure	硫化；加工处理	2
+coherent light	相干光	2
+proportional coefficient	比例系数	5
+smart material	智能材料	2
+cylindrical coordinate	圆柱坐标	5
+OCC (old corrugated container)	旧瓦楞纸箱	5
+sodium caseinate	酪蛋白酸钠	2
+laser fusion	激光聚变	3
+file format	文件格式	1
+pressure signature	压力场特征	2
+prospecting method	勘查方法	3
+subdivided punch	组合冲模	4
+percolation	渗漏，渗流	1
+surface layer	表层	5
+drought	缺乏；干旱	4
+general specification	通用规范	3
+information theory	信息论	2
+differential	微分；差速器	4
+molecular speed	分子速度	3
+optimum positioning performance	最佳定位性能	2
+heat effect	热效应	2
+girth	周长；尺寸，大小	3
+Fourier transformation	傅里叶变换	4
+correspondence principle	对应原理	1
+surface rheology	表面流变学	5
+polymer	聚合体，聚合物	4
+offset	偏置，偏移；支距；水平断错；胶印	5
+potential energy function	势能函数	2
+direct current	直流电	2
+light source	光源	4
+crystalline lens	晶状体	3
+kerf blasting	拉槽爆破	4
+profile	剖面；剖面图；轮廓；分布图	1
+vapour	蒸汽；烟雾	1
+fast film	高速感光胶片	3
+vibration law	振动定律	4
+modern standardization	现代标准化	1
+convexo-plane	平凸形；一面凸一面平的	5
+interferometry	干涉测量；干涉度量学	5
+vibration	振动	5
+top surface	顶面	3
+crate	板条箱，花格箱	2
+sphere	球，球面；天体仪	5
+mother rock	母岩	2
+bulk effect	体效应	1
+circular function	圆函数	1
+adjustor	调节器，精调装置	2
+mutual induction	互感	5
+hard-disk crash	硬盘死机	1
+neutrodyne	平差式；中和接受法	3
+dedicated flash	专用闪光灯	2
+stray current	杂散电流	5
+ancillary packaging material	辅助包装材料	2
+pancratic lens	可调光焦透镜；可调节物镜	3
+blend	混合；混合物；合金	2
+triple product	三重积	3
+explosive substance	爆炸物	3
+rare earth element	稀土元素	1
+orthopter	扑翼机，振翼机	2
+open pit footwall	露天采场底盘	2
+discharge measurement	流量测验	5
+stream	河流，水流；束	1
+chromatism	色（像）差；色幻觉	5
+accelerometer	加速度计	3
+snap-on lid	咬合式盒盖	4
+landslide drumlin	滑坡鼓丘	1
+volumetric flow rate	容积流率	2
+harmonic shutter	谐波抑制器	4
+real image	实像	1
+incineration	焚化	5
+gallery test	巷道试验	2
+photoconductive cell	光导管	1
+positive electrode	正极	1
+D horizon	D层，心土层	4
+dimension chain	尺寸链	2
+side projection plane	侧立投影面	1
+grid	栅格；栅极；坐标网	3
+draper conveyor	帆布输送带	3
+Hall coefficient	霍耳系数	4
+steel rod	钢条，圆钢	1
+thermal transpiration	热发散	5
+point bearing pile	端承桩	4
+remote monitor	远程监视器	3
+vector of displacement	位移矢量	3
+evolutionary computation	进化计算	5
+standard classification	标准类别	5
+tactile recognition	触觉识别	2
+pound per square inch gauge (PSIG)	磅/平方英寸表压	5
+multistep method	多步法	1
+long-range electrostatic repulsion	长程静电排斥	5
+error function	误差函数	4
+surface-active agent	表面活性添加剂	2
+harmful gas	有害气体	5
+inverse initiation	反向起爆；孔底起爆	2
+syncline	向斜	2
+disjoint event	互斥事件	5
+anaerobic	厌氧的	2
+storm duration	暴雨历时	5
+quadratic fit	二次拟合	1
+rotor	转子；转动体	3
+extractor	分离器；提炼器，萃取器；脱水机	5
+case	壳（体）；箱；硬化层	4
+hyperbolic cotangent	双曲余切	5
+atomic beam	原子束	1
+gas detector for mine gas	井下瓦斯检测仪	1
+rear view	后视图	2
+substitute part	代用件	3
+soil and rocks	岩土体	3
+apex	顶点；反射点；背斜脊	5
+elevation	立视图；仰角，射角	1
+pseudomorphy	假形；假同晶	2
+visual ganglion	视觉神经节	3
+airborne particle	悬浮颗粒	2
+initial stress	初应力	5
+translational theorem	平移定理	1
+final sintering	最终烧结	3
+extended charge	延长药包；柱状药包	4
+slope deposit	坡积物	4
+basic value	基值，基数	5
+virtual image	虚像	4
+Fourier series	傅里叶级数	4
+gravel	砾石；含金沙砾；沙砾层	4
+stage level	水位	2
+sliding calliper	游标卡尺	3
+triangular versine	三角正矢	3
+reverse elongation line	反向延长线	4
+cambric	细麻纱，细棉布	5
+water level	水位	3
+panoramic camera	全景摄影机	4
+split-ring seal	开环式密封	2
+resolution	分解；溶解；分辨率	2
+addition	加法；结合；附加物	5
+ACC<sup>2</sup> (automatic combustion control)	自动燃烧控制	1
+cross stratification	交错层理	2
+barretter	镇流电阻器；稳流管，稳流灯	5
+geologic structure	地质构造	2
+wave solution	波动解，波解	5
+volumetric filling	容积式充填	2
+deviation	偏差；偏角	3
+aluminum foil	铝箔	1
+dynamic equilibrium	动态平衡	4
+zinc bloom	水锌矿	3
+accessory	零件；辅助设备	4
+envelope	封套，外壳；包络；气囊	1
+infrared ray	红外线	4
+tunnel	巷道；隧道；风洞	5
+priming composition	起爆药，起爆剂	4
+slow speed	慢速，低速	4
+running memory	流动记忆	3
+second derivative	二阶导数	2
+series of basic parameters	基本参数系列	4
+complex argument	复合自变量	3
+crystalline texture	结晶结构	3
+photovoltaic cell	光生伏打电池	2
+alternating motion	往复运动	3
+coincidence cut	重合断面	5
+H-ring	H形垫圈	5
+clearance blasting	空隙爆破	1
+chloroform	氯仿	1
+bowl seal	皮碗密封	1
+aliasing	混淆现象；周期重叠；交接点	4
+time scale	时间坐标，时间标准	2
+capillary force	毛细力	4
+analogue amplifier	模拟放大器	1
+circumference	圆周，周线	3
+coral island	珊瑚岛	5
+hydraulics	水力学	1
+centron	原子核	3
+compression modulus	抗压模量	1
+quadrant	象限；扇形体；直角换向器	1
+combustion of explosives	炸药燃烧	2
+interval velocity	间隔速度，层速度	2
+pusher-type seal	推进式密封	2
+compound volcano	复式火山	2
+slot welding	槽焊	5
+corange line	等潮差线	2
+cartridge heater	筒式加热器，加热筒	5
+magnetic force	磁力	3
+attention skill	注意技能	5
+torque	转矩，扭矩	2
+feed shoe	装粉靴	1
+storage battery	蓄电池	1
+bull ring	研磨圈	3
+multiple cut	多刀切削	2
+magnetoelasticity	磁致弹性	3
+choke coil	扼流圈	2
+roughing	粗加工；粗选	1
+agitator	搅拌机	5
+electron-multiplier phototube	光电倍增管	4
+ultimate pressure	极限压强	1
+caved stope	崩落回采	3
+extruder	挤出机，挤压机	2
+steering outline	转向轮廓线	3
+dilatational strain	膨胀应变	4
+fragmented rock	浮石；碎裂岩	2
+angle shot mortar test	角射臼炮试验	1
+interfacial viscoelasticity	界面黏弹性	2
+spinodal decomposition	旋节线分离	3
+composition	成分；合成；混合物	3
+pneumatic brake	气动闸，气力制动器	2
+mobility	机动性；迁移率；淌度	2
+finite difference method	有限差分法	1
+conformability	整合性	5
+electromagnetic induction	电磁感应	5
+master alloy powder	母合金粉	5
+antiperiodic function	反周期函数	1
+limitation	极限，界限，局限性	5
+primary coil	原线圈；初级线圈	3
+neck bush	内衬套	4
+multiplier factor	乘数因子	4
+oscillation	振荡，振动，摆动	2
+wave normal	波法线	2
+instantaneous shot	瞬发爆破，即发爆破	4
+rheometer	电流计；流变计	2
+minimum firing current	最小发火电流	5
+Askania sea gravimeter	阿斯卡尼亚海洋重力仪	4
+transfer function	传递函数	4
+firedamp explosion	瓦斯爆炸	2
+behaviour level	行为水平	1
+descriptor	标码，描述符	2
+electrostatic field	静电场	1
+crowfoot	吊索；三脚架，三脚钉	1
+normal fault	正断层	2
+contact force	触点压力	3
+isometric line	等角线，等距线；等容线	4
+aggregation	聚合；聚集体	4
+declutch	分离，脱开	4
+acquisition	目标定位	2
+strontium barium niobate	铌酸钡锶	4
+hermetic seal	密封接头；真空密封	5
+PP (polypropylene)	聚丙烯	3
+infiltrometer	测渗仪，渗透计	5
+shoulder die	肩模	5
+technological procedure	工艺规程	4
+self-organizing machine	自编机	4
+free surface	自由面	2
+value series	数值系列	4
+explosive consolidation	爆炸固结	1
+Brewster's angle microscopy	布儒斯特角显微技术	2
+mass-transfer regime	传质状态	5
+velocity determination	速度测定	4
+response criterion	反应标准	4
+lubricant	润滑剂	2
+hot-stamp printing	烫印	3
+limits of size	极限尺寸	1
+channel precipitation	河床降水量	5
+Jurassic Period	侏罗纪	4
+induced electromotive force	感应电动势	3
+lava-covered area	熔岩区	1
+multiplication sign	乘号	5
+reaction time	反应时间	1
+spotlighting	聚光照明	2
+sliding surface	滑面	2
+fidelity smoothing function	逼真平滑函数	4
+axis of stress	应力轴	2
+extensional stiffness	抗拉刚度	5
+fractionate	分馏；分级	4
+electromechanical device	机电装置	5
+fibrous powder	纤维状粉末	1
+disposal cap	废弃雷管	1
+reversible shear thickening	可逆剪切增稠	5
+baroceptor	气压传感器，压力感受器	5
+rhyolite	流纹岩	3
+monosize powder	单粒度粉末	4
+yield of well	单井出水量	5
+metamorphic rock	变质岩	2
+absolute temperature	绝对温度	3
+unstable equilibrium	不稳平衡	3
+triangular secant	三角正割	1
+bullet impact test	射击感度试验	1
+laser strengthening	激光加固	1
+synthetic unit hydrograph	综合单位过程线	1
+suction	空吸；吸力	3
+beta particle	β粒子	3
+falling rock	落石	5
+hard-facing	表面硬化；硬质焊敷层	3
+cyclohexanone	环己酮	5
+stratum	层；地层	4
+thermit	铝热剂，发热剂	5
+river channel cross-section	河道横断面	5
+integral equation	积分方程	1
+pelletize	粒状化	5
+order of units	位数	1
+environmental geology	环境地质学	1
+anemometer	风速表，风力计	5
+principle of optimality	优化原理	3
+Poisson distribution	泊松分布	2
+heading	掘进工作面；导坑；平巷	2
+antifriction	减摩，抗摩	5
+auxiliary equipment	辅助设备	5
+quality supervision	质量监督	1
+shearing	剪切	1
+characteristic equation	特征方程	2
+involutory matrix	对合矩阵，对合阵	4
+Gibbs energy	吉布斯能量	5
+centring	合轴调整；对心调整	4
+bioceramic	生物陶瓷	5
+grain growth inhibitor	晶粒生长抑制剂	3
+bleeder	分压器，漏泄电阻；放出阀	4
+amplifier	放大器，扬声器；增压器	4
+logarithm	对数	5
+opal	乳白色玻璃	3
+true pressure	有效压力，真实压力	3
+higher derivative	高阶导数，高阶微商	5
+pyroclast	火山碎屑	1
+dynamic standardization	动态标准化	3
+structural joint	构造节理	4
+vortex flow	涡流；有涡运动	4
+compute sign	运算符号	2
+sensitiveness	敏感度，灵敏性	3
+refrigeration	制冷；制冷设备	5
+plaster	烧石膏；灰泥	3
+inductance	电感；感应系数	1
+free wave	自由波	5
+algebraic sum	代数和	5
+knot	节；结；结点	1
+built-up terrace	堆积阶地	5
+punch	冲床；冲头；凿孔器	3
+vibrating body	振动体	3
+coal dust test	煤尘试验	1
+sealer	保护层；封口机	1
+pore-space distribution	孔隙空间分布	5
+working effect	做功效应	5
+uniform magnetic field	匀强磁场	3
+control electrode	控制极	5
+general distance	一般距离	5
+black spot	黑斑；黑子；盲点	1
+dust seal	防尘密封；尘封	4
+smart lens	智能晶状体	2
+consutrode	自耗电极，消耗电极	5
+Euler differential equation	欧拉微分方程	4
+fragmented powder	碎片状粉末	1
+smoke dust	烟尘	2
+distribution chart	分配图	2
+soil structure	土体结构	1
+McLeod gauge	麦克劳德真空计	3
+motor schema	动作图式	3
+random sampling	随机抽样	2
+long-shaped matrix	长形矩阵	5
+sealing edge	封边，密封唇口	2
+logging	记录；测井	3
+echo	回声；回波，反射波	3
+instantaneous velocity	瞬时速度	4
+amplification	放大，增强	2
+pressure water	承压水	5
+known point	已知点	5
+magnetic declination	磁偏角	2
+size frequency	粒级频率	4
+deflation	风蚀；跑气	2
+Laplace transform	拉普拉斯变换	4
+achromaticity	消色差性，无色	3
+aristostigment	改进型高斯镜头	5
+crustal stress	地应力	1
+absorptiometer	吸收比色计，（液体）溶气计，吸气计	3
+accuracy	准确性，精度	1
+hexagon	六角形，六边形	2
+geothermics	地热学	4
+bottleneck theory	瓶颈理论	1
+regression coefficient	回归系数	3
+Devonian System	泥盆系	2
+electric detonator	电雷管	3
+BLF (bright-line finder)	亮框取景器	2
+performance	性能；执行，完成	4
+closure liner	封闭物内衬	5
+forward characteristic	正向特性	4
+kilocalorie	千卡，大卡	2
+real number	实数	1
+abridged spectrophotometer	滤色光度计	2
+design brief	设计大纲	2
+drill jumbo	钻孔台车	1
+secondary seal	二次密封	2
+shaped charge	聚能装药；成形装药	3
+neutral stability	中性稳定	5
+double-broken line	双折线	5
+spectroscope	分光镜	1
+endosmosis	内渗透	1
+Sherwood number	舍伍德数	5
+geothermal anomaly	地热异常	5
+coherent optical source	相干光源	1
+banket structure	板状构造	5
+unit hydrograph	单位过程线	5
+compensation	补偿；平衡，校正；补偿棱镜	5
+carbon fin	散热片；燃烧舱	1
+complete detonation	完全爆轰	4
+compressional wave	压缩波；纵波	1
+centrifuge	离心器，离心机	3
+open circuit	断路；开路	4
+neutral rock	中性岩	1
+deposit	沉积；矿床	1
+force vector	力矢量	3
+strike	走向；刮板	3
+memory stick	记忆棒	2
+internal stress	内应力	1
+lux	勒克斯	3
+redundancy	多余度；多余信息	3
+surrounding rock	围岩	5
+basement mapping	基底绘图	3
+internal circuit	内电路	2
+symmetrical twin	对称线对	3
+event memory	事件记忆	5
+sediment runoff	输沙量	1
+power distribution panel	配电盘	2
+coal dust	煤尘	3
+global optical flow	整体光流	2
+accelerating lens	加速（电子）透镜	2
+air valve	空气阀	1
+reliability test	可靠性试验	2
+silicon photocell	硅光电池	2
+hole depth	炮孔深度；孔深	3
+transposition	调换，换位；移项	2
+technological standard	工艺基准	1
+fumigant	熏蒸消毒剂，烟熏剂	1
+CA (cellulose acetate)	醋酸纤维	3
+apex angle	顶角	5
+molecular cybernetics	分子控制论	1
+electric particle	电粒子	4
+condenser	冷凝器；电容器；聚光器	3
+cube-in-water method	水中方块试验法	2
+Triassic System	三叠系	5
+hydrodynamic force	流体动力	4
+octahedron	八面体	3
+sign of inequality	不等号	1
+anisotropic soil	各向异性土	5
+Carboniferous Period	石炭纪	2
+flow concentration	汇流	4
+score	压痕，划痕；刻痕；划线	3
+analogue-digital converter	模-数转换器	1
+implementation of standards	标准实施	5
+drafting instrument	绘图仪	3
+truncation error	截断误差	1
+shock wave	冲击波，激波	5
+block diagram	方块图	4
+packed developer	包装显影剂，显影成药	2
+yoke plate	轭板	1
+lattice	栅格；晶格；点阵	3
+partial molar free energy	部分（局部）摩尔自由能	3
+after gas	炮烟，爆后气体	1
+division	除法；分度，刻度	2
+integer	整数；统一体	2
+increment	增量；余差；增长	1
+crown height	圆弧高度	4
+full section view	全剖视图	4
+streak	条纹；矿脉	2
+eyepiece	（接）目镜	2
+hornstone	角岩	3
+inertial moment	惯性矩	1
+physical vapour deposition (PVD)	物理汽相沉积	5
+pallet	棘爪；集装箱；制模板	4
+probability density	概率密度	2
+normal vertical line	正垂线	5
+boundary work	边界功	4
+explosive	炸药，爆炸物	5
+hot pressing	热压	4
+choke ring	阻塞环	5
+inspection rule	检验规则	5
+soft-magnetic property	软磁铁性能	1
+U-ring	U形垫圈	5
+lateral circulation	横向环流	5
+electrodeposition	电镀；电解沉淀	4
+demarcation point	分界点	2
+incident light	入射光	5
+CFC (chlorinated fluorocarbons)	氟利昂	2
+far-infrared	远红外	1
+camera mount	照相机架，摄像机支架	4
+certified reference material	标准物质，标准参考物质	4
+surface shear viscosity	表面剪切黏度	1
+sample	试样；采样，抽样	5
+coal tub	矿车	3
+computerized management and retrieval of normative documents	标准文献计算机管理与检索	2
+disjoining pressure isotherm	分离压力等温线	1
+outgassing rate	出气率	2
+granulite	麻粒岩	4
+PMP (probable maximum precipitation)	可能最大降水	2
+leak detector	检漏器	4
+safety fuse	安全导火索；保险丝	1
+changeover	转换，变换；转接设备	1
+adsorbent	吸附剂，吸附物质	4
+indefinite integral	不定积分	5
+segment	段；弓形；扇形体	2
+range	范围；列；射程，距离	5
+bleed	排泄孔，（放气）阀	3
+thermoforming	热成型，热压成型	1
+binormal	副法线，次法线	3
+magnetic induction intensity	磁感应强度	2
+barrier material	阻隔性材料	3
+migration	移动，迁移	3
+gas film	气膜	4
+anastigmat	消像散透镜，消像散镜组	3
+broach	拉刀；拉削	4
+radiation	辐射；放射线，辐射能；辐射状排列	5
+drainage basin	流域	2
+mole mass	摩尔质量	5
+stress condition	应力状态	1
+penetration rate	机械钻速	1
+puncture resistance	耐破坏性，抗穿刺性能	1
+alloyed powder	合金粉	1
+manometer	压力计，压力表	2
+kinetic friction	动摩擦	5
+consistency	相容性；稳定（性）；稠度	3
+residual explosive	剩余炸药	4
+semiparabola	半抛物线	3
+space rectangular coordinate	空间直角坐标	4
+concave lens	凹透镜	2
+inverse hyperbolic sine	反双曲正弦	1
+fluidized mixing	流化混合	4
+welding wire	焊丝，焊条	2
+parallel force	平行力	2
+gasket	垫片；密封垫	1
+hypersphere	超球面	1
+hyperbolic cylinder	双曲柱体	3
+charging valve	充气阀；加液阀	1
+massive structure	块状构造	1
+flexural modulus	弯曲系数	5
+decelerator	减速器，减速装置	5
+carbonate mineral	碳酸盐矿物	4
+image distortion	影像畸变	4
+skate conveyor	滑道输送器	3
+lithosphere	陆界，岩石圈	2
+isohypse	等高线	3
+valve leak	阀泄露	4
+disintegration	分裂；裂变	5
+sequential method	逐次逼近法	3
+luminosity	亮度；视亮度	4
+coefficient of restitution	恢复系数	2
+inertia force	惯性力	4
+disorder-order transition	无序-有序转换	1
+contact load	触点负荷	4
+aquiclude	含水层；隔水层；弱透水层	1
+sensitivity button	敏感度按钮	4
+gaseous state	气态	3
+shaft	轴；柱；竖井	3
+normal cone	正圆锥，正锥体	2
+detonation wave	爆轰波	5
+activation energy	激活能	4
+Caledonoid movement	加里东运动	2
+partially alloyed powder	部分合金粉	4
+absolute gauge	绝对压力表	5
+RSC (regular slotted container)	规则开槽容器	4
+back	背面；顶板	1
+image editing	画面编辑	4
+defective rate	废品率	3
+critical point of explosion	临界爆点	3
+anneal	退火；转色	5
+optimum structure	最佳结构	5
+induction	感应，感应现象；进气	2
+colour coding	颜色编码	3
+bottom priming mortar test	臼炮反向起爆试验	5
+electric field	电场	3
+quality assurance system	质量保证体系	3
+nuclear fission	核裂变	2
+direct current bridge	直流电桥	2
+adjusting method	试射法；调整方法	2
+HCF (haze cut filter)	去雾镜	3
+sliding vector	滑移矢量	3
+compressive stress	压应力	5
+three-coordinate measuring machine	三坐标测量仪	5
+calliper	（材料）厚度；卡尺	1
+frequency converter tube	变频管	5
+warm flow compaction	流动温压	5
+triple prism	三棱镜	2
+series relay network	继电串联网路	1
+scattering stones	飞石	2
+magnitude	量值；程度；量；长度	1
+base quantity	基本量	2
+sensor	传感器；敏感元件；遥感器	4
+polarogram	极谱图	1
+reaction	反力；反向辐射；反应	2
+serviceability	操作性能	2
+initial kinetic energy	初动能	4
+shape analysis	形体分析法	2
+dispersion	弥散，色散；离差；分散体	2
+random vector	随机向量	3
+aperture	孔径，光圈；孔，隙缝	4
+elongation	延长；延伸率	3
+flame coolant	消焰剂	5
+lapse rate	递减率	1
+isotropic light source	各向同性光源	2
+interference colour	干扰色	1
+sonar	声呐；声波定位器	4
+d'Alembert's principle	达朗贝尔原理	1
+burn cut	直眼掏槽，线形掏槽	3
+capillary pressure	毛细压力	4
+detonability limit	爆轰界限	3
+magnifying power	放大率	1
+volume	体积，容量；音量	2
+hydrograph	水文过程线；水文图	5
+instantaneous speed	瞬时速度	1
+blister packaging	泡罩包装	5
+square array	方阵	1
+ignition	点火；起爆	3
+apparent resistivity	视电阻率	4
+photoetching	光刻	4
+detonating fuse	导爆索	5
+neutron	中子	4
+reservoir	水库，蓄水池；贮存器	4
+ball milled powder	球磨粉	3
+efferent neuron	运动神经元	1
+irrational equation	无理方程	5
+surface blasting	露天爆破；表面爆破	1
+seaquake	海震	4
+elementary tissue	基本组织	2
+commonality	通用性	5
+linear component	线性元件	4
+finite difference equation	有限差分方程	3
+Jurassic System	侏罗系	5
+time factor index	时间因素指标	2
+technical drawing	技术制图	2
+allowance	余量；公差	2
+gneissose texture	片麻状构造	2
+remanent magnetization	剩磁	4
+digital versus analogue	数字与模拟	2
+lock washer (LKWASH)	锁紧垫圈	5
+supporting ring	支承环	4
+line of reference	基准线，参考线	3
+break-through time	漏过时间	3
+static hot pressing	静力热压	1
+accelerograph	地震加速度记录仪；自记加速计	5
+natural coordinate	自然坐标	1
+water jet method	射水法	1
+static determinate base	静定基	1
+banded chroismite	条带状混合岩	4
+algebraic curve	代数曲线	2
+long-term memory	长时记忆	5
+Euler's formula	欧拉公式	3
+osmosis	渗透	3
+elastomer	人造橡胶；弹性体；高弹性塑料	1
+gobo	遮光片，遮光布；（传声器）遮声障板	3
+vector matrix	向量矩阵	2
+silicified wood	硅化木	5
+electroencephalogram (EEG)	脑电图	4
+residual gas analyzer	剩余气体分析器，残气分析器	4
+chrominance	色度，色品	5
+ion desorption	电解吸	1
+dynamic stress	动应力	5
+light amplification	光放大	1
+agglutinant	凝集剂，促凝物质	5
+Curie's law	居里定律	5
+high-temperature plasma physics	高温等离子体物理学	5
+ASE (automatic stabilization equipment)	自动稳定装置	2
+pattern recognition	模式识别	5
+converter	转换器，变频器；转换反应堆	4
+equality	等式；相等	2
+copolymer	共聚物	1
+boiler	锅炉；蒸发器，蒸煮器	3
+streambed degradation	河床加深，河床刷深	1
+energy budget	能量收支	1
+wave motion	波动	5
+subunit	亚基；子群	2
+tunneling blasting	隧道掘进爆破	2
+velocity-area method	流速面积法；速度面积法	5
+residual current	剩余电流	3
+afterflow	残余塑性流动	5
+Zener diode	齐纳二极管，稳压二极管	3
+electrical prospecting	电法勘探	5
+filler ring	填充垫圈	2
+organic model	有机结构	1
+open traverse	支导线	3
+seal	密封；封口；密封装置	3
+muscovite	白云母	1
+ice jam blasting	冰凌爆破	1
+bull's eye	凸透镜；牛眼灯；小圆窗	5
+filling ring	装粉环	1
+Nyquist diagram	奈奎斯特图	4
+ocular	目镜	5
+piezometric surface	测压管液面；测压面	5
+coal face	煤层开挖面	4
+partial differential	偏微分	4
+thermoplastic	热塑性塑料	2
+non-deforming film	不变形胶片	4
+proactive interference	前摄干扰	2
+migmatite	混合岩	5
+singleton	单独存在物	5
+artificial pacemaker	人工心脏起搏器	5
+second-delay blasting cap	秒差雷管	3
+turbidity	浑浊度，浑浊性	5
+true dip angle	真倾角	4
+cartridge coupler	药卷连接器	1
+TLR (twin lens reflex)	双镜头反光照相机	2
+sintered piston ring	烧结活塞环	2
+Bayard-Alpert gauge (BAG)	B-A型真空计	4
+sunk cost bias	陷落代价偏见	3
+mudstone	泥岩	5
+bombard	轰击	2
+styrene-acrylonitrile (SAN)	苯乙烯-丙烯腈	5
+thickness	厚度；稠度	5
+information classifying and coding standardization	信息分类编码标准化	4
+lead-in chamfer	引入斜面	4
+magnetic flow	磁流	1
+direct stress	正应力	2
+central potential	中心趋势	1
+algebraic law	代数定律	4
+fusion	熔化；熔合；聚变	2
+karst cave	岩溶洞，喀斯特溶洞	5
+particle accelerator	粒子加速器	3
+ANFO loader	铵油炸药装药器	2
+constant term	常数项	5
+Silurian Epoch	志留世	4
+porous material	多孔材料	4
+calcite	方解石	1
+holocrystalline	全晶质	3
+geophone	地音探听器，地震检波器	2
+primary joint	原生节理	4
+dispersion strengthening	弥散强化	5
+induced mutagenesis	诱变	5
+kerf	锯槽；切口；掏槽	3
+crystalline grain	晶粒	4
+globular powder	丸状粉	4
+particle dynamics	质点动力学	2
+clearance detector	间隙探测器	2
+descriptor index method	叙词法	1
+real axis	实轴	4
+associative inhibition	联想抑制	3
+standard for structure elements	机械结构要素标准	3
+spectrum tube	光谱筒	3
+undo and redo commands	不做与重做指令	2
+safety test	安全试验	4
+equivalent transverse shear force	等效横剪力	5
+injection blow moulding	注射吹塑成型	2
+exposure index (EI)	曝光指数	2
+nuclear resonance magnetometer	核子共振磁力仪	2
+odd approximation	奇次逼近	4
+flight conveyor	链动输送器；刮板运输机	3
+ampoule	安瓿	2
+charge limit	临界药量	2
+apparent density	表观密度	2
+bar	巴；杆；接条	4
+extraneous electricity	外来电	1
+stone-dust barrier	岩粉棚	2
+rock dust	岩粉	3
+inked drawing	底图	5
+end organ	灵敏元件，传感器终器	1
+conservation law	守恒定律	4
+constant term finite series	常数项有限级数	2
+normal distribution	正态分布	4
+pilot tunnel	（超前）导洞	3
+PT (point of tangent)	圆直点	2
+spherical surface	球面	3
+booster	传爆管；助爆药；助推器	5
+flip-flop	触发电路，触发器，双稳态多谐振荡器	1
+AFT<sup>1</sup> (audio-frequency transformer)	音频变压器	3
+film plane	胶片平面	4
+capsulation	密封，胶封	3
+bearing capacity	承载力	4
+cylindrical hole	圆柱孔	5
+workload	工作负荷	5
+anaglyph	立体影片；立体彩色照片；补色立体图	2
+analogy	模拟；类比	4
+enzyme reaction	酶反应	2
+laminated packaging	层压复合材料包装	2
+force-balance model	力平衡模型	1
+vertical face	铅垂面	1
+chronophotograph	连续照相	5
+roof hole	顶板炮孔；上向炮孔	4
+absolute value	绝对值	2
+edge	边，边缘；棱；刃	4
+single action press	单向压机	2
+beam current	射束电流，电子束电流	2
+perpendicular	垂线，垂直面；垂线尺	5
+pressure-sensitive depth controller	压敏深度控制器	5
+stamped density	捣实密度	2
+circulator	循环小数；循环电路	4
+approximating function	逼近函数	3
+axial tensile stress	轴向拉伸应力	4
+fault contact	断层接触	5
+phase composition	相组成	1
+regular polyhedron	正多面体	5
+biochemical rock	生物化学岩	4
+leapfrog method	跳步法	3
+standard project flood	标准设计洪水	2
+infinite series	无穷级数	1
+magnetic field intensity	磁场强度	2
+D&P (developing and printing)	冲洗印	1
+Newton second law	牛顿第二定律	3
+osculating plane	密切（平）面	2
+integral	积分；整体；整数	5
+negative electrode	负极	2
+pitching fold	倾伏褶皱	3
+law of composition	组合法则	2
+unconfined aquifer	非层压含水量；无压含水层	1
+convolution integral	卷积积分	5
+time of concentration	集水流时间	2
+terrestrial pole	地极	3
+fill-flash	辅助闪光	4
+pressing tool	压制模具	5
+thermoelectric couple	热电偶，温差电偶	1
+pixels per inch (PPI)	每英寸像素	2
+lining	内衬，衬套；衬垫	2
+acceptable part	合格部件	4
+extrusion bonding	挤出黏合	5
+derivative	导数，微商；衍生物	3
+stator	定子；定片	2
+knowledge of results	结果知识	4
+eddy-milled powder	旋涡研磨粉末	4
+ultimate value	极值	3
+subjective measurement	主观测量法	3
+wetting agent	润湿剂	2
+powder extraction technique	粉末提取冶金制法	1
+wedge	楔子；楔形，楔形物；劈	2
+lagoon	泻湖；咸水湖	5
+meander	曲流	2
+identification system for organization registration code	组织机构代码标识制度	5
+behaviour modification	行为矫正	4
+shell of negative curvature	负曲率扁壳	4
+bench	台；台式车床；阶地；底层平台	1
+radial	射线；放射部；径向的	1
+E-flute	E型槽	2
+pore leak	孔隙泄露	4
+ghost	叠影；鬼线	2
+soft packing	软填料,柔软填密料	4
+overturning of beds	地层倒转	2
+one circle goniometer	单圈测角仪	1
+ring	垫圈；环；环形电路	4
+manufacturer's joint	接头	1
+accumulative effect	积累效应	5
+insert	插入件；嵌入	1
+inspection lot	检查批	1
+pollutant discharge standard	污染物排放标准	1
+anaberration	消像差	5
+intergrowth	共生	3
+ash content	灰分，含灰量	4
+drainage	排水（法）；排水区域	3
+filling shoe	装粉靴	4
+menu design	菜单设计	2
+net point	网格点	4
+electroforming	电铸型	5
+immunoaffinity chromatography	免疫亲和层析	1
+multilayer adsorption	多层吸附，多分子层吸附	3
+aleuritic texture	粉砂结构	4
+hydraulic strengthener	液压助力器	1
+capacitor	电容器	1
+multiple tool	多工件压模	4
+TOPS (total optimization packaging software)	包装结构全面优化设计软件	3
+corrugator	瓦楞板轧制机	3
+gravitational acceleration	重力加速	4
+administrative standard	管理标准	1
+universe product code (UPC)	通用产品代码	4
+receiving behaviour	受爆性能	4
+programme of integrated standardization	综合标准化纲领	3
+final force	末力	1
+molecular weight	分子量	4
+filled stoping	充填回采法	1
+action cycle	工作周期，操作循环	3
+filling height	装粉高度	1
+trochoid	旋轮线；次摆线	2
+afocal	远焦的，焦外的	4
+stack	叠加；暂存器；通风管，排气管	4
+grizzly blasting	溜井爆破；格筛爆破	5
+projection drawing	投影图	5
+symmetric line	对称线	4
+transfer of water vapour	水汽输送	1
+rod	杆；手柄，连杆；标尺	2
+constrained motion	约束运动	3
+dyne	达因	4
+fall-off of energy	能量衰减	1
+shear viscosity	剪切黏度	5
+Oligocene Epoch	渐新世	1
+skid wooden box	滑木箱	4
+graded bedding	递变层理	5
+pedal line	垂足线	5
+drag structure	牵引构造	1
+lysozyme	溶菌酶	1
+die slotting machine	冲模插床	1
+cross-stone	十字石	2
+risk criterion	风险标准	2
+powder	火药；粉末	3
+decompressor	减压器，减压装置	5
+quota man-hour	定额工时	5
+homoeostatic system	内环境稳定系统；自体调节系统	5
+voltage strength	电压强度	2
+bottom punch	下模冲	1
+arbitrary value	任意值	3
+exaltation	精炼；超加折射	3
+cage	罐笼；升降机箱；罩	3
+graben	地堑	5
+divergent series	发散级数	4
+charge neutrality	电中和	5
+divergence	散度；发散；偏差	4
+Pythagorean theorem	毕达哥拉斯定理，勾股定理	4
+steady-state viscosity	稳态黏度	3
+conductively-closed	绝缘的；屏蔽的	1
+peak time	峰值时间	4
+parametric variation	参变量	2
+fringe area	干扰区	4
+warm compaction	温压	2
+aftercure	后硫化，二次硫化	3
+critical coefficient	临界系数	5
+negative number	负数	5
+stability	稳定性；耐久性，牢固度	4
+parabolic coordinate system	抛物坐标系	1
+dihedral angle	二面角	4
+coagulator	凝结剂；凝结器	4
+coordinate	坐标	5
+loose soil	松散土	1
+free running	空转；滑行	4
+xenolith	捕虏体	3
+dependent variable	因变量，因变数，相关变量	5
+parallax error	视差错误	2
+PVD (physical vapour deposition)	物理汽相沉积	1
+primary colour	基色，原色	1
+oblique line	斜线	2
+slinger ring	吊环	2
+resonant vibration	共振	5
+watt	瓦（特）	3
+virtual leak	虚漏	5
+computer-aided design (CAD)	计算机辅助设计	4
+diffuser	漫射体；扩散器	1
+bulk phase	体相	2
+input channel	输入通道	3
+accelerated motion	快动作镜头；加速运动	5
+abatement	减少；切除	4
+plane analytic geometry	平面解析几何	1
+permitted explosive	许用炸药，安全炸药	5
+parametric interpolation	参量插值法	3
+binomial	二项式	4
+overburden	覆盖层；过载压	2
+pictorial diagram	直观图	4
+electric energy	电能	2
+designation	指定；代号；名称	5
+load	载荷；装载；内存	3
+V-ring	V形垫圈	4
+linear low-density polyethylene (LLDPE)	线性低密度聚乙烯	3
+processing	加工，处理，作业	5
+composite seal	混合密封	5
+bisection	平分，二等分	5
+bulb	球状物；灯泡；真空管	1
+compacting by vibration	振动成形	2
+extrusion blow moulding	挤出吹塑成型	1
+rising limb	涨水段	2
+tension stress	拉张应力	2
+bag-in-box (BIB)	无菌包装袋，盒中袋	4
+ganglion	神经节	5
+relative motion	相对运动	3
+smeared image	模糊图像	4
+flux	通量；磁通；熔剂	5
+pyramid	棱锥体，锥形	4
+angle(d) cut	斜孔掏槽，楔形掏槽；斜角切割	3
+performance-resource function	绩效-资源函数	2
+sound-absorption factor	吸声因数	5
+latent heat of evaporation	蒸发潜热	4
+phonological store	音素贮存	3
+sound-control technique	声控技术	3
+coulomb force	库仑力	4
+exciting energy	点火能量	2
+irregular powder	不规则状粉末	1
+eddy current	涡流	2
+ABS (acrylonitrile-butadiene-styrene)	丙烯腈-丁二烯-苯乙烯三元共聚物	5
+conditional probability	条件概率	3
+oleyl alcohol	油醇	4
+detrital mineral	碎屑矿物	4
+recoil nucleus	反冲核	4
+negative charge	负电荷	5
+sequence prediction algorithm	序列预言算法	1
+ice sheet	冰盖；冰盾	3
+seepage	渗漏，渗出；渗出物	2
+temperature amplitude	温度振幅	3
+minimum firing energy	最小发火能量	1
+working place	工作面，开挖面	1
+differential of high order	高阶微分	3
+feedback	反馈，回输	4
+tearing strength	撕裂强度	2
+expansion	膨胀；扩大；展开；扩张物	2
+rock-bed	岩床	3
+percolation pressure	渗透压力	4
+conditioner	调节器；调理剂	3
+coefficient of reflection	反射系数	5
+foundation	地基，地脚；座，基座	4
+curved-fitting method	曲线拟合法	5
+slotter	插床	5
+decimal	小数，十进小数	3
+returnable container	可回收容器，通用容器	3
+key horizon	标志层，标准层位	3
+bleeding	渗色；放气；分级加热	4
+width series	宽度系列	2
+statics	静力学	4
+neutral	中线；中性物质；中性的	5
+dry seal	无油密封	2
+stemming	炮泥；填塞物	5
+series diode	串联二极管	2
+trigonometric function	三角函数	3
+centred average	中心平均	3
+magnetic pole	磁极	5
+lower punch	下模冲	1
+vacuum	真空，真空度；真空装置	1
+amidol	阿米多，二氨酚显影剂	1
+face	表面；工作面；晶面；表盘	2
+static friction	静摩擦	5
+normal plane	法平面，法向面	5
+exposure control	曝光控制	2
+chain differential	链式微分	4
+zero position	零位，起始位置	4
+de-to-ac converter	逆变器	2
+internal heat	内热	3
+rinser	冲洗器	5
+transition	转变；跃迁；换接	2
+polynomial interpolating function	多项式插值函数	2
+uniform electric field	匀强电场	5
+energetic particle	高能粒子	4
+triangular cosecant	三角余割	2
+scale dial	度盘秤	4
+microhm	微欧（姆）	2
+presplit blasting	预裂爆破	4
+electrical analogue	电子模拟	1
+platform conveyor	板式输送机，平台运输器	1
+positive dislocation	正位错	5
+compound diode	混合二极管	3
+dynamometer	测力计，功率计	4
+acetate	醋酸盐，醋酸酯	5
+Avogadro's number	阿伏伽德罗数	4
+buzz-stick method	绝缘棒探测法	3
+uniform rotation	匀速转动	4
+core rod	芯棒	2
+plastic strain	塑性变形，塑性应变	2
+involution	乘方；对合	4
+coimage	余像	1
+pulsed plasma	脉冲等离子体	2
+start point	起点	5
+approximate factor	近似因子	1
+explosive compacting	爆炸成形	3
+critical pressure	临界压力	5
+conduit	导管；风道，管道	1
+expanded polyethylene (EPE)	发泡聚乙烯	4
+interaction energy profile	相互作用能剖面	3
+polyurethane (PUR)	聚氨酯	3
+can	密封外壳，外皮；胶片盒	4
+green density of compact	压坯密度	5
+freon baffle	氟利昂障板	4
+base point	基（准）点	3
+retention of configuration	构型保持	5
+equivalent force system	等效力系	1
+stopped-down aperture (SDA)	收缩光圈	2
+extractant	提取剂	5
+artesian basin	自流盆地	4
+conical shell	锥壳	2
+area blasting	多排孔爆破；面爆破；地区通风	1
+relaxation factor	松弛因子	3
+forced layer	受力层	4
+fan cut	扇形掏槽	4
+retracting die	伸缩模	5
+hypersorption	超吸附法	3
+instrument	仪器；工具，器具	1
+prospection	勘探，探矿	1
+physical property	物理性能	2
+common-depth-point shooting	共深度点爆炸	4
+cryogen	冷却剂；低温流体	3
+spiral reel	螺线轴	5
+telemetric system	遥测系统	1
+block caving	矿块崩落法	5
+technological detection	工艺检测	2
+developer	显影剂，显色剂	3
+engineering construction standard	工程建设标准	5
+bond stretching	键伸展	1
+NL (normal lens)	标准镜头	1
+sine curve	正弦曲线	1
+sensitizer	感光剂；敏化剂	4
+redeveloper	再显影液	2
+deuteron	氘核，重氢核	1
+coordinate value	坐标值	2
+single value	单值	2
+analytic geometry	解析几何	4
+luminous flux	光通量	5
+primer cartridge	起爆药包，起爆药卷	3
+Fourier transform	傅里叶变换	2
+negative value	负值	4
+thermal annealing	热退火	4
+hobbing cutter	滚刀	3
+filter	滤光器，滤色镜，滤波器；过滤	3
+effective particle density	有效颗粒密度	3
+service standard	服务标准	5
+centroid	矩心；质心；心迹线	2
+roof	顶板,顶盖	2
+dynamic seal	动态密封	1
+static	静电；静电干扰	3
+hypsometric map	地势图	3
+intensity of magnetization	磁化强度	4
+blind zone	隐蔽层，盲区	5
+electrostatic potential	静电电位	4
+gan(n)ister	致密细晶硅岩；硅石	5
+conversion	换算；转化，转化作用	1
+cut open	剖切	1
+pheromone	信息素，外激素	5
+litre	升	4
+explosive compaction	爆炸压缩，爆炸压实	2
+double scale	二重标度	3
+flash sensor	闪光传感器	1
+closed core	闭合铁芯	5
+aquapulse	水脉冲	2
+oxidized developer	氧化显影液	3
+flank vertical line	侧垂线	3
+striking angle	转角；冲击角	4
+plate tectonics	板块构造学	3
+triple integral	三重积分	2
+muddy structure	泥状结构	5
+bias	偏压；偏差	3
+lumen	流明	4
+kyanite	蓝晶石	5
+linear dependance	线性相关	4
+transcription	转录；副本	3
+skip	箕斗；料车	2
+facies change	岩相变化	5
+base-height ratio	基高比	1
+normal	法线；正交，法向；垂直的	2
+permeance	渗透性；磁导，导磁性	1
+unsaturated zone	不饱和区,不饱和带	2
+binding agent	黏合剂；载色剂	4
+coal dust explosion	煤尘爆炸	5
+atom bomb	原子弹	3
+glory-hole method	漏斗采矿法	5
+mechanical equivalent	机械当量	5
+differential value	差值	4
+pellet	丸粒	5
+delayed sweep	延迟扫描	3
+shower blasting	喷雾洒水爆破	2
+advanced prediction	超前预报	3
+LRB (lens release button)	镜头装卸锁钮	5
+contre-jour	逆光	2
+complete set	成套	5
+multiply	乘	5
+spring	弹簧；板簧；弹起	4
+match board	假型板	4
+intercut	交切镜头；插播	3
+low vacuum	低真空	4
+jackdrill	凿岩机	3
+blast	爆破；鼓风；爆炸气浪	1
+outcrop	露头；爆发	2
+backing condenser	前极冷凝剂	4
+nuclear power	核动力	1
+compression packing	压缩包装	4
+acetic acid	醋酸	3
+identification card standardization	识别卡标准化	2
+low-value	低阶	3
+binding margin	装订边	4
+binomial coefficient	二项式系数	4
+cross conveyor jack	横向运输机千斤顶	3
+apparent particle density	颗粒表观密度	4
+compatibility	兼容性，一致性	3
+free-standing film	独立式薄膜	2
+bottom charge	底部炸药	5
+negative damping	负阻尼	3
+water injection profile	注水剖面	3
+flood peak	洪峰	2
+dip	磁倾角，俯角；电压降	3
+curved face	曲面	1
+coplane projection	同面投影	2
+drop height	跌落高度	4
+scoria	火山渣	1
+grain texture	粒状结构	1
+integration method	积分法	4
+gabbro	辉长岩	5
+distribution curve	分布曲线	2
+automatic identification system	自动识别系统	2
+synchroflash	同步闪光灯	4
+solarspot	聚散光两用照明灯	2
+method of orthogonal coordinates	直角坐标法	5
+acceptor charge	被爆药；接收荷载	3
+intermittent motion	间歇运动	1
+partial pressure	分压力，分压强	3
+open bridge	敞口式桥	3
+poise	泊；砝码；平衡	3
+periodicity	周期性；周波，频率	4
+block diagonal matrix	分块对角矩阵	3
+declivity	倾斜；倾斜面	5
+residual gas	残气，剩余气	5
+confluence	汇流点；聚合	2
+inertia function	惯性函数	2
+series circuit	串联电路	2
+floor ripping blasting	落底爆破，卧底爆破	1
+straton model	层子模型	2
+tilter mixer	倾斜式混料器	2
+abohm	绝对欧姆	5
+springing shot	药壶爆破	2
+effect of standardization	标准化效果	3
+direct method	直接法	4
+blasting equipment	爆破器材；喷砂装置	4
+laser ablation	激光切除	3
+miliolite	糜棱岩，风成细粒灰岩	3
+surfactant penetration	表面活化剂渗透	2
+upper reach	上游（河段）	3
+barricade	隔板；屏蔽墙；缓冲盘	4
+dust-collecting electrode	沉尘极	5
+dashpot	减振器，阻尼延迟器	4
+chance variable	随机变量	3
+converse theorem	逆定理	3
+biomimetic surface polymer	仿生表面活性聚合物	2
+radial interference	径向干扰	4
+cover	套；遮板；冲积层	5
+molecular separation	分子分离	5
+folium	叶线，叶形线	3
+spectrometer	分光计，光谱仪	1
+disturbed magnetic field	干扰磁场	4
+attractive depletion	磁性损耗	4
+velocity of light	光速	5
+linear comparator	线纹比较仪	1
+silicic acid	硅酸	2
+clearance	间隙；容积	2
+agricultural blasting	农业爆破	4
+organic diode	有机二极管	4
+loose blasting	松动爆破	3
+technique to combat decrement	防止水平降低技术	1
+mass	质量；物质	2
+low-temperature plasma	低温等离子体	2
+right-lateral offset	右旋断错	3
+stress function	应力函数	4
+SKU (stock keeping unit)	库存单元	4
+stimulated radiation	受激辐射	4
+general theorem	一般定理	5
+graphic method	图解法	5
+robot actuator	机器人驱动器	5
+fillet	圆角；嵌条；整流片	3
+ion source	离子源	2
+behaviour skill	行为技能	5
+nonagon	九边形	1
+particle	粒子，质点；微粒	1
+drainage divide	分水岭，分水线	4
+probability function	概率函数	1
+fold	褶皱；折叠	1
+kilo-ohm	千欧姆	1
+EI (exposure index)	曝光指数	3
+run-in	磨合运转	2
+first invariant	第一不变量	4
+multiple pressing	多工件压制	4
+space geometry	空间几何学	3
+error of calculation	计算误差	2
+characteristic spectral line	特征谱线	2
+pillow structure	枕状构造	5
+ion exchange reaction	离子交换反应式	3
+collapse breccia	塌陷角砾石	1
+electrostatic accelerator	静电加速器	2
+attention narrowing	注意变狭	4
+bending stiffness	抗弯刚度	4
+surface topography	表面形貌学	5
+nominal voltage	额定电压	3
+stacking conveyor	堆垛输送器	2
+rotational moulding	旋转模铸，滚塑	3
+hydrogen bomb	氢弹	4
+reactive gas	活性气体	4
+conjugate angle	共轭角	1
+subdrilling	先钻，超钻	5
+labeller	贴标机	2
+maximum charge	最大装药量	3
+free-flowing powder	自由流动粉料	2
+negative area	负面积；沉降区	3
+compressor	压缩机，压气机	5
+associative memory	联想记忆	2
+tensile strength	抗张强度，拉伸强度	2
+tensile structure	张拉结构	3
+horizontal belt conveyor	平带运输机；卧式胶带运输机	3
+guidance plan	指导性计划	3
+crolite	陶瓷绝缘材料	1
+cyclohexylamine	环己胺	2
+series resistance	串联电阻	5
+sintered part	烧结零件	1
+bionics	仿生学	4
+chromatographic analysis	色层分析	4
+wet friction	湿摩擦	4
+room and pillar method	房柱式开采法	4
+peridotite	橄榄岩	4
+closure	闭合，闭路；隔板	3
+bottom hole	底板炮孔	5
+radar system	雷达系统	1
+demixing	混合离析；分层	1
+acidite	硅质岩，酸性岩	5
+exposure compensation button (ECB)	曝光补偿按钮	5
+burning	加热处理；过烧；氧化	4
+screening	筛分；遮护	3
+series resonance	谐振	5
+standardization of data communication network	数据通信网络标准化	3
+ABC (automatic brightness control)	自动亮度控制	1
+powder particle	粉末颗粒	4
+focuser	焦距放大镜；聚焦装置	2
+maximum shearing stress	最大切应力	4
+block movement	块体移动	2
+ACC<sup>1</sup> (automatic chrominance control)	自动色品控制	5
+retreat	收缩率；再处理；后退式回采	1
+closed interval	闭区间	3
+thermionic filament	热电子灯丝	2
+pinchout	尖灭	3
+non-linear component	非线性元件	5
+extension principle	扩张原理	3
+terrestrial heat	地热	3
+stagnation point	驻点，滞流点	4
+coefficient of blasting	爆破系数	4
+reference sample	标准样品	3
+vertical coordinate	纵坐标	4
+emergent feature	突现特征	2
+rational fraction	有理分式	3
+reciprocating scraper	往复式刮板输送器	3
+absolute chronology	绝对年代	2
+tectonic movement	构造运动	2
+spiral power spring	发条	3
+radioactive element	放射性元素	5
+coal plough	刨煤机	2
+stationary phase	固定相	5
+biaxial orientation	双向拉伸	1
+divisor	除数，因子；子群	2
+permafrost	永久冻土	1
+tangent	正切；切线	5
+circumscribed circle	外接圆	2
+Permian Period	二叠纪	2
+nearsphere powder	亚球状粉	5
+low frequency	低频	1
+data standardization	数据标准化	5
+process control	过程控制	2
+magnetic method	磁法	2
+adjacent hole blasting	相邻孔爆破	3
+stretch factor	扩散系数	4
+infinite product	无穷乘积	4
+post-exposure	后期曝光	2
+inverted magnetron	倒磁控管	4
+slate	板岩；石板	2
+Newton interpolation	牛顿插值	2
+film stratification	膜分层	4
+activated sintering	活化烧结	3
+filling	填充，装药；充填料	5
+equilibrium condition	平衡条件	4
+evaporant	蒸发剂；蒸发物	4
+breakdown	熔断；击穿；分镜头	4
+Bessel formula	贝塞尔法，贝塞尔公式	3
+exciton	激子	4
+air-driven motor	气控马达	1
+unique solution	唯一解	3
+behaviour rule	行为规则	1
+conductor	导体；导线	1
+shoulder hole	阶梯孔	1
+colour additive viewer	彩色合成仪	4
+instruction	指令；说明	5
+interferometer	干涉仪，干扰计	5
+behavioural psychophysics	行为心理物理学	2
+parabolic arc	抛物弧	3
+co-deposition	共淀积，同时沉积	1
+positioning navigation	定位导航	3
+convolution theorem	褶积定理	4
+geophysics	地球物理学	2
+given segment	已知线段	1
+ring cut method	环状隧道开挖法	3
+hardness	刚度，硬度	5
+dust explosion	粉尘爆炸	2
+depth of field	景深	4
+cell	细胞；电池；元件	2
+serpentinite	蛇纹岩	3
+blasting fume	炮烟	4
+remover	消除剂；脱模剂；排除装置	5
+composition method	合成法	3
+bright-line spectrum	明线光谱	4
+carded packaging	硬片包装	3
+LBF (light balancing filter)	光平衡滤光镜	4
+hyperbolic function	双曲函数	1
+decoupling effect	不耦合效应	5
+normal lens (NL)	标准镜头	3
+series-parallel circuit	混联电路	2
+dimension standard	尺寸基准	4
+measurement	测量；度量制；容量	2
+symmetry	对称	2
+incoming ray	入射光	3
+fuel	燃料；加燃料	4
+basement lithology	基底岩性	5
+viscous flow	黏滞流，黏性流	2
+suspension method	悬挂法	2
+code design	编码设计	2
+normative document service	标准文献服务	4
+axonometric drawing	轴测图	2
+static pressure	静压力；静压强	5
+sintering inhibitor	烧结抑制剂	4
+integral quantity	积分值	1
+dolomite	白云岩，白云石	1
+net rate	有效率	4
+total internal reflection microscopy	全内反射显微镜方法	3
+morphology	形态学；形态，结构	3
+Steven's law	史蒂文定律	5
+back fill	回填；再次充气	5
+geometric figure	几何图形	4
+waterproof charge	防水药包	2
+sinking and drifting face	井巷工作面	3
+mutual inductance	互感	5
+bionic membrane	仿生膜	4
+visual sampling	视觉取样	2
+centred difference	中心差分	5
+magnetic moment	磁力矩	4
+CRI (colour reversal intermediate)	彩色反转中间片	2
+response factor	反应因素	2
+first-order transfer equation	一阶传递方程	5
+intersection line	相贯线	5
+Euler integral	欧拉积分	4
+direct priming	正向起爆；孔口起爆	3
+waveform	波形；信号波形	5
+reciprocal inhibition	交互抑制	3
+fault	断层；故障，错误	4
+unit effective rainfall	单位有效降雨	3
+overbreak	超挖，超爆	2
+Legendre approximation	勒让德逼近	1
+mechanical oscillation	机械振动	2
+Proterozoic Era	元古代	4
+gas law	气体定律	4
+geology	地质；地质学	1
+corrugating medium	瓦楞原纸	3
+potentiometer	电位计，电势计；分压器	5
+alternate matrix	交替矩阵，交错矩阵	3
+chamfer angle	倒角	4
+duration	持续，持续时间	4
+tectosphere	构造圈	5
+crevasse	冰隙；裂缝	2
+psychrometer	湿度计，干湿表	5
+subtrahend	减数	5
+asymptote	渐近线	4
+enveloping line	包络线	4
+wide space blasting	宽孔距爆破	1
+alternation	交变；半周期	5
+induced mutation	诱导突变	3
+long-term working memory	长时工作记忆	3
+dependability	可靠性	5
+decelerated motion	减速运动	3
+transcendental substitution	超越代换	2
+replisome	复制体，复制颗粒	5
+moisture	水分，潮气，湿度	2
+correlation	相关；相关数	3
+real part	实部，实数部分	3
+ethylene-ethyl acrylic acid (EEA)	乙烯乙基丙烯酸盐	2
+metal powder	金属粉	5
+polypropylene (PP)	聚丙烯	3
+zeolite molecular sieve pump	沸石分子筛吸附泵	5
+bulk packaging	散装；大批量包装	5
+dilution gauging	溶液法测流	3
+product percent of pass	产品合格率	1
+law of conservation of energy	能量守恒定律	1
+pole<sup>2</sup>	极点；磁极	1
+trapezoidal law	（美国）梯形法则	2
+curvature radius	曲率半径	2
+quality liability system	质量责任制	1
+behaviour knowledge	行为知识	5
+linear model	线性模型	4
+optimum value	最佳值	2
+ECS (exposure compensation scale)	曝光补偿刻度	1
+die	冲模；塑模	5
+lead-block expansion test	铅块扩大试验	3
+film opaque	修版液	2
+multiple-cutting-edge tool	多刃刀具	2
+Lagrange's theorem	拉格朗日定理	2
+Garlock oil seal	加氏油封	1
+bellows sealed valve	波纹管密封阀	4
+bandwidth	带宽	4
+perched river	悬河；地上河	5
+equalizing switch	等压开关	1
+active correction	有源校正	2
+grid line	栅格线	3
+transformation principle	转化原理	1
+crown closure	王冠盖	1
+colloid stability	胶体稳定性	1
+diode	二极管	1
+series spectrum	系列型谱	2
+stone bud	石芽	1
+diffusion rate	扩散速率	1
+trapezoidal formula	（美国）梯形公式	4
+chopped infrared beam	红外调制光束	4
+zero-phase effect	零相位效应	5
+image method	镜像法	3
+specific energy	比能；炸药力	1
+transgression	海侵，海进	4
+preliminary survey	初测	2
+migmatization	混合岩化作用	4
+aerospace engineering	航天工程	1
+degree of adoption	采用程度	2
+crossover model	交叉模型	2
+enzyme immobilization	酶固定	5
+lake seiche	湖震，假潮	3
+resistance value	电阻值	5
+press-and-blow	压吹法	2
+capsule	膜片；仪器舱；雷管	3
+diverter resistance	分压电阻	5
+bubble oscillation	气泡振荡	1
+CR closure (child-resistant closure)	儿童安全盖	4
+film strength	膜强度	1
+rubbing	拓印法；摩擦，研磨	1
+magnetic gradient	磁力梯度	5
+flow mark	波痕	1
+covariance	协变性；协方差；共离散	3
+interfacial rheometer	界面流变仪	4
+nonconductor	非导体，绝缘体	5
+frequency domain	频率域	3
+risk perception	风险知觉	3
+hand hammer	手持式风钻	5
+diorite	闪长岩	1
+arc-hyperbolic function	反双曲函数	4
+final value	终值	5
+header	集水管；平巷掘进机；顶梁	3
+approximate number	近似数	5
+snapshot	快镜拍摄；快照	3
+double image point	重影点	5
+weight	重量；砝码；负荷	4
+low pressure limit	低压极限	3
+stray capacitance	杂散电容	4
+achromat	消色差透镜	3
+semi-discrete method	半离散方法	5
+brancart	效果照明装置	1
+even settlement	均匀沉降	5
+EPS (expanded polystyrene)	发泡聚苯乙烯	2
+straight-edge	直尺，直规	5
+artificial intelligence	人工智能	1
+immobilization	固定，定位	2
+cognitive load	认知负荷	5
+collecting aperture	聚光孔径	2
+polar coordinate	极坐标	5
+liquid-liquid interface	液液分界面	5
+vertical prism	垂直棱柱	4
+demodulation	调制解调，检波	2
+transmissible principle	可传性原理	2
+comparative measurement	比较测量法	3
+refractive index	折射率	1
+lug closure	快旋盖	2
+millivoltmeter	毫伏计	5
+law of conservation of matter	物质不灭定律	1
+work conjugate	功共轭	5
+stand-alone flashgun	独立式闪光灯	3
+midpoint	中点，中心值	3
+feldspar	长石	2
+dynamic effect	动力效应	2
+operator	算子，算符	3
+cooling agent	冷却剂；消焰剂	3
+mudcap blasting	覆土爆破；外部装药爆破	3
+normative document	标准文献	1
+reverberation	混响；反射	4
+initial velocity	初速度	1
+open blasting	露天爆破；明挖爆破	1
+membrane theory	薄膜理论	1
+moving frame of reference	动参考系	2
+wavefront method	波前法	1
+thermal weathering	热力风化	2
+information product of normative documents	标准文献信息产品	3
+angle of deflection	偏向角	3
+focus lock	聚焦锁定	5
+partial differential equation	偏微分方程	2
+counterlight	逆光照明	4
+bellows seal	波纹管式密封；膜盒密封	2
+contact measurement	接触测量	1
+compact flash	微型闪存卡	1
+evaporator	蒸发器	3
+celloidin	（火）棉胶,火棉液；赛珞锭	3
+finder	方位仪；取景器，探测器	4
+blackwash	黑色涂料，碳素涂料	1
+positioner	定位器；焊接变位机	4
+variate	变量，变数	5
+one-piece sucker rod	整体式抽油杆	3
+point gauge	测针	3
+silicon	硅	1
+coyote blasting	硐室爆破；大量爆炸	5
+asymptotic line	渐近线	2
+carton-board	折叠纸板，箱板	4
+speech interference level	语言干扰级	1
+digging blasting	掘土爆破；土石方爆破	5
+rational function	有理函数	3
+inflection point	拐点；反曲点，反弯点	2
+antioxidant	抗氧化剂，硬化防止剂	3
+cross hair	交叉丝	3
+brush	刷；电刷	5
+oblique fold	斜歪褶皱	3
+simultaneous linear equations	联立线形方程	1
+blasting agent	爆破剂	1
+LKUP (lockup)	锁住	2
+electric apparatus	电器	4
+centre priming	中心起爆	3
+T-square	丁字尺	4
+voluntary standard	推荐性标准	4
+fault cliff	断层崖	2
+alloy	合金	1
+common difference	公差	2
+long-hole blasting	深孔爆破	4
+fixation	定影	1
+electrostatic force	静电力	4
+time exposure	定时曝光	1
+induced photon	诱发光子	3
+air cushion	气垫	2
+sublevel drift stoping	分段平巷开采法	3
+brain wave	脑电波	1
+proportion	比例；面积	3
+projectile	抛射体；入射粒子	3
+enzymatic activity	酶活性	4
+rotary seal ring	转动密封圈	2
+speed stress	速度应激	5
+concavo-convex	凹凸的	1
+assembly drawing	装配图，总图	2
+motor	发动机，助推器	2
+photoelectricity	光电学	5
+BN (burned out)	曝光过度的	1
+silk screen printing	丝网印刷	4
+screw-on closure	旋盖	1
+rainfall depth-area-duration relationship	雨量时-面-深关系	2
+PCR (post-consumer recycle)	消费后再生材料	4
+susceptance	电纳	3
+disruptive explosive	烈性炸药	4
+water-vapour transmission rate (WVTR)	水蒸气透过率	3
+antimagnetic material	抗磁材料	5
+cryostat	低温恒温器	5
+vacuum metallizing	真空金属喷镀，金属贴面真空法	1
+gelatin(e) dynamite	胶质炸药	5
+determinant	行列式；定子，因子	4
+central projection	中心投影	3
+vertex angle	顶角	1
+ore	矿物，矿石，矿砂	3
+imaginary frequency	虚频，虚频率	1
+superconduction	超导	5
+burst facility	激发设备	2
+internal leak	内泄漏	2
+rotary plunger	旋转柱塞	5
+cuspidal point	尖点	4
+crawler drill	履带式钻车	4
+inverse hyperbolic cotangent	反双曲余切	1
+Maxwell's speed distribution	麦克斯韦速度分布	3
+absorptivity	吸收性；吸收率	4
+faradism	感应电流；感应电应用，感应电疗法	3
+retrieval tool	检索工具	3
+Auger electron spectroscopy	俄歇电子能谱	2
+vertical	垂线；垂直面；垂直方向	4
+high-safety explosive	高安全炸药	4
+cognitive activity	认知活动	5
+scrambled image	失真影像	3
+dead fold	死折叠	4
+technology transfer	技术转让；技术转移	3
+hydromechanics	流体力学，液体力学	5
+chamber blasting	药室爆破	3
+congruence	叠合，汇，同余	4
+hemi-sphere	半球	4
+concrete breaker	混凝土破碎器	3
+groove	槽；纹道；轧槽	3
+funnel	漏斗；通风井	4
+multi-spectral scanner	多光谱扫描仪	1
+polyacrylonitrile (PAN)	聚丙烯腈	5
+lip seal	唇式密封	2
+maximal value	最大值	2
+equilibrium flow	平衡流	5
+adjustable parameter	可调参数	5
+icon	图像	4
+hyperbolic	双曲线的	1
+K-capture	K 俘获	3
+deep-channel viscometer	深道黏度计	3
+potential flow	势流	2
+ratio of transformation	变压比	5
+relative area	相对面积	1
+diluvial deposit	洪积物	5
+recoil	反冲；反冲力，后坐力	1
+built-in self-timer	内置自拍器	3
+antitrigonometric cosine	反三角余弦	4
+seriation	系列化	4
+bearing material	轴承材料	2
+intermediary	媒介，工具；中间形态	4
+welding	熔接，焊接，锻接	3
+straton	层子	5
+real characteristic line	实特征线	5
+surface storage	地面蓄水	2
+evaporite rock	蒸发岩	3
+superconductivity	超导（电）性	5
+biosphere	生物圈	5
+Rydberg constant	里德伯常数	1
+bending deformation	弯曲变形	1
+Laurent series	罗伦级数法	1
+compression elasticity	压缩弹性	1
+polyester (PET)	聚酯	5
+crocidolite	青石棉，钠闪石	2
+rate of work	功率	2
+difference equation	差分方程	1
+MAP (modified atmosphere packaging)	气调包装	2
+remaining charge	残药	2
+rapid excavation&mining	高速射弹掘进法	2
+algorithm	算法，规则系统	1
+directional pressure	定向压力	3
+wind erosion	风蚀	3
+radian	弧度	2
+adverse effect	逆效应，不利影响	2
+recommended standard	推荐性标准	3
+acrylic acid	丙烯酸	4
+reversal distribution	反转分布	3
+standard leak	标准漏孔	4
+atomic nucleus	原子核	5
+metric thread	公制螺纹	3
+up-over bench stoping	仰挖台阶式回采；倒台阶式回采	5
+magnetic bias	磁偏	4
+material intelligence quotient	物质智商	1
+skull	炉瘤；凝壳	5
+duality principle	对偶原理	4
+imaging system	成像系统	5
+commutative law	交换律	1
+confined detonation velocity	约束爆轰速度	1
+match assemble welding	装架焊接	1
+voltage divider	分压器	5
+dissociation	分离，分解	1
+blimp	（摄影机等的）隔音装置；软式飞艇	3
+coal mining ammonium nitrate explosive	煤矿硝酸铵炸药	4
+wear-out	耗损	1
+emulsifying ability	乳化性，乳化力	3
+technical economic index	技术经济指标	5
+dense sintering	致密化烧结	1
+surface runoff	地面径流	2
+perivision	全景镜头	1
+zero point	零点	1
+top view	俯视图	4
+undersize	筛下物	3
+welding steel	焊接钢	1
+pedestal ring	封圈	1
+visual pattern recognition	视觉图像辨认	5
+radical	根，根式；基，原子团	3
+photoelectron	光电子	4
+reach length	河段长度	1
+multilayer compact	多层压坯	1
+rating curve	量特性曲线；水位流量关系曲线	3
+element	元；元素；元件，部件，零件；电池	1
+magnetic forming	磁场压制	5
+driving force	驱动力	1
+survey	勘测；测量，测绘	5
+fume	熏烟，水蒸气；蒸发	4
+multinomial	多项式	5
+fine-grained texture	细粒结构	4
+mineral dust explosion	矿尘爆炸	4
+section area	剖面区域	4
+twisting deformation	扭转变形	1
+magnetization	磁化（作用）；磁化强度	2
+bimodal system	双峰系统	1
+approximate contour	近似等高线	4
+radar	雷达	2
+BAG (Bayard-Alpert gauge)	B-A型真空计	4
+flaw detection	探伤	1
+orientation chart	方位图	2
+enthalpy	焓，热函	3
+discharge	放电；流量；发射	5
+elastic wave exploration	弹性波勘探	3
+emulsion	乳胶；乳剂	5
+coplane straight line	共面直线	4
+dial indicator	刻度盘指示器；千分表	5
+electrolytic corrosion	电解腐蚀	4
+stoping hole	扩槽炮孔；回采炮孔	1
+cyborg	电子人；生控体系统	3
+artificial implant	人工植入物	3
+magnetic fluid	磁流体	1
+weight coefficient	权系数	3
+pawl	棘爪，卡子	4
+duality	二元性；对偶性；二象性	3
+electrical blasting	电力起爆	2
+critical temperature	临界温度	4
+multiple graph	多重图	1
+corundum	刚玉，金刚砂	4
+octagon	八边形，八角形	1
+conveyor	输送器，传送机	5
+modelling	建模，模型化；模型试验	2
+crater	火山口；焊口；坑	3
+adherography	胶印法	5
+lettering	字体，刻字，印字	1
+rubber	橡胶；砂皮	4
+bottom fill	底部充填	4
+mirror line	镜像线	2
+keyway	键槽	3
+complex impedance	复阻抗	4
+visual image	视觉图像	2
+close-spaced vapour transport	闭路蒸汽运输	5
+kurtosis	峰态，尖峰值，峭度	4
+de-magging	脱镁	3
+infracrustal rock	深火成岩	1
+specific value	比值	3
+image formation	成像	3
+refraction	折射，屈光	5
+collision	碰撞；冲击	4
+exposure value (EV)	曝光值	4
+zero exponent	零指数	5
+cushion effect	缓冲效应	1
+tension joint	张节理	3
+wave function	波动函数	5
+swamp deposit	沼泽沉积物	3
+countershaft	副轴	2
+drilling machine	钻机	1
+cap and fuse blasting	雷管导火索起爆	2
+shower	簇射；喷灌；喷水器	1
+Jurassic	侏罗纪，侏罗系	2
+reproducibility	复现性，可再制性	1
+analyzing prism	分光棱镜	3
+Bouguer correction	布格校正	5
+wave train	波列	2
+artificial transmutation	人为嬗变	1
+PA (polyamide)	聚酰胺，尼龙	1
+Reynolds number	雷诺数	1
+coated powder	包覆粉	3
+cylinder cut	筒形掏槽	5
+double mass curve	双累积曲线	4
+falling weight test	落锤试验	3
+corona treatment	电晕处理	2
+hygiene standard	卫生标准	3
+streambed	河床	2
+impact stress	冲击应力	1
+typhon	岩株	3
+reacting force	反作用力	2
+trough conveyor	槽式运输机	4
+positive correlation	正相关	4
+thermoset	热固性	1
+drag	耙斗装岩机；制动器；抗力	1
+polyhedral angle	多面角	4
+circuit test	电路检测；通断试验	4
+conversion factor	转换因子	5
+phyllite	千枚岩	2
+audition	听觉；试听	4
+ground water runoff	地下径流	5
+wave guide	波导；波导管	5
+conduct	导管	3
+depuration	净化；精炼	3
+intersecting body	相贯体	5
+vacuum tube	真空管	2
+driver	驱动程序	4
+neutralization	中和	3
+turning	旋转；车削；车削产品	5
+failure rate	失效率	4
+diapir	挤入体	1
+probability curve	概率曲线	2
+latex particle	胶乳颗粒	3
+irreversible particle flocculation	不可逆粒子絮凝	4
+action line	作用线	3
+submarine blasting	水下爆破	1
+pump truck	泵入式装药车	4
+indeterminacy	不确定性	3
+river regulation	河道整治	5
+conjugate static	共轭静力	1
+grating	光栅；栅格；点阵晶格	3
+kinetics	动力学	4
+centre-weighted metering system	中央均衡测光系统	5
+cam gear	凸轮装置	3
+high-density polyethylene (HDPE)	高密度聚乙烯	5
+Helmholtz free energy	亥姆霍兹自由能	1
+side slope	边坡	2
+mutual inductor	互感器	1
+parallelogram	平行四边形	3
+isosceles right triangle	等腰直角三角形	5
+phase angle	相角	4
+Bessel approximation	贝塞尔逼近	4
+interfacial rheology	界面流变学	3
+star line	星形线	2
+explosive jointing	爆炸压接，爆炸连接	4
+aberration-free	无像差的	4
+sine wave	正弦波	1
+oxygen balance	氧平衡	5
+Newtonian mechanics	牛顿力学	4
+rolling friction	滚动摩擦；轧制摩擦	5
+acoustical frequency	声频	5
+stray current detector	杂散电流测定仪	5
+internal overhang	(载荷)内在悬空	4
+linear accelerator	直线加速器	4
+free azimuth	自由方位	5
+jackbit	钻头	3
+handi-wrap	保鲜纸	3
+butt level	盘区平巷；顺槽	5
+xanthan (gum)	黄原胶	4
+Coriolis acceleration	科氏加速度	2
+electrostatic interaction	静电互作用	1
+glassine paper	玻璃防油纸	3
+rainfall-runoff	降雨径流	2
+impervious area	不渗水面积；不透水区	1
+load stress	负荷应激	4
+comminuted powder	粉碎粉	1
+theorem	定理	1
+flashlight	闪光灯	3
+SBS board (solid bleached sulfate board)	硬性硫酸盐漂白纸板	5
+measurement of fume	炮烟测定	4
+successive overrelaxation method	逐次超松弛法	5
+ignition capacity	点燃性能；喷火性能	5
+penetration	穿透；渗透	5
+focal point	焦点	3
+escape work	逸出功	3
+additive factor	附加因素	2
+forced vibration	受迫振动	1
+coincidence pendulum	符合摆	2
+periodic function	周期函数	4
+accumulator	蓄电池；蓄能器；贮料坑	2
+urea plastic	尿素塑料	2
+physical invariable	物理常量	1
+supervision on implementation of standards	标准实施监督	1
+hydraulic cylinder	液压缸	5
+critical micelle concentration	临界胶束浓度	3
+dosimeter	量筒，剂量仪	3
+voice response	语声反应	4
+pattern primitive	模式基元	1
+Gibbs elasticity	吉布斯弹性	5
+vibroseis	可控震源	4
+stereoscopic microscope	立体显微镜	5
+reciprocal change	互逆变换	1
+focus	焦点；焦距；聚焦	5
+nodal point	节点	1
+crater radius	爆破漏斗半径	1
+trigonometry	三角学	3
+section	断面；断面图；部件，零件；采区	3
+cataclasite	碎裂岩，压碎岩	2
+electron beam	电子束	5
+monoaxial orientation	单向拉伸	4
+principal curvature	主曲率	2
+correspondence	对应	2
+automatic seal	自动密封	2
+flip-down camera bed (FDCB)	照相机前盖	2
+nanosecond	纳秒	4
+Gauss's law	高斯定律	1
+full face round	全断面掘进炮孔组	1
+abreaction	精神发泄	3
+minimal value	最小值	5
+avometer	万用电表，安伏欧计	1
+acrylonitrile-butadiene-styrene (ABS)	丙烯腈-丁二烯-苯乙烯三元共聚物	4
+lip	边缘；刀刃	2
+registration mark	定位标记	1
+tap	抽头；旋塞	2
+acceptable quality level	合格质量水平，验收质量标准	5
+waterproof layer	防水层	3
+console	托架；仪器台，控制台	5
+water table	地下水位	2
+orthostigmat	广角镜头	1
+normal pseudo-approximation	正规假逼近	1
+undulating motion	波动	4
+laminated structure	片状结构	1
+filling position	装粉位置	3
+evaporation	蒸发；脱水	2
+centrifugal compacting	离心成型	1
+module unit	模件；微型组件	2
+distance of distinct vision	明视距离	4
+ultrasonic vibration drilling	超声频振动钻孔	1
+radial load	径向负载	2
+neolite	新石	3
+living body	活体，生物体	2
+homogeneity	均匀性；齐次	2
+silicone oil	硅酮油	2
+non-evaporable getter	非蒸发吸气剂	4
+singular point	奇点	5
+heat conduction	导热，热传导	2
+alluvial fan	冲积扇	3
+cut and fill stoping	充填采矿法	1
+helix	螺旋；螺旋弹簧	4
+normal atmospheric temperature	常温	1
+EEA (ethylene-ethyl acrylic acid)	乙烯乙基丙烯酸盐	4
+hue	颜色；色调，色度	5
+closing valve	隔离阀，节制阀	5
+automatic fine tuning (AFT)	自动微调	5
+fender	保护板；隔离装置	2
+coincident measurement method	符合测量法	4
+approximate method	近似法	1
+mass loss	质量亏损，质量损失	3
+chromatic aberration	色（像）差	3
+polyhedron	多面体	5
+concavo-concave	双凹形的	2
+bound water	结合水	4
+critical decoupling	临界不耦合	2
+mapping	地图制图；映射	5
+hydraulic rock drill	液压凿岩机	5
+filling weight	装粉重量	1
+circuit tester	电路检测仪；爆破电路试验仪	4
+rectifier	整流器；检波器；纠正仪	3
+electromagnetic spectrum	电磁波谱	3
+surface diffusion	表面扩散	3
+failure criterion	失效标准，失效判据	1
+statically admissible state	静力可能状态	3
+explosive cladding	爆炸压合，爆炸复合	4
+composite test	组合试验	5
+intelligent agent	智能因素	4
+compensator	补偿器；调相器；补偿棱镜	4
+open loop	开环	4
+laminar flow	层流	2
+gravity	重力，引力；重量	4
+ballast	镇流器；石碴；压载物	1
+centripetal force formula	向心力公式	5
+rational formula	有理式	3
+length-width ratio	长宽比	5
+electrical survey	电法勘探	5
+self-maintained discharge	自持放电	5
+sympathetic detonation	殉爆	3
+intensity of illumination (IOI)	照明度	5
+spectrum analysis	光谱分析	2
+included angle	夹角；焊缝角	2
+parallel connection	并联	3
+machine intelligence	机器智能	1
+phantom study	仿真研究	3
+return stroke	回程	4
+rotary-vane vacuum pump	回转叶片式真空泵	2
+cutting tool	刀具	4
+cross conveyor	横向输送器	4
+Chebyshev approximation	切比雪夫逼近	4
+fuse cutter	导火索剪断器；导火索割刀	1
+voltage meter	电压表，伏特计	1
+indexed projection	标高投影	5
+drum	圆桶；鼓轮；柱状物	3
+equatorial bulge	赤道区鼓超	3
+exposing wedge	曝光光楔	4
+paragenesis	共生次序	1
+lava flow	熔岩流	2
+smokeless fuel	无烟燃料	4
+slip gauge	块规	5
+clay marl	黏土泥灰岩	3
+film	底片；薄膜	1
+dielectric strength	电介质强度	2
+dark conductivity	无光导电性	4
+katamorphism	分化变质	2
+acoustical wave	声波	3
+rotating vector	转动矢量	2
+sinking headframe	凿井井架	3
+sheet extrusion	片材挤出	2
+plane rectangular coordinate	平面直角坐标	1
+eluvium	残积层；风积土	5
+physical quantity	物理量	2
+clamping apparatus	夹具	5
+wedge cut	楔形掏槽，斜孔掏槽	5
+cutaneogalvanic reaction	皮电反应	2
+sintering	烧结，热压	5
+relative coordinates	相对坐标	1
+aerocamera	空用摄影机，航空照相机	3
+ball	滚珠；弹丸	2
+wave theory	波动说	2
+cold compacting	冷压	2
+information retrieval	信息检索	4
+Vaporchoc	高压蒸汽枪	4
+parallel processing	平行加工	2
+route	轨迹，固定路线	5
+drifting blasting	巷道掘进爆破	2
+accessibility	可达性	3
+heart curve	心形线	1
+similar matrix	相似矩阵，类矩阵	4
+sound pressure	声压	4
+discharge coefficient	流量系数	5
+zipper conveyor	密闭式运输带	4
+critical current	临界电流	3
+low-density polyethylene (LDPE)	低密度聚乙烯	2
+damper	减震器，阻尼器；气流调节器	2
+real function	实函数	3
+mantle	地幔；机套，外壳	1
+air feed	供气，压气供应	1
+metal matrix composite	金属基复合材料	4
+fluxmeter	磁通（量）计	3
+principal view	基本视图	4
+temperature inversion	逆温，温度逆增	1
+average curvature	平均曲率	3
+stoping	回采；顶蚀作用	3
+surface subsidence	地面沉降	1
+ecological selection	生态选择	4
+product liability	产品责任	4
+parallel stratification	平行层理	1
+engineering drawing	工程图样	2
+seal oil	密封用油	3
+ordinary differential	常微分	4
+isometric	等容线	4
+discard	废物	1
+multiflash	多闪光装置	5
+closed-circuit grinding	闭路粉磨	3
+automatic stabilization equipment (ASE)	自动稳定装置	3
+synthetic theorem	合成定理	3
+coincide	重合	2
+ionization cross-section	电离截面	2
+radius	半径；辐射光线	3
+allochroic	变色的，非本色的	1
+sandstone	砂岩	4
+radiative flux	辐射通量	2
+dendritic powder	树枝状粉末	4
+excircle	外圆	2
+water budget	水量平衡	1
+abscess	气孔；缩孔，砂眼	1
+tensile force	张力，拉力	2
+accident Domino theory	事故多米诺理论	4
+microfarad	微法拉	5
+dual	对偶的；二元的	1
+pseudo-static seal	拟静密封	2
+intermittence	间歇性，周期性	3
+fire	爆破；点火	4
+multiplicity	多样性；多重性；相重数	3
+friction sensitivity	摩擦感度	4
+plane<sup>2</sup>	平刨；镘	2
+electrostatic double-layer interaction	双静电荷互作用	2
+artificial ear	仿真耳	2
+aeolian sand	风成沙	5
+CAD standard system	计算机辅助设计标准体系	4
+positive charge	正电荷	4
+leading wire	爆破母线，爆破主线	3
+Gauss plane	高斯平面	2
+dust ring	防尘圈	2
+powder hose	输粉管	3
+induced polarization	激发极化法	2
+contraction	收缩；收缩量	4
+Stirling number	斯特林数	1
+wheel spoke	轮辐	4
+UHV (ultrahigh vacuum)	超高真空	4
+telefocus	远距聚焦	1
+rotary force	旋转力	2
+piston filler	活塞式充填机	3
+coagulation	凝结，胶凝	3
+camera bag	暗袋	3
+pendulum damper	摆式减振器	2
+code	规程；密码；标记	2
+antecedent precipitation index	前期降雨指数；先前沉淀指数	1
+phase transformation	相变	4
+reliability analysis	可靠性分析	2
+explicit representation	显示法	3
+front trace	正面迹线	4
+density	密度，浓度	5
+pulley	滑轮，滑轮组；滑车	2
+accident	褶皱；故障；突变	4
+parison	型坯	5
+general part	通用件	4
+epitaxy	外延，取向附生	2
+principle of nuclear magnetic resonance	核磁共振原理	2
+guide hole	导向孔；超前孔	1
+hypabyssal rock	浅成岩	3
+geothermal gradient	地热梯度	3
+vertical-loop electromagnetic method	垂直线圈电磁法	2
+static yield stress	静态屈服应力	2
+proximity compatibility principle	接近兼容性原则	5
+perpendicular line	垂线	4
+extraneous reaction	外部反应	4
+training	（摄影机、枪炮等的）对准，瞄准	5
+logical operation unit	逻辑操作部件	1
+even number	偶数	5
+stratigraphic trap	地层圈闭	5
+hyperbolic tangent	双曲正切	1
+calcium sulphate	硫酸钙	5
+mass centre	质心	3
+open cut tunnel	明洞	4
+depletion interaction	消耗互作用	1
+current object scale	当前对象比例	4
+self-reproduction	自动重现；自再生	2
+dry separation	干选	1
+telemetry	遥测技术；遥测	4
+manual control	手控	5
+PAN (polyacrylonitrile)	聚丙烯腈	5
+effluence of gas	瓦斯溢流	3
+shotting	粒化	3
+flakiness	扁平度；片状	5
+electrolytic extraction	电解萃取	3
+inherent generalization	继承通用化	4
+sand blow-gun	填砂喷枪	2
+para-unconformity contact	假整合接触	1
+conjugate image	共轭像	4
+crew-in filter	旋入滤光片	4
+built-in end	固定端；嵌入端	3
+nonsinusoidal	非正弦	3
+composition of reflection	反射波叠合	1
+Zipf's law	齐珀夫定律	5
+evapotranspiration	蒸散；蒸散量	1
+sputtering	溅射，喷溅涂覆法	1
+external circuit	外电路	1
+dipole electrode arrangement	偶极电极排列	5
+gland	密封压盖；衬片	2
+positive ion	正离子	3
+clastic rock	碎屑岩	4
+streambank erosion	河岸冲刷，河岸冲蚀	2
+siliceous sinter	硅华	4
+raker hole	辅助炮孔	1
+kinematics	运动学	3
+bending deformation tensor	曲率变形张量	5
+visual search	视觉搜索	2
+elongation line	延长线	5
+foundation settlement	地基沉降	1
+stringer	纵梁；架设装置	2
+surface process	表面处理	4
+aperture correction factor	孔径校正因素	1
+conic section	二次曲线	5
+pumping time	抽气时间	2
+gravity constant	重力常数	1
+laccolith	岩盖	4
+control architecture	控制结构	2
+counterbalance system	平衡力系	5
+colourimeter	比色计，色度计	3
+geographical orientation	地理定向	1
+higher-order method	高阶法	3
+duplex paper	双层纸	4
+ampere	安培	3
+optimality	最佳化，最优性	2
+dry plate	干片；干版	5
+flexible automation	可变自动化	3
+ion-dipole interaction	离子偶极相互作用	2
+particle flow rate	粒子流速率	2
+pattern water flooding	面积注水	2
+time	时间；倍；次	4
+factor matrix	因子矩阵	5
+silicochromium	硅铬合金	1
+separator	隔板；分离器；选矿机	3
+complete circuit	闭合电路	3
+marine coupling	船用联轴器	4
+environmental criterion	环境基准	4
+dip-angle electromagnetic method	倾角电磁法	3
+linearity	直线性，线性	2
+perfect differential equation	全微分方程	1
+photoconductive effect	光导效应	5
+ground wave	地波	5
+Marangoni effect	马来哥尼效应	2
+punching	凿孔；模锻	1
+opacity	不透明性；暗度；浑浊度	4
+doctor blade	刮刀	3
+character line	特征线	3
+Chezy's formula	谢才公式	4
+IOI (intensity of illumination)	照明度	3
+firing circuit	爆破网络；点火电路	2
+ethoxylated alcohol	乙氧基化酒精	5
+thermopile	温差电堆，热电堆	3
+shell of positive curvature	正曲率扁壳	5
+oval line	卵形线	3
+urethane	尿烷，氨基甲酸乙酯	2
+hygroscopic water	湿存水；吸湿水	5
+unit	部件，组件；组	4
+equipotential line method	等位线法	1
+virtual reality	虚拟现实	3
+nerve growth factor	神经生长因素	2
+absolute measurement	绝对测量	2
+surface force	表面力	5
+visual angle	视角	5
+single lens reflex (SLR)	单镜头反光照相机	5
+pressure hydrophone	水下压力检波器	4
+chunk structure	碎块构造	2
+fuse cut-out	熔丝断路器	1
+antistep	反阶步	2
+high duty seal	高压密封	3
+twisting force	扭力	2
+primer	雷管；底涂料	1
+buckle	弯曲；褶皱	3
+flashover	环火，飞弧，闪络	5
+direct manipulation	直接操作	5
+soil flow	流土；土流	4
+adaptive linear element	自适应线性单元	5
+mechatronics	机电整合，机电一体化；机械电子学	1
+absorbefacient	吸收剂	2
+coefficient of variation	变差系数	3
+bath	冲洗液，定影液；熔池	4
+flashover capability	殉爆感度；殉爆能力	5
+Kelvin model	开尔文模型	5
+accommodator	调节器	5
+connecting wire	辅助母线；支线；连接线	4
+closed loop	闭环	3
+vertical angles	对顶角	3
+perfect pump	理想泵	4
+buoyancy effect	浮力作用	3
+earlier failure	早期失效	4
+optically denser medium	光密媒质	4
+rare earth metal	稀土金属	2
+effective abstractions	有效降雨损失量	5
+level command	水平指令	3
+pressureless sintering	无压烧结	3
+centre cut	中心掏槽	4
+declination	磁偏角；偏差；衰微	1
+steel roll	钢辊	5
+lockout	切断	5
+downcast	进风井	2
+electromotive force of mutual induction	互感电动势	5
+internal photoelectric effect	内光电效应	1
+adaptive integration method	自适应积分法	3
+high-pressure pump	高压泵	2
+stiffness	刚度，硬度；稳定性	3
+down-the-hole drill	潜孔钻机	5
+double clover-leaf cut	双苜蓿叶式掏槽	5
+surface charge	表面电荷	1
+stemming material	炮泥；填塞物	2
+drift round	巷道掘进炮孔组	3
+back-diffusion	反扩散	3
+vector function	向量函数	1
+piezoelectricity	压电，压电学	4
+mole coefficient	摩尔系数	1
+visual field	视野	3
+stratigraphy	地层学；地层状况	2
+resonance	谐振，共振	4
+triangular cotangent	三角余切	2
+long-term solution	长项解	3
+structural fibre	结构纤维	2
+decay	衰变，分解	3
+component force	分力	3
+object modelling	实体模型方式	4
+magnetic storm	磁暴	1
+quartic equation	四次方程	1
+erosion	腐蚀，侵蚀；冲刷	3
+pressure	压力，压强	3
+water permeability	透水性	3
+correction	修正值；矫正	3
+descriptive standard	说明性标准	1
+dip shift	倾向移距	4
+limiting value	极限值	2
+resilience	回弹；弹性	5
+double sampling	二次抽样	2
+width meter	宽度计	5
+organizational context	组织背景	2
+monitor	监控；监视器；（美国）喷水枪	5
+dispenser	计量器；分配器	4
+light-emitting diode	发光二极管	2
+independent variable	自变量	3
+mirror surface	镜面	1
+neutron quality	中子质量	1
+heavy water	重水	4
+die body	模体	2
+continuous powder metallurgy	连续粉末冶金	4
+geophysical prospecting	地球物理勘查	2
+checklist	核查单	3
+volcanic neck	火山颈	4
+factor	因子；商；系数	1
+pressure measuring set	压测量仪	2
+spray application of concrete	混凝土喷射	1
+natural law	自然法则	2
+synthetic protein	合成蛋白	4
+interactive mode	交互式	1
+coarse grain	粗粒	3
+operation	运算；作业；操作	4
+Sinian Period	震旦纪	2
+stratification	层化；层理	3
+non-contact measurement	非接触测量	2
+arrow	测针	4
+centre of gravity	重心	3
+suspended load	悬移质	4
+monotonic series	单调级数	5
+teleseism	远震	5
+configurational dimension	构型维度	1
+mode	模式；状态；振荡型	1
+luminous intensity	发光强度	3
+seal weld	密封焊；致密焊缝	5
+stepwise transition	逐步转换	2
+biomotor	人工呼吸器	3
+diffusion equation	扩散方程	2
+image-forming method	成像公式	5
+principle of pictorial realism	图形现实主义原则	1
+propagation	传导，传播	2
+reaming	扩孔	4
+time constant	时间常数	4
+carbon membrane	碳膜	4
+suspension rheology	悬浮体流变学	2
+symmetrical cable	对称电缆	4
+interference	干扰；干涉，抵触	5
+neutral axis	中性轴，中性线	1
+rheopexy	触变性	3
+bloom	铁块	4
+kata-rocks	破碎带变质岩	2
+detonating relay	继爆管	5
+dipole	偶极子	2
+checking	微裂	5
+blasting	鼓风；爆破；爆破后的碎石	1
+cleaning	清理（浮石）；选矿	5
+rock drill	凿岩机，钻岩机	5
+chlorotrifluoroethylene (CTFE)	氯三氟乙烯	3
+electric double-layer force	双电荷层力	3
+physical principle	物理原理	2
+residue	留数；滤渣；残基	3
+cross-section of heading	巷道断面	2
+storage constant	蓄水常数；蓄量常数	2
+extra-wide angle lens	超广角镜头	5
+saline lake	盐湖	2
+Pirani gauge	皮拉尼压力计，热压力计	4
+cumulative mass curve	累积曲线	3
+structured transducer	结构型传感器	2
+varactor diode	变容二极管	5
+precise value	精确值	2
+multi-parameter	多参量，多参数	1
+piston	活塞，柱塞	2
+homogeneous light	单色光	2
+LDPE (low-density polyethylene)	低密度聚乙烯	5
+shield	罩，防护装置；地盾；护盾	2
+extremely high frequency (EHF)	极高频	2
+head	冒口；头，盖；平巷	2
+electrolytic powder	电解粉末	3
+visibility function	视见函数	3
+continuous-wave positioning system	持续波定位系统	2
+green	生坯；未淬火的；未硫化的	5
+integration	积分，积分法；集成	4
+indirect measurement	间接测量	3
+pressure transducer	压力传感器	2
+pan evaporation	蒸发器蒸发	3
+microcopy	显微照片；缩影印刷品	1
+storage capacity	存储容量	1
+ground water	地下水	3
+reductive factor	折减系数；折算系数	2
+confined water	承压水	5
+boulder blasting	二次爆破；分块钻孔	2
+isomagnetic	等磁线	5
+Gumbel distribution	二重指数分布，甘布尔分布	2
+ABCC (automatic brightness contrast control)	自动亮度反差控制	3
+stacking strength	堆码强度	3
+crest value	峰值	1
+pitch point	节点	1
+blasting accessory	爆破辅助器材	4
+boundary condition	边界条件	1
+oscilloscope tube	示波管	2
+series	级；串联；序列	2
+psephitic structure	砾状结构	3
+emulsion polymerization	乳液聚合	4
+detonation velocity	爆速	3
+delay time	延迟时间	2
+charged particle	带电粒子	1
+nuclear energy	核能	2
+positional tolerance	位置公差	1
+individual difference	个别差异	4
+moment of statics	静力矩	4
+tempering	回火；回性	3
+temperature damping	温度衰减	1
+biconical bob interfacial rheometer	双锥型振动界面流变仪	4
+form tolerance	形状公差	2
+numerator	分子；计算器	4
+reference dimension	参考尺寸	2
+water divide	分水岭，分水界	5
+irrational expression	无理式	5
+colour balance	色彩平衡	4
+quantitative pumping process	定量抽气过程	4
+primary unit	主单位	3
+double vector divergence	二重向量发散	4
+cutting plane	截平面	5
+centring ring	定心环	1
+drainage area	排泄区	3
+bold solid line	粗实线	5
+fit	装配；调整；磨合	2
+weber	韦伯	3
+corner reflector	角形反射器	2
+integrand	被积函数	4
+olivine	橄榄石	3
+ammonium nitrate	硝酸铵	4
+cork	软木塞；木栓；软木	3
+vertical temperature gradient	垂直温度梯度	2
+dry-bond laminating	干法（层压）复合	2
+inclusion factor	包含因子	4
+burned out (BN)	曝光过度的	5
+tip	梢，末端；倾斜	4
+cohesive seal	黏封	2
+multiplication factor	倍增因子，倍增因数	4
+landslide	滑坡，山崩	3
+bench run	实验台试验	4
+Kelvin temperature	开尔文温度，绝对温度	5
+normal line	法线，正态线	5
+inhibitor	抑制剂，阻化剂	2
+centre	中心点；中核；拱架	3
+final examination and measurement	最终检测	4
+hyperstatic	超静定的	4
+passive remote sensing system	被动遥感系统；无源遥感系统	4
+lubrication	润滑；注油	1
+concave mirror	凹面镜	1
+fixed belt conveyor	固定带式运输机	3
+specialized standard	专业标准	5
+heat of explosion	爆热	4
+laser deposition	激光沉积	2
+Chebyshev polynomial	切比雪夫多项式	2
+low friction	低摩擦	3
+tamping stick	装药棒	1
+catastrophic failure	致命故障	3
+river density	河网密度	5
+functional response	机能反应，功能反应	4
+rotary percussion drill	旋转冲击式钻机	3
+semi-finished product standard	半成品标准	2
+normal binding force	法向约束力	1
+reflection law	反射定律	3
+borehole	炮眼；钻孔	5
+biology	生物学	3
+stationary state	定态	5
+anisotropy	各向异性，非均质性	5
+digital printer	数码打印机	3
+inheritance factor	继承性系数	3
+matter	物质；物料，实体	5
+film-air interface	膜层-空气界面	3
+accidental inclusion	捕虏体	5
+compression set	压力滞留量；压缩永久变形	3
+specific velocity	比速度	2
+Chebyshev function	切比雪夫函数	4
+mass flow rate	质量流率	4
+electrophoresis	电泳	1
+shear thickening	剪切增稠	5
+burst strength	耐破强度	2
+Laguerre polynomial	拉盖尔多项式	3
+conduction	导电；传导；引流	2
+weighted coefficient	加权系数	3
+vertical line	垂线，铅垂线	5
+quartzite	石英岩，石英石	4
+catchment lag	流域滞后，流域迟滞	3
+kraft (paper)	牛皮纸	4
+optical path	光路	1
+disturbance	扰动，干扰；激波	5
+draw-and-iron can	变薄拉深罐	1
+ANFO explosive	铵油炸药	2
+avoidance	回避反应	1
+boat	蒸发皿，蒸发盘	5
+pedestal	支座；轴架；轴承	3
+short-hole type blasting	短孔爆破，浅孔爆破	4
+critical diameter	临界直径	3
+respiration	呼吸，呼吸作用	5
+potential gradient	势梯度，位梯度	2
+dichroic fog	二色灰雾	1
+annealed powder	退火粉末	3
+common vertical line	公垂线	2
+smooth finish	光洁度	3
+geometry	几何学；几何形状	3
+concentration	集中；精选；密度，浓度	3
+angular powder	角状粉末	2
+diffusion-controlled model	扩散可控模型	1
+extrusive rock	喷出岩	2
+neuron(e)	神经原，神经细胞	5
+Mullen burst test	耐破度试验	5
+coil	线圈；卷片筒	3
+recession	消退，后退	5
+cable release	快门控制线	4
+flashing	闪光；急骤蒸发；（水力）充填	3
+quick sand	流沙	2
+bio-inspired	受生物启发的	2
+blotter material	吸水材料，吸墨材料	3
+stay	炉撑；拉线	4
+notch	凹；刻痕；级；槽口	2
+reflection	反射；反射波	2
+close-couple	紧耦合	5
+three planes	三平面	4
+satellite navigation	卫星定位	5
+cylindrical vector	柱面向量	2
+ammonium nitrate prill	硝铵颗粒	3
+hornblendite	角闪石岩	4
+automatic combustion control (ACC)	自动燃烧控制	4
+designing for construction reliability	结构可靠性设计	4
+covariant basic vector	协变基矢量	4
+rigid body	刚体	1
+left-hand rule	左手定则	1
+deterministic automation	确定性自动机	4
+vacuum pump	真空泵；蒸汽吸水机	2
+floating crane	浮吊	3
+pinhole	小孔，微孔；针孔	2
+chevron seal	人字形密封；迷宫式密封	1
+graphics	图解法，图表法	2
+useful field of view	有效视野	4
+joint probability	联合概率	4
+anamorphose	失真，图像变形	4
+magnetoscope	验磁器	4
+polycarbonate (PC)	聚碳酸酯	2
+running friction	运动摩擦	1
+polar coordinate system	极坐标系	5
+axis	轴，轴线；晶轴	1
+jackleg	风动钻架	3
+schist	片岩	4
+column stack	柱式堆码	1
+founding	铸件	2
+geotechnique	地质技术	5
+touch sensor	触觉传感器	5
+magnetotelluric method	大地电磁法	5
+estolide	酸酐	3
+pyroelectricity	热电学；热电（现象）	3
+semicircle	半圆；半圆形物	3
+flammability	易燃性，可燃性	5
+colloid mill	胶体磨	2
+step	级；步骤，工序；台阶；轴瓦，轴承	1
+organ	器官；元件，机件	1
+FWD (fast working developer)	快速显影液	2
+pail	提桶；桶容量	5
+cold cathode	冷阴极	4
+peripheral vision	边缘视觉	2
+net	网；网状物，网状系统	3
+magnetic field force	磁场力	5
+exposure compensation tab (ECT)	曝光补偿调整钮	5
+rise time	上升时间	1
+weightlessness	失重	1
+edge seal	边封	2
+distributive law	分配律	4
+air leak	漏气	5
+static head	静压头	2
+weight function	权函数，重量函数	3
+series of optimum parameters	最佳参数系列	2
+mark of conformity	合格标志	3
+astrophysics	天体物理学	1
+elliptic function	椭圆函数	1
+fault earthquake	断层地震	2
+datum	已知数；数据；基准	4
+pumping speed	抽速	3
+rotary table	回转工作台	5
+colourate	着色；显色	1
+disposal of explosives	炸药销毁	3
+broadside shooting	侧向放炮	4
+tapping	钻孔；支线；攻螺丝	3
+biogenesis	生源说，生源论	3
+international system of units	国际单位制	1
+bedrock	基岩	3
+voluntary action	随意动作	4
+cast film	塑料片材	5
+integrating recorder	积分式记录仪	5
+observed value	观测值	3
+electron beam tube	电子射线管	4
+choke	扼流圈，阻气门；扼止	3
+cylinder block	气缸体	5
+strategic control	策略控制	5
+ISSN (international standard serial number)	国际标准刊号	3
+adjoint matrix	伴随矩阵，共轭矩阵	3
+standard part	标准件	4
+shrinkage stoping	留矿回采法	4
+ECT<sup>1</sup> (edge crush test)	边压测试	1
+surplus lining	超量衬砌	2
+potential	势，位；电势，电位	5
+double seam	（金属罐）二重卷缝	1
+principle of virtual work	虚功原理	4
+dielectric	电介质，绝缘材料	5
+Faraday constant	法拉第常数	1
+antiderivative	反导数	2
+open underhand stoping	无支护向下台阶法	2
+multi-stage piston	多级活塞	4
+Richardson extrapolation method	理查森外推法	3
+ghosted image	重像，幻象	1
+satellite laser ranging	卫星激光测距	2
+artificial vessel	人造血管	1
+light balancing filter (LBF)	光平衡滤光镜	5
+position measurement	定位测量	2
+chemical potential	化学势	4
+angle of polarization	偏振角	5
+saturant	饱和剂	5
+capped cartridge	起爆药卷	5
+common tangent	公切线	1
+discrete system	离散系统	3
+return period	重现期	5
+irrational algebraic function	无理代数函数	3
+high-speed forming	高速成形	3
+acidimeter	酸度计，pH计，酸（液）比重计	4
+free soil	疏松土壤	4
+value engineering	价值工程	1
+albedo	反射率，漫反射系数	5
+diagenesis	岩化作用，原状固结	4
+salinization	盐渍化	1
+error vector	误差矢量	3
+cleavage	解理；开裂；裂缝	3
+inspect	检验，检查	3
+optical property	光学性能	2
+stream gauging station	流量站，水文站	3
+resistance	阻力；电阻	1
+zodiacal cone	黄道锥	2
+top slicing	分层崩落采矿法；上部剥落	5
+friction factor	摩擦因数	3
+multiple line	复合线	4
+powder metallurgy	粉末冶金	5
+set theory	集合论	3
+fresh surface	新生面	1
+resolving power	分辨能力，分辨率	2
+eye movement	眼动	5
+bioelectronics	仿生电子学	1
+Thomson coefficient	汤姆逊系数	2
+full acceleration	全加速度	1
+structural standard	结构标准	4
+aspect ratio	长宽比，纵横比，直径长度比	1
+milliampere	毫安	2
+cochlear implant	耳蜗植入	3
+silent crusher	静态破碎机，无声破碎机	1
+biohybrid composite	生物杂交复合材料	5
+normal counterforce	法向反力	4
+slideway	导轨；滑路	2
+integrated standardization	综合标准化	5
+meteorite	陨石	4
+standard atmosphere	标准大气压	4
+re-reduced powder	重还原粉末	5
+fine line	细线	4
+contour blasting	周边爆破，轮廓爆破	2
+toroidal seal	环形密封	3
+spinor	旋量，旋子	2
+soil moisture	土壤含水量，土壤湿度	2
+setting	设定，调节；背景	4
+nuclear overhauser effect	核极化效应	5
+socket	槽；插孔	2
+reducer	减速器；渐缩管；还原剂	4
+aerosurvey	航空勘测	2
+horizontal vibration	水平振动	5
+homoeostatic mechanism	稳态机制	2
+skarn	矽卡岩	5
+sonics	声能学	4
+coordinate difference	坐标差	4
+compression strength	抗压强度	3
+unbounded area	无界区间	1
+Carboniferous System	石炭系	3
+modulus of elasticity	弹性模量，弹性系数	5
+sky wave	天波	3
+confirmation bias	确认偏见	2
+colour notation	颜色数标法	3
+active remote sensing system	主动遥感系统；有源遥感系统	1
+alabastrine process	雪花状的工艺处理	3
+direct evaluation method	直接评定法	3
+open-system interconnection standardization	开放系统互连标准化	5
+stamped powder	捣碎粉	5
+river capture	河流袭夺	1
+coverage	有效区域；拍摄范围	3
+rational number	有理数	5
+Legendre polynomial	勒让德多项式	4
+mixing point	混合点	3
+underexpose	感光不足	5
+ignition point	点火温度；发火点	5
+hornblende	角闪石	2
+secondary package	二次包装	4
+dislocation	断层；位移	2
+balancing method	平衡法	1
+overhang	悬垂；外伸；突出部分	5
+ammonium nitrate dynamite	硝铵炸药	5
+black vacuum	低真空	1
+blast cleaning	气喷清洁	5
+injection moulding	注射成型	2
+triton	氚核；三硝基甲苯	1
+uranium bar	铀棒	3
+potential evapotranspiration	总蒸发能力	4
+cardinal number	基数	1
+technological management	工艺管理	2
+slip sheet	滑动板料	3
+radiometer	辐射计	2
+reflection amplitude	反射波振幅	1
+annual runoff	年径流	3
+thermal power	热功率	3
+response conflict	反应冲突	2
+axial gasket	轴向封垫	5
+connecting segment	连接线段	3
+gain	增益，放大；增量；腰槽	5
+tri-vacancy	三空位	2
+vulcanization	硫化；硬化	5
+normal contact	正常接点	1
+pin	闩，销子；插头；管脚	4
+iteration	迭代	1
+corner	转角；弯管头	2
+operational law	运算法则	2
+web	卷材；金属薄片；纤维网	5
+perpendicular plane	垂直面	1
+haze cut filter (HCF)	去雾镜	4
+difference formula	差分公式	1
+refractory metal	难熔金属，耐高温金属	5
+bearer	托架，受力体	5
+echolocation	回声测定，回声定位	3
+special point	特殊点	3
+compressional deformation	挤压变形	1
+seabed	海床	5
+secondary metal	再生金属	4
+channel sand deposit	河床沙沉积	1
+internal anchor ring	内环面	2
+Triassic Period	三叠纪	4
+attenuation coefficient	衰减系数	3
+even function	偶函数	3
+photocurrent	光电流	1
+settlement	固定；沉淀，沉降	4
+flysch	复理层，厚砂页岩夹层	3
+molecular drag pump	牵引分子泵	1
+melt-water runoff	融水径流	2
+hydrometeorology	水文气象学	2
+secant	割线；正割	3
+weight method	称重法	1
+gas drainage	瓦斯抽放	3
+robotics	机器人学；机器人技术	3
+mutagenesis	诱变，突变发生	2
+Bessel ellipsoid	贝塞尔椭球	3
+Doppler system	多普勒系统	3
+shutter speed dial (SSD)	快门速度盘	3
+qualification test	鉴定试验	3
+dinosein	气爆震源	5
+intermediate package	中包装	2
+climatochronology	气候测年学	1
+loess	黄土	4
+definitive standard	限定性标准	4
+depletion force	消耗力	2
+spline interpolation	样条插值	5
+Bohr radius	玻尔半径	5
+horizontal projection plane	水平投影面	4
+particle-size determination	粒度测定	2
+terminology	术语	2
+mutation	突变，变种，变异	1
+chokedamp	窒息性气体	4
+space wave	空间波	5
+phosphorite	磷灰岩，磷钙土	5
+inverse proportion	反比	3
+lead-in	输入，导入；引入线	4
+integer power	整数幂	4
+supplementary couple	附加力偶	4
+capacitance manometer	电容压力计	4
+backward differentiation method	后向差分法	5
+failed hole	失效炮孔，死炮眼	1
+transfer switch	转换开关	5
+audio-frequency current	音频电流	3
+responsive element	应答元件	5
+pressureless compacting	无压成形	1
+photoconductive diode	光电二极管	4
+speech synthesis	语言合成	5
+acetaldehyde	乙醛	1
+intrusive contact	侵入接触	2
+mine gas	矿井瓦斯	3
+diurnal variation	日变化	1
+abyssal rock	深成岩	4
+replacement	替代，取代；替换品；交代作用	1
+smooth surface constrain	光滑面约束	4
+deposition	沉积物；沉积率	2
+aeriscope	超光电摄像管	2
+presintering	预烧	2
+filtrate	滤液；失水量	2
+inclined dyke	倾斜岩墙	3
+fine solid line	细实线	1
+dispersion error	弥散误差	5
+bedding	层理；底层	4
+leak checking	探漏	3
+catalytic selection	催化选择	5
+resultant moment	合力矩	5
+anilox roll	金属墨辊，网纹传墨辊	2
+photoneutron	光激中子	4
+desaturator	干燥剂；干燥器	4
+triangle	三角形	1
+series-to-parallel battery	混联电池组	3
+Euler constant	欧拉常数	1
+drilling speed	钻孔速度	4
+reflecting section	反射截面	5
+Gauss differential equation	高斯微分方程	4
+autocorrelation	自相关；自动校正	2
+hyperfocal focusing	超焦距	5
+beam deflecting mirror	射束偏转镜	3
+titanium alloy	钛合金	1
+incidence angle	入射角；迎角	2
+modularization	模块化；模件化	4
+kar	凹地，冰斗	2
+reverse characteristic	反向特性	5
+monomer	单体，单分子物体	5
+direct thermal stratification	正温层	3
+neuromuscular control system	神经肌肉控制系统	2
+spline function	样条函数	1
+dynamic surface pressure	动表面压力	3
+elevated-temperature seal	高温密封	5
+Curie temperature	居里点，居里温度	2
+row matrix	行矩阵	5
+position location	定位	5
+known force	已知力	5
+statistical estimation	统计估计	5
+curve	曲线；曲线图；曲线板	4
+perfect differential	全微分，完整微分	4
+Ordovician System	奥陶系	1
+direction cosine	方向余弦	4
+explosible limit concentration	爆炸极限浓度	2
+tangential deformation tensor	切面变形张量	4
+creep	蠕变	2
+circular coordinate system	圆坐标系	4
+decanol system	癸醇系统	2
+knowledge organization	知识组织	5
+thermal expansion	热膨胀	3
+particle reinforcement	颗粒增强	3
+minor arc	劣弧	2
+flow plastic strain	流动塑性应变	2
+reducing agent	还原剂	5
+Karst brisance test	卡斯特猛度试验	2
+split punch	拼合式凸模	3
+examination of standards	标准审查	1
+angle of reflection	反射角	2
+ohm	欧（姆）	3
+ultrabasic rock	超基性岩	4
+electrophobia	电恐怖	2
+decay coefficient	衰变系数	2
+sensitivity	感光度；灵敏度	2
+odd number	奇数	2
+measuring transformer	测量变换器	4
+antitrigonometric sine	反三角正弦	4
+ghost pulse	虚脉冲；次脉冲	1
+dimension line	尺寸线	4
+material mechanics	材料力学	3
+dot product	点积，标量积，数量积	3
+junction	接头；接点；结	4
+cuttings	钻屑；切屑	5
+trapezoidal rule	（美国）梯形法则	4
+section method	截面法	2
+mist blasting	喷水爆破	4
+snow cover	积雪	3
+aggregation number	聚合系数	2
+rem-jet	炭黑防光晕层	2
+biocompatibility	生物适应性，生物相容性	4
+lithography	平版印刷，石印术	5
+photoelectric equation	光电方程	4
+reliability	可靠性，安全性	2
+cast	色调；模型，铸件	4
+attention cueing	注意提示	5
+inverse transformation	逆变换	4
+pendular state	摆动态	4
+tolerance zone	公差范围	1
+sound spectrum	声谱	4
+preform	压片；预塑	2
+magnetic element	地磁要素	2
+section mark	剖切符号	2
+ammonium nitrate fuel/oil (ANFO)	铵油炸药	4
+series battery	串联电池组	2
+Neogene	晚第三纪	3
+perforation	穿孔；孔眼，孔状接缝	2
+forward current	正向电流	3
+PC (polycarbonate)	聚碳酸酯	2
+basing-point method	基点法	3
+phenolics	酚醛塑料	2
+curved-path theory	曲射线路径原理	2
+flinger ring	抛油环垫圈	5
+computer-supported cooperative work	计算机支持协同工作	5
+Indosinian movement	印支运动	3
+electromagnetic radiation	电磁辐射	5
+aberration bur circle	像差模糊圈	1
+backing vacuum	前极真空	3
+cleat	割理；楔子，夹具	2
+airdox	压气爆破筒	3
+sintered product	烧结体，烧结制品	1
+detonator	雷管；爆鸣器；引爆剂	3
+mechanical energy	机械能	5
+isotope age	同位素年龄	2
+agglomerate	团聚颗粒；集块岩；烧结矿	1
+pulling force	拉力，牵引力	3
+medical bionics	医学仿生	4
+layered medium	层状介质	3
+footage	英尺长度	4
+ion-exchanged explosive	离子交换型炸药	1
+focal distance	焦距	5
+biosimulation	生物模拟	5
+back-emf	反电动势	1
+composite can	组合罐	1
+capstan	绞盘；索式卷扬机；主导轴	3
+subprogram	子程序	3
+semiconductor	半导体	5
+self-assembly	自组装；自动装配	3
+discrete form	离散格式	4
+imbricate structure	叠瓦构造	1
+surface concentration	表面浓度	3
+vapour leak	蒸汽泄露	1
+pressure sintering	加压烧结	5
+digital-frequency filter	数字频率滤波器	3
+chat	碎石，粗粒	2
+condenser-type blasting machine	电容式起爆器	4
+monocrystal	单晶质	4
+chemical rock	化学岩	3
+differentiate	微分运算	5
+Richardson equation	理查森方程	5
+common plane	普通曲面	2
+borehole diameter	炮孔直径	1
+analogue cochlea	模拟耳蜗	2
+return flow	回流；逆流	5
+oblique aerial photograph	倾斜航摄照片	4
+attenuation characteristic	衰减特征	1
+in-situ measurement	原地测量	2
+controlled gap seal	受控间隙密封	3
+monoglyceride	单酰甘油	3
+stress response	应激反应	3
+protective case	保护外壳	4
+withdrawal blasting	排除盲炮爆破	5
+Weber's law	韦伯定律	5
+seal plate	密封盘	3
+combined deformation	组合变形	1
+bulging force	膨胀力，隆起力	1
+planish	锻平；精轧	5
+yield point	屈服点	4
+torsion	扭转；扭力	2
+visibility function curve	视见函数曲线	1
+hypotenuse	弦，斜边	1
+side bar	侧杆	4
+tracer valve	伺服阀，仿形滑阀	3
+combined board	组合纸板	3
+blast pressure	风压	4
+beta function	β函数	2
+flocculation	絮凝	1
+power vector	功率矢量	5
+decoupling index	不耦合系数	1
+parameter	参数，参量	5
+inclination	倾角，斜角；磁倾角；偏差	4
+harmonization	调谐；调整	5
+right-angle projection	直角投影	5
+jitterbug	图像不稳定现象，图像跳动	1
+container	容器；集装箱；外壳	4
+fused electrolyte	熔融电解质	5
+menu button	菜单按钮	2
+porosity	孔隙度；多孔性	2
+negative priming	负启动	3
+command versus status	指令与状态	5
+metal coating	金属镀层	1
+equidistant surface	等距曲面	2
+coincidence method of measurement	符合测量法	2
+marine landforms	海洋地貌	2
+capillary condensation	毛细管压缩率	5
+fault rock	断层岩	4
+polarized light	偏振光	5
+shovel loader	装载机；铲装机	5
+failure analytical procedure	失效分析程序	4
+objective	物镜，接物镜；客体	3
+seal ring	密封环	5
+simple harmonic oscillation	简谐振动	5
+horizontal angle	水平角	4
+radar wave	雷达波	5
+acuity	锐度，敏度；分辨能力	1
+magnet	磁体，磁铁，磁石	1
+shrink packaging	收缩包装	3
+frictional damping	摩擦阻尼	5
+diamond	菱形；金刚石，钻石	3
+backscattering	背散射，向后散射	4
+articulation index	清晰度指数	1
+reference material	标准物质	1
+iterative solution	迭代解	3
+single action pressing	单向压制	5
+diagram of particle distribution	粒度分布图	1
+pumping equipment	抽气装置	2
+cubic equation	三次方程	5
+spark sintering	火花烧结	5
+granulator	成粒器	2
+solid fibreboard	密实纤维板	2
+anamorphoscope	正像镜	4
+actinograph	辐射仪，日射仪；感光记录器	4
+common point	共有点	4
+coupled rangefinder (CRF)	连动测距对焦取景器	2
+metal oxide	金属氧化物	4
+electronic dog	电子狗	4
+melted iron	铁水	3
+discontinuity	分界面，间断面；突变性	5
+central executive	中枢执行	1
+truth value	真值	4
+temperature action	温度作用	5
+two-phase equilibrium	双相平衡	3
+ring gasket	垫圈	4
+fibre reinforced metal	加固纤维金属	4
+photonasty	感光性	5
+salt soil	盐渍土	5
+tooling	（总称）工具，刀具；机床安装	3
+interpolating function	插值函数	5
+completely alloyed powder	完全合金粉	3
+conjugation energy	结合能	2
+medium vacuum	中真空	4
+decibel	分贝	4
+unidirectional seal	单向密封	5
+bioreactor	生物反应器	2
+bank light	排灯	1
+cream solder	乳酪焊剂	3
+sign	符号	5
+electric field force	电场力	4
+background	本底	2
+degree of freedom	自由度	1
+circulatory support	机械循环支架	1
+breakage	破碎程度；损耗量	1
+dial plate	刻度盘	1
+external voltage	外电压	5
+equivalent current	等效电流，等值电流	3
+space	空间，容量；太空；间隔	2
+photo-chemical effect	光化学效应	4
+thin shell	薄壳	5
+capillary force balance	毛细力平衡	4
+shrunk-on ring	紧固环	1
+stage	台；级；时期	4
+antiparticle	反粒子	4
+right-hand screw rule	右手螺旋定则	1
+optical signal	光信号	1
+geometrical optics	几何光学	4
+homology	同种，同源；同系现象	5
+green compact	压坯	1
+executive control	执行性控制	3
+vacuum drying	真空干燥	2
+non-capsensitivity	雷管不起爆性；雷管钝感	3
+linear stress	线性应力	3
+light flux	光通量	1
+standard system	标准系统	4
+interception	拦截；折射；相交	2
+orthoclase	正长石	4
+unit circle	单位圆	3
+profile extrusion	仿形挤出	3
+illuviation	淀积作用	3
+diazotype	重氮盐晒图法	1
+sealing ability	密闭能力	2
+quadrangle	四角形，四边形	4
+half section view	半剖视图	2
+test pencil	试电笔	5
+zero-length spring	零长弹簧	2
+salt dome	盐丘	2
+deflection	挠度，偏差；偏流修正量	1
+solid line	实线	4
+hyperbolic paraboloid	双曲抛物面	5
+coefficient of detonation transmission	殉爆度；爆轰传递系数	1
+weighted factor method	加权因子法	2
+double exposure	叠印	3
+angle	角；角钢，角铁	3
+alternate series	交错级数，交替级数	5
+augmented reality	延伸现实	2
+physical sorption	物理吸收	2
+high-pass filter	高通滤波器	1
+katapleite	钠锆石	4
+bottom view	仰视图	2
+scraper chain conveyor	(铲式)刮板输送机；链板运输机	1
+index of variation	变化指数	2
+radioactive method	放射性法	1
+EV (exposure value)	曝光值	1
+A-flute	A型槽	1
+multiattribute utility theory	多属性效用理论	2
+slip ring	滑环	4
+period	阶段；周期；纪	5
+lubricant powder	润滑剂粉末	5
+magma	岩浆；稠液	2
+cassette	X光底片盒，胶卷暗盒	1
+simple harmonic motion	简谐运动	5
+false echo	假回波	2
+static electricity	静电	1
+development blasting	井巷掘进爆破	1
+diffusion	扩散；漫射；柔化	2
+standardization coefficient	标准化系数	1
+artesian flow	自流流量；自流流动	1
+Landsat	（美国）陆地卫星	1
+processor	洗印机；处理机；处理程序	2
+Lagrange interpolation formula	拉格朗日插值公式	2
+powder rolling	粉末轧制	3
+power	幂，乘方；动力；功率	4
+sheet	板；岩席；图表	3
+rectangular coordinate	直角坐标	5
+ration	定量	1
+submicron powder	亚微粉	2
+gravure printing	凹版印刷	1
+complex superimposition	综合叠加	3
+Gauss integral	高斯积分	5
+linear equation	线性方程	3
+well	井；井道；炉缸；槽	2
+superjacent stagnant water	上层滞水	1
+discipline of standardization	标准化学科	5
+emergent angle	出射角	1
+thermal reaction	热反应	4
+subgrade drilling	超钻，钻孔加深	2
+coal cutter	截煤机	5
+microscope	显微镜	3
+high alternating electromagnetic field	高频交变电磁场	2
+radial hole blasting	放射状炮孔爆破	1
+quench	猝熄；淬火，冷却	1
+dilute phase	稀相	2
+binary mode	二进制，二进法	1
+moving point	动点	1
+linear strain	线性应变	3
+filling amount	装粉量	2
+imaginary number	虚数	4
+muck pile	弃碴，爆堆	1
+susceptibility	磁化率；灵敏度	4
+compound shade	复色	4
+calorie	卡路里	5
+mud blasting	覆土爆破	1
+symbol	符号	2
+universal generalization	统一通用化	1
+externally tangent	外切的	2
+order-disorder transition	有序-无序过渡，有序-无序转换	3
+slow neutron	慢中子	4
+rule for quality evaluation	质量评定规则	1
+singular function	奇函数，奇异函数	1
+deformation	畸形；变形	1
+engineering graphics	工程图学	4
+shell mould	壳模，壳型	3
+Cenozoic Era	新生代	5
+neural network	神经网络	2
+chalkstone	石灰石；白垩	3
+autogenous grinding	自磨介质；粉磨	5
+interpolating nodal point	插值节点	4
+electrosilvering	电镀银	2
+parallel circuit	并联电路	5
+uplift blasting	上向爆破	1
+associative facilitation	联想易化	1
+fork	音叉；接合处	4
+cullet	碎玻璃	1
+character recognition	文字识别	2
+		3
+rotative surface	回转面	1
+lamellar liquid crystal	片状液晶	5
+image resolution	图像清晰度；图像分解力	3
+focus area selector lock	焦点选择锁定	1
+gravimeter	重力仪	2
+perimeter blasting	周边爆破，轮廓爆破	2
+key bed	标准层	5
+alternating-direction implicit method	交替方向隐式法	3
+marine refraction seismic survey	海洋折射地震调查	3
+impulse sealing	脉冲封口	4
+foam-in-place	现场发泡	3
+copper	铜	2
+electromotive force	电动势	5
+cognitive tunneling	认知隧道	4
+aqueoglacial deposit	冰水沉积	2
+measuring tool	量具	5
+ionization gauge	电离规，离子规	5
+steel strip	带钢	5
+quadrilateral	四边形	3
+butt welding	对接焊	1
+Albada finder	阿尔巴达取景器	5
+seal tightness test	密封性试验	2
+open overhand stoping	无支护向上台阶法	2
+eye structure	眼球状构造	5
+horizontal plane	水平面	4
+modality	模态	3
+glacial epoch	冰期	2
+solution	溶液；溶体；溶解；解	2
+simple shear	单剪	4
+maxipulse	最大脉冲	1
+solubility	溶解度，溶解性	1
+net rain	净雨量	3
+blasting machine	起爆器，放炮器	4
+electron microscopy	电子显微技术	5
+abyssolith	岩基	5
+law of universal gravitation	万有引力定律	4
+zero potential	零电势	2
+Laplace pressure	拉普拉斯压力	3
+mandatory plan	指令性计划	2
+malachite	孔雀石	2
+acicular powder	针状粉末	1
+variable difference	变差	3
+runoff generation	产流	3
+Eocene Epoch	始新世	1
+carbonyl powder	羰基粉末	5
+slip cover	滑盖	5
+thaw-collapse soil	融陷土	3
+packing	填料；密封垫；包装	3
+principle of coordination	协调原理	1
+orifice flow technique	孔流技术	5
+rotation angle	旋转角（度）	3
+rectangle lattice	矩形网格	3
+heater	加热器；热源；燃烧室	2
+gland follower	密封压盖随动件	5
+blasting supplies	爆破器材	5
+system effect	系统效应	2
+acute angle	锐角	5
+Knudsen cosine law	克努森余弦定律	4
+regeneration	正反馈；再生	4
+software engineering standardization	软件工程标准化	1
+blanker	关闭器，消隐装置；粗模膛	4
+motor neuron(e)	运动神经元	4
+hydraulic press	液压机	3
+contour gradient	等倾斜线	1
+torus	环；环形圆纹曲面；环面	4
+hypergeometric differential equation	超几何微分方程	4
+receptor charge	被发药包	5
+tolerance	容限；允许剂量	4
+abscissa	横坐标	5
+electric arc	电弧	3
+intelligent robot	智能机器人	1
+activity coefficient	活度系数	2
+dilatational modulus	扩张系数	4
+displacement fault	平移断层	4
+exploration geochemistry	勘查地球化学	2
+glacier sounding	冰川探测	3
+butt	底部；铰链	2
+design standard	设计基准	4
+baby cut	空孔掏槽；小型掏槽，子掏槽	2
+soft magnetic material	软磁材料	1
+tension set	永久变形；拉伸变定	1
+spin correlation	自旋相关	4
+modulation time	调节时间	1
+extreme value	极值	2
+direct correlation function	直接相关作用	3
+position sensor	位置传感器	4
+demarcation circle	分界圆	1
+draw cut	拉削；底部掏槽	1
+crosscut	横切；横截面，剖面；横巷，石门	1
+active medium	工作介质；激活媒质	2
+cathodograph	X光照相；阴极记录器	5
+epithermal neutron	超热能中子	1
+nodular powder	瘤状粉末	1
+nanometre	纳米	5
+line drilling	线形钻孔，单排钻孔	2
+liquid phase sintering	液相烧结	1
+band saw	带锯	4
+double integral	二重积分	5
+incline plane	斜面	3
+base	底座；基数	3
+neotectonic movement	新构造运动	4
+water-cooled blasting	水冷爆破	1
+bionic composite	仿生复合材料	1
+surface curvature	表面曲率	1
+developing and printing (D&P)	冲洗印	5
+high manganese steel	高锰钢	4
+electrical method	电法	3
+frequency	频率，周率；次数	4
+principle of interchangeability	互换性原理	4
+follower	跟踪器；从动件，随动装置	5
+cylinder	柱；机筒；气缸	2
+observation accuracy	观测精度	2
+decanol	癸醇	2
+slope circuit	斜率电路	1
+weight filling	重量罐装法	5
+law of conservation of angular momentum	角动量守恒定律	4
+limiting frequency	极限频率，截止频率	1
+damping	阻尼；防震；回潮	5
+single acting seal	单用密封	4
+river dynamics	河流动力学	3
+depression detention	填洼	4
+waste rock	弃碴，石碴	4
+Boltzmann constant	玻尔兹曼常数	1
+strapping machine	捆扎机	4
+millimetre	毫米	5
+particle ray	粒子射线	5
+ground data-collection platform	地面数据收集站；地面数据自动遥测站	4
+perspective projection	透视投影	4
+unknown force	未知力	2
+textural compression	文本压缩	1
+relative movement	相对运动	4
+magnitude estimation	量值估计	3
+surface drainage	除涝；地表排水	5
+spectrograph	摄谱仪，光谱仪；声谱图	5
+hydrogel	水凝胶	5
+chromatometer	色度计，色觉仪	3
+ebullator	循环泵，沸腾器	5
+roll mill	轧钢机，滚压机	3
+magnetic cup	磁屏	5
+agglutination	胶结，烧结，凝集	5
+coalescence time	聚结时间	4
+self-inductance	自感	2
+paralleled processing	并行处理	3
+gooseneck	鹅颈管；鹅颈弯，鹅颈钩	1
+oxidation	氧化	3
+organic template approach	有机模板法	5
+vacuum extrusion	真空挤压	1
+conchoidal fracture	贝壳状断口，波纹状断口	4
+sudden spontaneous firing	误爆；意外自爆	4
+sandwich die	层状模	2
+visual momentum	视觉动量	1
+chamfer	切面，切角；（刻）槽	3
+reversible flocculation	可逆絮凝	2
+baseline	基线	1
+amplitude-frequency characteristic	幅频特性	4
+fast molecule	高能分子	3
+real length	实长	3
+hypothalamus	下丘脑	2
+ammonium nitrate explosive	硝铵炸药	4
+polystyrene (PS)	聚苯乙烯	5
+flow duration curve	量历时曲线，流量过程线	5
+scalar function	标量函数，无向量函数	2
+diapiric feature	挤入构造	2
+discontinuous sintering	间歇烧结	1
+overshoot	超调量；过冲，过冲量；超越	2
+radioactivity	放射性；放射学；放射现象	5
+Hermitian	埃尔米特式；埃尔米特量	1
+variable	变数，变量	4
+isoseismal	等震线	2
+acoustical insulant	隔声材料	2
+wet-bond laminating	湿法复合	3
+plastic fluid	塑性流体	4
+shear wave	剪切波，横波	1
+Ordovician Period	奥陶纪	5
+brace	撑臂，撑杆；固定，支撑	5
+ignition temperature	点火温度	1
+distorting lens	变形镜头	3
+back focal length (BFL)	后焦距	5
+perpendicularity	垂直，正交	2
+collar priming	正向起爆；孔口起爆	3
+standardization of document formats	文件格式标准化	1
+orthogonal matrix	正交矩阵	2
+equalizing ring	均压环，均衡环	4
+optical viewfinder	光学取景器	3
+quasilinear equation	拟线性方程	2
+finger ring	指状垫圈	2
+abstraction hierarchy	抽象层次；分离层次	3
+incidence point	入射点	2
+sodium oleate	油酸钠	5
+angular momentum	角动量矩	3
+colour channel	彩色通道	2
+crystal	水晶，（石英）晶体；晶体检波器	5
+sinking round	向下掘进炮孔组；凿井炮孔组	1
+hole-basis system	基孔制	4
+isotope	同位素	2
+information technology standardization	信息技术标准化	5
+complex root	复数根	5
+vibrating conveyor	振动输送机	4
+Hermitian polynomial	埃尔米特多项式	4
+preferred number	优先数	4
+water budget equation	水量平衡方程式	2
+hadron	强子	2
+frontlighting	顺光	5
+sectional view	剖视图，断面图	4
+bar code identification system	条码识读系统	3
+isovel	等速线	3
+diffusion current	扩散电流	4
+film elasticity	膜弹性	1
+mode switch	模式开关	2
+ultraviolet (UV)	紫外线	1
+load-carrying ability	承载能力，载重量	3
+hydrographic basin	流域	1
+modulus	系数；模量，模数	2
+sum	和，总数	3
+blooming	图像发晕；敷霜，加膜；光学膜	3
+ellipsometry	椭率测量术；椭圆光度法	5
+design concept	设计概念	4
+boundary	边，界；限度	4
+sensing unit	传感器，传感装置	5
+bottom	底板；低频声音；残渣	4
+charge conservation law	电荷守恒定律	2
+y-coordinate	y坐标，纵坐标	5
+exploded view	部件分解图	3
+xenon effect	氙效应	2
+Hick-Hyman law	希克-哈曼定律	4
+standard deviation	标准差	5
+indirect priming	反向起爆；孔底起爆	2
+optoelectronic cell	光电池	3
+sintered electrical contact material	烧结电触头材料	3
+trachyte	粗面岩	1
+exposure latitude	曝光宽容度	3
+set square	三角板	2
+filling capacity	装粉量	1
+regular arc	正弧	2
+noise level	噪声级	2
+Holocene Epoch	全新世	4
+die plate	阴模固定板	5
+surf flow	激浪流	5
+sieve fraction	筛分级	1
+standard tolerance	标准公差	2
+solid inner core	固态内核	1
+flexotir	爆炸笼	1
+ephemeral stream	时令河，季节河	2
+heel	钻孔口；底垫；棱	4
+differential measurement	微差测量	3
+heat-insulating coating	隔热层	1
+rock bit	岩石钻头	4
+lifter	起重机；升降台；（电磁铁的）衔铁	5
+lustre	光泽；釉	2
+mill scale powder	铁鳞粉	1
+paramagnetic material	顺磁材料	1
+probabilistic automaton	随机自动机	3
+metal seal	金属封接；金属密封	4
+accommodation	调节	5
+pressure effect	压力效应	4
+analogous process	模拟处理	4
+stick-slip	黏着滑动	4
+concurrent force	汇交力	4
+photoproton	光质子	2
+pressure gauge	压力表	5
+calcium gypsum	二水石膏	2
+ambiguity	模糊性，不定性，多解性	5
+Laplace transformation	拉普拉斯变换	1
+intermolecular interaction	分子间相互作用	5
+safety standard	安全标准	2
+channel effect	沟槽效应；管道效应	2
+vapour pressure	蒸汽压力，蒸汽压强	4
+attenuation	衰减；稀释	5
+argon shower	氩喷射；氩喷射器	2
+safety mark	安全标志	3
+transverse force	横向力	3
+tamping rod	装药棒；捣棍	3
+coefficient	系数；协同因素	3
+difference approximation	差分近似	4
+exposure meter	曝光表，测光表	2
+high-speed surface	高速剖面	5
+programme outline of integrated standardization	综合标准化计划大纲	3
+candela	坎德拉，新烛光	4
+zipper	闪光环；拉链	1
+discontinuity surface	不连续面	2
+pulsation characteristic	脉动特征	4
+parallel	平行线，平行面；并联	3
+absolute number	绝对数	4
+Einstein B coefficient	爱因斯坦他激系数	1
+peak value	峰值	1
+probable maximum precipitation (PMP)	可能最大降水	3
+exposure lock	曝光锁定	1
+lifter cut	拉底掏槽	3
+thermionic emission	热电子发射	2
+amorphous film	非晶态薄膜	4
+del	倒三角形	1
+apron	挡板；皮带运输机	2
+auxiliary shaft	副井；副轴	5
+scaling theory	比例理论	3
+lockup (LKUP)	锁住	2
+sponge iron powder	海绵铁粉	3
+umbra	本影，全影	5
+isomer	同质异能素；等雨率线；同分异构体	4
+tool carrier	刀架	2
+abstract number	不名数，抽象数	4
+earthy texture	土状结构	5
+stainer	着色剂；染色器	4
+tension	张力；电压；拉伸	2
+industrial standardization	工业标准化	1
+cartridge weight	药卷重量	2
+desaturate	冲淡；减饱和	2
+triangular coversed sine	三角余矢	4
+squeeze	挤压；压印	5
+frequency transformer	变频器	1
+transverse shear force	横剪力	4
+ceramic powder	陶瓷粉	5
+busbar	母线，汇流排，汇流条	5
+model	模型	2
+character line equation	特征线方程	1
+HDPE (high-density polyethylene)	高密度聚乙烯	1
+depletion curve	退水曲线	5
+steering line	转向线	4
+SDA (stopped-down aperture)	收缩光圈	4
+selective circuit	选择电路	1
+scalar quantity	标量，无向量	3
+sine integral function	正弦积分函数	1
+auxiliary line	辅助线	3
+snow line	雪线	1
+tangential stress	切应力	1
+spread blasting	辅助爆破	2
+fundamental deviation	基本偏差	4
+resonant cavity	谐振腔	5
+series dimension	连续尺寸	2
+threshold of hearing	听觉阈限，闻阈，听觉临界	2
+point welding	点焊	3
+shear joint	剪节理	2
+cross-section	（横）截面；截面图	5
+magnetic permeability	磁导率	4
+radial clearance	径向间隙	4
+primary crusher	粗碎机	1
+precipitated powder	沉淀粉末	1
+absolute judgment	绝对判断	1
+parallel battery	并联电池组	2
+matrix solution	矩阵解	2
+fused seal	熔凝，封接，熔封	2
+modulator gauge	调制型电离真空器	3
+quadratic surface	二次曲面	4
+lateral area	侧面积	3
+compressible powder	压缩性粉体	2
+subcircuit	辅助电路	3
+water equivalent	水当量	3
+horizontal form-fill-seal (HFFS)	卧式成型-充填-封口	2
+repressed brick	加压砖	5
+river channel	河床；河槽，河道	5
+detonating cord	导爆索	3
+low-order accuracy	低阶精度	3
+natural powder	天然粉	2
+equilibrium equation	平衡方程	5
+gas detector	瓦斯检测仪	2
+iteration method	迭代方法	3
+consumptive use	消耗量	4
+sericite	绢云母	3
+divergent lens	发散透镜，散光透镜	3
+aid	辅助设备；器件；助剂	1
+random event	随机事件，随机现象	2
+working performance	工作效率	5
+solid shooting	不掏槽爆破；整体爆破	5
+visual value	目测值	2
+lower ram	下柱塞，下锤头	1
+megohm	兆欧（姆）	1
+plate capacitor	平板电容器	4
+die lubricant	压模润滑剂	2
+microinch	微英寸	1
+extension line	尺寸界线；延长线	5
+specific heat	比热	4
+Abel heat test	阿贝尔耐热试验	2
+UPC (universe product code)	通用产品代码	5
+Mesozoic Era	中生代	2
+Laplace differential equation	拉普拉斯微分方程	3
+chaff	膜片；箔片，箔条	3
+impact	冲量；动能；装填	1
+ion current	离子电流；离子流	1
+Napier equation	奈培公式	4
+cut spreader hole	辅助掏槽孔；扩槽孔	5
+double root	二重根	4
+stretch wrapping	拉伸包装	1
+self bias	自偏压	4
+tesla	特斯拉（磁通量密度单位）	3
+crevice blow	爆炸气体从裂隙中喷出	4
+coulombic interaction	库仑相互作用	1
+gravity prospecting	重力勘探	2
+grazing angle	入射角，掠射角	5
+ANFO (ammonium nitrate fuel/oil)	铵油炸药	4
+PUR (polyurethane)	聚氨酯	4
+human reliability analysis	人的可靠性分析	4
+rock formation	岩层；岩系	3
+programming language standardization	程序设计语言标准化	3
+Einstein A coefficient	爱因斯坦自激系数	2
+regular polygon	正多边形	5
+dispersed phase ratio	分散内相率	5
+talcum	滑石	2
+high-energy particle	高能粒子	5
+machine tool	机床	2
+inspection of quality conformance	质量一致性检验	4
+self-oscillation	自振荡	3
+geometrical drawing	几何图	3
+instantaneous value	瞬时值	3
+resistivity	抗性；比阻；电阻率	3
+acutance	锐度；（胶片的）锐敏度；锐度曲线	4
+amplitude value	幅值	2
+through-hole	通孔	2
+initiation	起爆；发动；激磁	2
+liquefaction	液化	1
+law of conservation of mass	质量守恒定律	1
+rapid solidification	快速凝固	5
+sound source	声源	2
+geomorphology	地貌学，地形学	2
+line spectrum	线光谱，线状光谱	2
+resistance sintering	电阻烧结	3
+output index	产量指标	4
+rigidity	刚性，硬度	5
+constant breadth	等宽，定宽	5
+besel	屏；遮光屏	4
+shaft sinking round	凿井炮孔组	4
+triangular cosine	三角余弦	4
+lithophysa structure	石泡构造	5
+Mollisol	软土	4
+particle size	粒度	3
+stationary seal ring	固定密封圈	4
+extrude	拉伸；挤压，模压	2
+universal contact	万能接头	5
+river gauging	测流，河道流量测定	5
+serac	冰塔	2
+ionized PVD	电离物理汽相沉积	2
+differential transformer	差动变压器	5
+nuclear fusion	核聚变	5
+tunnel borer	隧道掘进机	4
+ripple mark	波痕	5
+foreign gas	杂质气体	5
+vacuum dryer	真空干燥装置	5
+serpentine	蛇纹石	3
+electric field energy	电场能	5
+hemolysis	溶血	5
+fibreboard	纤维板	2
+spline	齿条，样条；活动曲线规	4
+composite powder	复合粉末	5
+crest line	棱线	4
+disintegrating method	分裂法	4
+rectangular seal	矩形密封	1
+zoom lens	变焦镜头	5
+true dip	真倾角	2
+kmaite	绿云母	4
+connection of wires	连线，接线	4
+amputation plane	截断面	2
+excitation time	激发时间	5
+cartridge	胶卷；卡盘；药卷	2
+mine explosion	矿井爆炸	1
+upper punch	上模冲	2
+seismic wave	地震波	1
+hydrological element	水文要素	3
+ejection	脱模；射出；排出物	1
+remote sensing	遥感	4
+cylinder machine	圆网纸机	4
+CAP (controlled atmosphere packaging)	可控气氛包装	3
+direct measurement	直接测量	2
+Laguerre function	拉盖尔函数	2
+replacement measurement	替代测量	2
+critical distance	临界距离	4
+ecological display	生态显示器	1
+chute blasting	溜井爆破	1
+commotion	电震	4
+cake	块状物；烧结	5
+information visualization	信息形象化	5
+ordinary difference equation	常差分方程	3
+intermittent stream	时令河，季节河	2
+exposure control diode (ECD)	曝光控制二极管	4
+smooth curve	平滑曲线	2
+rack	齿条；机架	5
+optimal salinity	最佳盐度	1
+mole	摩尔；防波堤	5
+quartz crystal	石英晶体，石英水晶	2
+methyl alcohol	甲醇	1
+calcareous spar	方解石	4
+turnover	翻转	4
+normal vector	法向量	5
+index	索引；指标；指数	4
+bellows pipe	波纹管	5
+counter force	反作用力	1
+half cylinder	半圆柱	5
+tag	标记；辅助信息；电缆接头	1
+platy powder	板状粉	2
+remote metering	遥测	1
+Penning gauge	彭宁规，冷阴极电离规	3
+unconformable contact	不整合接触	4
+symmetrical circulation	对称循环	1
+valve	阀，阀门；电子管	2
+impinging jet technique	碰撞射流技术	3
+pegmatite	（花岗）伟晶岩	2
+common tangent plane	公切面	3
+screen printing	丝网印刷	5
+size dimension	定形尺寸	3
+fixed error	固定误差	5
+transferable reference gauge	可转换校准量规	2
+elementary particle	基本粒子	2
+alternate angle	交错角	1
+group	群；基；族；组	5
+plagioclase	斜长石	1
+storm profile	暴雨剖面	3
+cold chamber	常温容器；冷冻室	1
+energy flux	能流	4
+impact strength	冲击强度；耐撞性	3
+thin film	薄膜	5
+torr	托（真空压强单位）	4
+negative acceleration	负加速度	3
+stage blasting	分段爆破	5
+locus	轨迹	3
+blank	坯料；消隐脉冲	4
+varying decelerated motion	变减速运动	5
+rotation	旋度；旋转；自转	4
+lightwave	光波	3
+sputter-ion pump	溅射离子泵	1
+impurity	杂质	4
+ego-motion	自运动	2
+lateral pressure	侧压力	2
+graphical perception	图形知觉	5
+copolymerization	共聚作用	2
+inscribed polygon	内接多边形	5
+three-dimensional vision	三维视觉	3
+superposition method	叠加法	4
+plane bend	平面弯曲	4
+priming charge	起爆装药	4
+qualification inspection	鉴定检验	5
+backward difference	向后差分	5
+pairwise additivity	成双累积	2
+automatic static correction	自动静校	2
+Boltzmann distribution	玻尔兹曼分布	4
+bit	刀片；钻（头）；二进制数；比特	5
+relaxation	弛豫，张弛；应力消除，应力释放	1
+zinc blend	闪锌矿	1
+discharge current	放电电流	5
+biotechnology	生物技术	5
+illuminance	照度；照明	1
+contact belt	接触带	2
+amplitude-frequency distortion	振幅-频率失真	2
+biomimetics	仿生学	4
+baler	压缩打包机	5
+moderator	减速剂，缓和剂	3
+constant voltage	恒定电压	4
+antenna	触角；天线	3
+flo(a)tation	漂浮；浮选	4
+relativity	相对论；相对性	4
+telemeter	遥测计，测距仪	3
+step fault	阶梯状断层	2
+bar code anti-bogus technique	条码防伪技术	2
+heating test	加热试验	5
+effluent stream	潜水补给河；出流河	2
+DS blasting	秒延迟爆破	2
+unirotational seal	单向密封	2
+cumulative probability curve	累积概率曲线	4
+confined gap test	约束殉爆试验	2
+optical tolerance	光学容限	4
+vibration of blasting	爆破振动	2
+tridiagonal equation	三对角型方程	5
+profile shooting	剖面放炮	2
+non-uniplanar perpendicular	异面垂直的	4
+actual size	实际尺寸	3
+sliding bearing	滑动轴承	5
+pulverization	粉碎	5
+right angle	直角	3
+sketch	草图；画草图	4
+affinity electrophoresis	亲和电泳	1
+streamflow	水流；流量	5
+electrode separation	电极距	1
+CRS (cable release socket)	线插口	2
+thixotropic level	触变等级	2
+getter material	吸气材料	3
+ejector	脱模器；喷射器；发射器	1
+isostatic pressing	等静压制	2
+off-centring	中心偏移	2
+facing	饰面，面层；密封面；涂层	1
+test charge	检验电荷	5
+fragility	易碎性，易裂性	4
+diagonal dimension	对边尺寸	2
+safety colour	安全色	3
+index number	指数；分度数	5
+projection	投射，投影；突出部分	4
+body of revolution	回转体	1
+sand texture	砂状结构	2
+photocell	光电池	1
+exploder	放炮器，爆炸装置；雷管	2
+abrasion platform	海蚀台地	4
+electrostatic force constant	静电力恒量	4
+electric filter	滤波器	4
+tuff	凝灰岩	1
+astigmatoscope	像散镜；散光镜	2
+unitization	组合化；规格化	4
+vapour tension	蒸汽张力	3
+tamper-evident closure (TE closure)	防盗盖；防干扰封闭件	2
+photophoresis	光致迁动，光泳（现象）	5
+quarry blasting	采石爆破，露天爆破	5
+reagent	试剂	4
+post-development treatment	后期显影处理	3
+Newton's approximation	牛顿近似法	2
+backup ring	备用垫圈；支承环	5
+underdamping	欠阻尼；不完全衰减	2
+level thrust	水平推力	1
+interchangeability	互换性	3
+depth of fill	填高	4
+axonometric projection	轴测投影；三向投影图	4
+cathode	负极，阴极	5
+numerical value	数值	5
+wooden framed box	框架木箱	4
+lightproof	不透光的，耐光的	3
+telephoto lens	远摄物镜，长焦镜头	4
+rotary drill	旋转式钻机	3
+anode	阳极；正端；氧化极	4
+one-way slab	单向板	5
+surface tension	表面张力	5
+Sinian Epoch	震旦世	2
+electromagnetism	电磁；电磁学	2
+decimal fraction	小数，十进分数	2
+skarn deposit	矽卡岩矿床	4
+parabola	抛物线	4
+mathematical horizon	理想地平，数理地平	2
+rotary vane	旋片，回转片	2
+primary standard	基准	5
+lamination	叠片；层压；纹理；分层结构	2
+ray path	射线路径	5
+nuclear process control	核变过程控制	4
+couple	力偶；热（电）偶；耦合	3
+indeterminate equation	不定方程	5
+flank plane	侧平面	1
+triangular sine	三角正弦	1
+box fold	箱形褶皱	3
+horizontal interface	水平分界面	3
+subsieve powder	亚筛粉	5
+particle-size classification	粒度分级	4
+voltmeter	电压表，电压计，伏特计	5
+chill roll	冷却辊	3
+random alloy	无序合金	5
+bubble wrap	泡状包装材料	5
+sealant	密封剂；密封层；密封材料	5
+quality audit	质量审核	5
+permissible equipment	许用器材，安全器材	5
+powder preparation	粉末制备	5
+jackhammer	凿岩机，风镐	4
+pressing in magnetic field	磁场压制	1
+external force	外力，外动力	3
+glass head seal	玻璃熔封	5
+longitudinal wave	纵波	4
+physical stability	物理稳定性	1
+phreatic line	井水线，井水位	2
+friction material	摩擦材料	3
+exothermic	放热的，发热的	2
+detonation velocity test	爆速试验	4
+compound	合成；化合物	1
+barie	巴列	1
+sensing mechanism	感觉机制	5
+undertone	底彩；淡色	3
+premixed powder	预混合粉	1
+anticlinorium	复背斜	1
+gravity potential energy	重力势能	3
+blind valley	盲谷	2
+wedge storage	楔形槽蓄，楔形蓄水体	1
+lithology	岩性学	1
+magnification	放大，增加	1
+sticking probability	黏着几率，吸附几率	5
+critical aggregation concentration	临界聚集浓度	5
+light excitation	光激励，光激发	5
+antisymmetric matrix	反对称矩阵	1
+waster	废物，废件	2
+perspective effect	透视效果	5
+Snell's law	斯奈尔定律	5
+precipitation	沉淀；降水量	1
+external resistance	外电阻	2
+low explosive	火药；低级炸药	2
+cut	切削；断面，切面；断面图	1
+base plate	底板，基板	2
+tolerable environment	可耐环境	2
+PET (polyester)	聚酯	1
+organic solvent	有机溶剂	2
+negative sign	负号	4
+FFS machine (form-fill-seal machine)	成型-充填-封口机	1
+atomic weight	原子量	4
+water shed	分水岭	2
+orientation of a magnetic body	磁物体方向	2
+delay blasting	延期爆破	4
+attitude occurrence	产状	1
+Huygens' principle	惠更斯原理	3
+control unit	控制部件	2
+rotating inertia	转动惯量	2
+interparticle interaction	粒子间相互作用	4
+panel	仪表盘，面板；矩形采煤区	5
+surface elasticity	表面弹性	2
+insoluble monolayer	不溶性单层	5
+Coulomb's law	库仑定律	5
+hydrosphere	水圈	4
+Fitts' law	费茨定律	3
+Hess brisance test	赫斯猛度试验	3
+alluvial deposit	冲积沉淀物	1
+gob	采空区；充填料	1
+granulation	粒化；团粒作用	5
+powder technology	粉末工艺学	3
+digital storage accessory	数码存储器附件	1
+charge quantity	药量	4
+backward sequence	逆序	4
+sounding	探测	5
+full partial current	满偏电流	2
+chromatin	染色质，核染质	1
+ropy structure	绳状构造	4
+binary structure	二元结构	5
+Shannon Fano principle	香农方诺原则	5
+gable-top carton	屋顶型盒	3
+hydrodynamic stress	液体动压力	4
+stripe	条纹	4
+floppy disk adapter	软盘适配器	5
+buoyancy	浮力	5
+channel	槽；槽钢；系统	2
+holomorphic function	全纯函数	5
+minuend	被减数	1
+field theory	场论	3
+damping material	隔音材料	5
+breakaway	分离，剥裂；折断力	5
+annual flood peak series	年洪峰序列，年洪峰系列	4
+chafe	摩擦	4
+Newton first law	牛顿第一定律	5
+describing function	描述函数	5
+norm of output	产量定额	4
+actuator	促动器，传动器	2
+pump selection	抽气选择	4
+particle shape	粉末形状	2
+harmonic function	调和函数	5
+clutter	混乱；局部干扰	1
+first derivative	一阶导数	5
+radiant heat	辐射热	2
+elliptic coordinate system	椭圆坐标系	2
+Hooke's law	虎克定律	2
+microampere	微安	2
+real variable function	实变函数	3
+nuclear physics	核物理学	3
+fisheye lens	鱼眼镜头，超广角镜头	2
+slug	斯勒格；铁芯；金属块	5
+heptagon	七角形，七边形	1
+screen	筛；隔板；荧光屏	5
+Einstein coefficient	爱因斯坦系数	3
+equipotential surface	等势面	5
+complex plane	复平面	4
+harmonic series	调和级数	5
+intensity-duration curve	强度-历时关系曲线	4
+paraffin	石蜡；煤油	5
+Archimedes principle	阿基米德原理	4
+stress circle	应力圆	2
+thermal neutron	热中子	1
+closed line frame	封闭线框	4
+topaz	黄玉，黄晶	3
+Avogadro's law	阿伏伽德罗定律	1
+seal width	密封宽度	2
+cone	锥体；锥状地形	4
+polyolefin	聚烯烃	1
+sequential motion compaction	楔形压制	4
+transportation of explosives	炸药运输	4
+fillet gauge	圆角规	2
+depletion	消耗，损耗	3
+boring	炮孔；钻探	2
+reload	再装载	3
+achromatization	消色差（化）	3
+heat convection	热对流	5
+critical characteristic	临界特性	5
+momentum	动量；冲量	2
+conformable contact	整合接触	5
+spot welding	点焊	4
+yield limit	屈服极限	5
+Archimedes constant	阿基米德常数	4
+electric firing	电点火；电力起爆	5
+sampling plan	抽样方案	5
+fiducial probability	信念概率	3
+pentagon	五边形	1
+x-coordinate	x坐标，横坐标	4
+short-term solution	短项解	5
+cognitive appraisal	认知评价	5
+outflow	流出；出流量	2
+strain	应变；张力；拉紧	1
+automatic brightness contrast control (ABCC)	自动亮度反差控制	2
+maintenance man-hour quota	保养工时率	1
+artificial coxae	人工髋关节	4
+abluent	洗涤剂	5
+orthogonal polynomial	正交多项式	4
+spinning mirror camera	转镜式高速摄影机	2
+conjugate point	共轭点	1
+factorial polynomial	阶乘多项式	2
+phase error	相位误差	3
+cartometry	地图量算	3
+rating	定额；额定功率	3
+unilateral conductivity	单向导电性	5
+dedust	除尘	4
+internal voltage	内电压；(发电机)电动势，（电动机）反电势	1
+ventilator	通风设备	1
+power shovel	电铲；挖掘机	4
+rapid serial visual presentation	快速序列视觉呈现	2
+magnetic line of force	磁力线	3
+thermosetting plastic	热固塑料	5
+motor program	动作程序	4
+Lurie's method	鲁里叶法	2
+WAN (wide area network)	广域网	5
+trenching shot	挖沟爆破	2
+face seal	面密封；滑环密封	4
+evolution	开方；进化，形成	2
+multidimensional stimuli	多维刺激	1
+exsiccator	干燥器	4
+cold stress	冷应激	2
+scraper	刮刀；铲土机	3
+adumbration	轮廓，阴影；草图	3
+automatic migration	自动偏移	5
+stalagmite	石笋	5
+milled powder	研磨粉末	3
+butt constraint	铰链约束	5
+standard project storm	标准设计暴雨	5
+data-ink ratio	数据-笔墨比率	4
+zeolite	沸石	5
+balance	天平；余额；平衡	5
+negative image	负像	2
+peripheral force	圆周力	4
+counter	计数器，计算器，定标器	1
+fast neutron	快中子	4
+normal curve	正态曲线	2
+incline grade	斜度	1
+strain energy	应变能	2
+metrological certification	计量认证	4
+connectivity	连通性，连接性	5
+non-metal powder	非金属粉	5
+clearance factor	间隙因素	3
+bush	衬套；轴衬，轴瓦	1
+curve of Agnesi	箕舌线	2
+rain graph	雨量图	2
+blower	增压器；压缩机；鼓风机	5
+colour sensitometry	彩色感光学	3
+bobbin	胶卷轴；轴心；线圈	2
+horse	台架；夹石	4
+second-order leapfrog test	二阶跳步校验	4
+hydrostatic compacting	液静压制	3
+oriented polypropylene (OPP)	定向聚丙烯	1
+molecular diameter	分子直径	4
+infrasonic sound	次声	1
+primary task	主任务	4
+hypersensitivity	超敏性，超感光度；超敏反应	4
+biological cell	生物细胞	1
+spatial cognition	空间认识	2
+evacuation	排气，排空	5
+exosphere	外逸层，外气层	3
+solution power	溶蚀力	3
+glow discharge	辉光放电	3
+water layer	水层	4
+kinematic equation	运动方程	2
+ozone layer	臭氧层	3
+Euler polynomial	欧拉多项式	2
+chunking	组块	4
+cement	水泥，黏合剂	3
+crystalloblastic texture	变晶结构	4
+reproduction	复现；仿制	5
+exposure compensation scale (ECS)	曝光补偿刻度	2
+standard specimen	标样	1
+triple-wall board	三层瓦楞纸板	1
+inequality	不等式；不相等	2
+breakable glass seal	易碎玻璃密封	1
+photo-sensitive device	感光装置	5
+mixing energy	混合能	5
+dry cell	干电池	4
+sealing-off	脱焊	1
+auxiliary plane	辅助平面	3
+boundedness	有界性；局限性	5
+diapositive	透明正片	3
+product	产品；（乘）积；生成物	3
+print-fed scanner	馈纸式照片扫描仪	3
+reverse direction	反向	5
+head-up display	平视显示器	3
+consequent	后项	5
+statistical switch	统计开关	4
+dyke	岩脉；堤	5
+liquid crystal display (LCD)	液晶显示；液晶显示器	2
+critical volume	临界体积	4
+chrysotile	纤蛇纹石，温石棉	5
+zero line	零线，零位线	5
+controlled blasting	控制爆破	4
+point of focus	焦点	2
+outside callipers	外卡钳	5
+magnetic deflection	磁偏转	1
+statically determinate	静定的	5
+self-induced electromotive force	自感电动势	5
+self-induction voltage	自感电压	2
+offset structure	断裂构造	4
+clearance seal	余隙密封	5
+photodetector	光电探测器	1
+maximum rainfall depth	最大降雨深度	2
+partial duration series	部分历时系列，局部历时系列	5
+sediment	沉积；泥沙；沉积物	1
+diagonal line	对角线	2
+destructional bench	侵蚀阶地	4
+bow-tie effect	“蝴蝶结”效应	1
+bad break	不规范转页	3
+equilibrium relative humidity (ERH )	平衡相对湿度	5
+crossover	交叉；渡线；截面	5
+exposure mode button	曝光模式按钮	2
+Aviomap	立体测图仪	4
+vein stuff	脉石	4
+capacitor film thickness monitor	电容器型膜厚监控器	4
+joule	焦耳	2
+classical mechanics	经典力学	4
+adaptive system	自适应系统，自适应体系	1
+sliding friction	滑动摩擦	3
+puncture voltage	击穿电压	1
+cyclic hardening	循环硬化	5
+active fault	活断层	3
+proton	质子	4
+housing	支架；垫圈；套，罩	5
+preprint	预印	2
+floor	底；底盘；平面	5
+Andre-Venner accumulator	安德烈-弗纳蓄电池，银锌蓄电池	1
+medical application	医学应用	2
+consequent stream	顺向河	3
+space force system	空间力系	4
+CT (continuous thread)	连续螺纹	3
+fiord	峡湾	1
+lava	熔岩	4
+short-term sensory store	短时感觉贮存	1
+applied force	作用力	1
+even approximation	偶次逼近	4
+blank flange	无孔凸缘；管口盖板	4
+electric meter	电表	4
+hydrogel composite	水凝胶复合材料	1
+colour shade	色光	1
+penetration welding	熔透型焊接法	1
+polymer modification	聚合变体	3
+left view	左视图	1
+reciprocity failure	倒易律失效	3
+peak discharge	洪峰流量	2
+photon theory	光子理论	4
+digital emulation	数字仿真	2
+slow hardening	缓凝；慢速硬化	1
+point of intersection	交点	1
+bump	凸块，凸缘；碰撞	5
+Manning formula	曼宁公式	4
+upper ram	上柱塞	5
+card gap test	隔板殉爆试验	1
+earth-probing radar	地质探测雷达	3
+geochronic geology	地史学	4
+splay	拓宽；八字面，斜削面	1
+polygon	多边形，多角形	2
+human-computer interaction	人机交互作用	1
+Hermitian matrix	埃尔米特矩阵	2
+theorem of kinetic energy	动能定理	2
+electric quantity	电量	4
+plastic retina	人造视网膜	4
+dodecagon	十二边形，十二角形	4
+starting angle	起始角	4
+isotactic moulding	等规成型	5
+error-tolerant system	容错系统	5
+cost ratio	成本比率	5
+nuclear power plant	核电站	1
+performance standard	性能标准	1
+plate	板块；（电子管）阳极，板极；底片	1
+shock	冲击波；电击；震动	2
+EVA (ethylene-vinyl acetate)	乙烯-醋酸乙烯共聚物	1
+friction	摩擦；摩擦力；摩擦离合器	5
+field focus	野外推定震源	5
+biophotometer	光度适应计	1
+bank storage	河岸调蓄量，河岸储量	3
+associative law	结合律	1
+flinger	抛油环；抛射机	1
+toroidal shell	环壳	5
+resin	树脂，松脂	1
+inverse hyperbolic tangent	反双曲正切	2
+internal tangent	内切	4
+process gas	生产气体；工业废气	4
+pacer	定速装置；起搏器	3
+shutter	快门；盖	2
+celotex	隔音板；隔音材料	4
+isosceles triangle	等腰三角形	5
+lamellar powder	片状粉	3
+natural radioactivity	天然放射性	4
+welding tip	焊嘴	2
+heat	热；熔化；熔炼量	3
+undersintering	欠烧	4
+photographing in low light	低照度摄影	1
+reference surface	参考面，分度曲面	3
+sheet asbestos	板状石棉，石棉板	1
+continuous sintering process	连续烧结	3
+black film	黑膜	4
+apparent angle	视角；表观角	3
+solution ditch	溶沟	1
+roll-on cap	滚压盖	4
+receding limb	退水段；（过程线的）下降段	3
+perimeter hole	周边炮孔	4
+capillary action	毛细作用	4
+charge	充电；装药；电荷	2
+Archean Era	太古代	4
+curtain coating	幕帘式淋涂	3
+curved surface modelling	曲面造型模拟	5
+breakdown voltage	击穿电压	4
+normal matrix	正规矩阵，法矩阵	4
+coated (CTD)	加膜的；有涂层的	1
+subsurface flow	壤中流	3
+cesium-vapour magnetometer	铯蒸气磁力仪	1
+pilot hole	导向孔；超前钻孔	4
+mould mark	模缝线；模痕	3
+setup	装置；装配，调试；变定	1
+inverse thermal stratification	逆温层	1
+resource exploration	资源勘探	1
+equidistance	等距离	4
+artesian monoclinal stratum	自流单斜层	2
+flow rate	流率，流速；流量	3
+electrostatic induction	静电感应	2
+interpretation key	判读标志	1
+equalizing valve	平衡阀	1
+aeration agitation	通风干燥	5
+detergency	去垢力；净化性	5
+circumfluence	环流，回流	3
+cubic approximating function	三次逼近函数	2
+firedamp	瓦斯，甲烷，沼气	3
+core	地核；岩心；堆芯	3
+Bessel function	贝塞尔函数	1
+chromatogram	色谱	5
+visual sense	视觉	5
+reverse repeater	反围盘	1
+druse	晶簇，晶洞	4
+cam press	凸轮压机	3
+silico-manganese	硅锰合金	1
+light beam	光束	5
+fission	裂变	3
+uniform velocity	匀速	1
+combined test	综合试验	5
+lipid bilayer	脂双层	3
+slipper seal	滑动密封	4
+equilateral triangle	等边三角形	1
+dark lightning	黑闪电效应	2
+high vacuum	高真空	1
+chipboard	纸板，刨板	3
+RH (relative humidity)	相对湿度	5
+critical point	临界点	2
+international standard serial number (ISSN)	国际标准刊号	4
+singular integral	奇异积分	1
+neutral surface	中性面	4
+solid-state miniaturized circuit	小型固态电路	1
+exploration	勘查，探矿	2
+visual illusion	视错觉	5
+step function	阶跃函数	2
+nodal line	交点线	5
+carrier material	载体材料	5
+boronizing	硼化	3
+acoustic seal	声密封	1
+fast working developer (FWD)	快速显影液	1
+containerboard	瓦楞纸	5
+coherent wave	相干波	1
+episcotister	斩光器，截光器；投影放大器	2
+wet-bulb temperature	湿球温度	2
+indicator	指示器；示功器；指示剂	5
+identity	恒等式；同一性	5
+shaft-basis system	基轴制	2
+angular acceleration	角加速度	4
+split seal	对开式密封	3
+retarded motion	减速运动	1
+cross-sectional area	横截面积	3
+geochronology	地质年代学	3
+multimodal interaction	多通道交互	5
+marking	标志，符号	2
+Permian System	二叠系	4
+backlighting	逆光	5
+real frequency	实频	1
+heat-shrink property	热收缩特性	3
+dynamics	动力学；动力，动态	4
+delay relay	延时继电器	2
+distortion	畸变；失真	2
+triaxial state of stress	三轴应力状态	3
+borehole gravity meter	井孔重力仪	3
+optical instrument	光学仪器	2
+test port	试验端口	1
+working face	工作面，开挖面	5
+diffusion deposition	扩散沉积	2
+arranger	传动装置	2
+blix	漂白定影	3
+di-vacancy	双空位	3
+glaucophane	蓝闪石	2
+electric potential	电位，电势	4
+hyperon	超子	2
+reverse bionics	反向仿生学	2
+earth's core	地核	2
+vibratory compaction	振动成形	3
+dead weight	自重，静重	2
+calender	压延机；轮压机	1
+actinography	光量测定法	3
+braid	编织物，编织层	2
+tear resistance	抗扯强度；抗扯力	2
+cyclotron	回旋加速器	5
+lead seal	铅封	5
+Joule's law	焦耳定律	4
+Silurian Period	志留纪	2
+correlation coefficient	相关系数	1
+moment	力矩	3
+mass spectrometer	质谱仪	3
+perturbation theory	微扰理论	2
+three-phase generator	三相发电机	3
+soil classification	土壤分类	4
+visual dominance	视觉优势	4
+spot	点；斑点	2
+vestibular response	前庭反应	4
+negative transfer	负迁移	1
+rip	裂缝；劈	4
+variable speed scanning	变速扫描	1
+tailor	裁剪	3
+sintering temperature	烧结温度	4
+automatic press	自动压机	3
+condensation	冷凝；凝结	3
+detonating fuse blasting	导爆索起爆	4
+fossil	化石	3
+permissible gelatin(e) dynamite	安全胶质炸药	2
+anti-extrusion ring	抗挤压垫圈	2
+powder injection moulding	粉末注射成型	5
+open cut mining	露天采矿	3
+drag conveyor	链板运输机	3
+soil moisture deficiency	土壤缺水量	5
+oversize	筛上物	5
+general position line	一般位置直线	4
+regression	退化；回归；海退	4
+temporary standard	暂行标准	4
+vibratory feed filler	振动供料式充填机	1
+disjoining pressure	分离压力	1
+rate of burning	燃烧速度	1
+common factor	公因子	5
+surface property	表面性质	4
+electroneutrality	电中性	3
+starlite	蓝锆石	5
+shake wave	横波	5
+coefficient of axial deformation	轴向伸缩系数	3
+slity soil	粉质土	2
+photographic vision filter (PVF)	照相视觉滤光镜	3
+cartridge length	药卷长度	4
+hydraulic packing	水封	4
+human factors engineering	人因素工程	5
+blare	发光；光泽；嘟嘟声	5
+finish	抛光剂；面层；抛光	4
+dynamic metamorphism	动力变质作用	1
+cold gas compaction	冷气体压缩	5
+mandatory standard	强制性标准	4
+material object	实物	4
+marker bed	标志层	1
+defoam	去沫，去泡	4
+normalization	标准化；正火处理	3
+double-acting seal	双动密封；双作用密封	1
+TE closure(tamper-evident closure)	防盗盖；防干扰封闭件	1
+transmission shaft	传动轴	1
+catholyte	阴极电解液	4
+magnetic domain	磁畴	5
+factorization	因式分解；计算程序编制	4
+tensile stress	张应力	2
+impression	底色；痕；凹槽	4
+electronic flashgun	电子闪光灯	5
+condenser aperture	聚光器孔径	4
+critical value	临界值	3
+iron powder	铁基粉末	3
+biological prototype	生物原型	2
+local section view	局部剖视图	5
+force of explosives	炸药力	5
+time delay	延时；时滞	2
+rational algebraic function	有理代数函数	1
+curtailed development	抑制显影	2
+moulding shrinkage	模制收缩，浇铸收缩	4
+supervisory control	监控	5
+power supply	电源	3
+bar code character set	条码字符集	2
+absorption spectrum	吸收光谱	2
+bending moment	弯矩	1
+foundation bench	基座阶地	2
+combination of particle size	粒度配合	4
+performance specification	性能规则	2
+wear ring	承磨环，耐磨环	3
+reverse	反向；调换；变换极性	1
+triangular tangent	三角正切	5
+multipoint method	多点法	4
+auxiliary view	辅助视图	1
+solid state	固态	1
+liner	衬垫；套筒；直线规	5
+cray	砂质泥灰岩	4
+geosyncline	地槽	5
+thrust fault	冲断层	5
+cap sensitivity	雷管起爆性，雷管感度	5
+theory of plasticity	塑性理论	3
+deck charge	分段装药，间隔装药	2
+erg	尔格	2
+cellulose acetate (CA)	醋酸纤维	5
+river reach	河段	5
+hard magnetic material	硬磁材料	4
+preset capacitor	半固定电容器，预调电容器	5
+coefficient of explosives	炸药（换算）系数	3
+finite difference	有限差分	5
+hormic theory	策动理论	5
+geoengineering	地质工程	1
+yield pressure	屈服压力	5
+fall	落差；斜度	3
+carbide	碳化物；碳化钙，电石	2
+bad earth	不良接地	4
+felt seal	毡密封	1
+cubical dilatation	体膨胀	4
+impact sintering	冲击烧结	2
+liquid outer core	液态外核	1
+thermally activated process	热激活过程；热激活处理	3
+hydrogeology	水文地质学	1
+emission spectrum	发射光谱；放射谱	3
+spherical cavity	球形空腔，球形空穴	4
+bedded structure	层状构造	2
+gas flow	气流	5
+power series	幂级数	3
+orthogonal vector	垂直向量，正交向量	4
+oil-free	无油的	2
+carrier	托架；暗盒；载体	1
+marine gravity survey	海洋重力勘探	1
+Roots blower	罗茨鼓风机	2
+artesian well	自流井，喷水井，深水井	2
+single-valued function	单值函数	4
+burst mode	连续快拍模式	3
+contour hole	周边炮孔	4
+negative	负数；底片；阴极板	2
+matrix dipole	基质偶极子	1
+transitional flow	过渡流	2
+secondary blasting	二次爆破	1
+ventilating shaft	风井	3
+free vibration	自由振动	2
+critical defect	致命缺陷	4
+variance	方差；差异	2
+repeatability	重复性	4
+film membrane	薄膜	2
+analyzing filter	分色滤光片	1
+capacitance	电容；容量	5
+multiaxis	多轴	1
+JIT manufacturing (just-in-time manufacturing)	实时制造	1
+plutonite	深成岩	5
+Lagrange interpolation	拉格朗日插值	4
+abnormally flat	反差过小的	1
+ammonia gelatin(e) dynamite	铵胶质炸药	5
+fraction	分数；细粒；馏分	5
+beta ray	β射线	5
+height of compact	压坯高度	5
+bootleg	未爆炮眼；靴筒（缺陷）	5
+recurrence interval	重复间隔，重现期	1
+binocular disparity	双目不等	2
+delay number	段号；段数	5
+emission of gas	瓦斯散出	2
+structural basin	构造盆地	2
+electromagnetic effect	电磁效应	1
+cocktail party effect	鸡尾酒会效应	1
+Adurol	阿杜罗显影剂	4
+lead	导线；矿脉；铅	1
+seam-road blasting	煤巷爆破	1
+molecule	分子，摩尔	2
+imaging sensor	图像感受器	4
+molten slag	熔渣	1
+magnetic material	磁性材料	1
+stroke	打，击；冲程，振幅	3
+sintering aids	烧结添加剂	5
+label	披水石；标签；示踪	5
+oscillograph	示波器，示波仪	3
+convex	凸形，凸面，凸圆体	4
+mark of safety certification	安全认证标志	2
+sand drift	沙丘，流沙堆	5
+sine electromotive force	正弦电动势	1
+blow-moulding	吹塑法	2
+inkblot test	墨迹测验	2
+film theory	薄膜理论	4
+Bohr atomic model	玻尔原子模型	4
+landmark knowledge	标志知识	1
+rhombus	菱形，斜方形；菱形六面体	5
+contact potential difference	接触电势差	3
+zero curvature	零曲率	5
+supported stope	支护开采工作面	4
+vibrational energy	振动能量	5
+bevel	斜面；斜角规	4
+charging conveyor	装料运输机	4
+drill carriage	钻孔台车；凿岩台车	1
+wave vector	波矢	2
+index of refraction	折射率，折射系数	3
+impact energy	碰撞能	1
+accretion	冲积层；炉瘤	4
+algebraic transformation	代数变换	3
+disk	度盘；圆面；磁盘	2
+multiplier	乘数；乘法器；倍增器	4
+inverse function	反函数，逆函数	4
+surface of revolution	回转曲面；旋转曲面	4
+complex number	复数	4
+frozen soil	冻土	1
+radioactive substance	放射性物质	1
+PS (polystyrene)	聚苯乙烯	2
+artificial neural network system	人工神经网络系统	2
+variation principle	变分原理	2
+ECT<sup>2</sup> (exposure compensation tab)	曝光补偿调整钮	3
+spherical powder	球状粉末	2
+scattering intensity	散射强度	1
+global processing	整体加工	4
+extrusion coating	挤出涂覆	2
+coating	涂层；涂料；镀膜	5
+leak detection method	探漏法	5
+suspending coal dust test	浮游煤尘试验	4
+unsintered part	生坯	4
+refraction effect	折射效应	5
+surface plasmon resonance	表面等离子共振	3
+solenoid valve	电磁阀	4
+prismatoid	旁面三角台	5
+zero shift	零漂移	4
+Activol	阿克蒂沃尔彩色显影剂	2
+algebraic function	代数函数	1
+wave equation	波动方程	4
+insulating ability	绝缘能力	5
+inverse hyperbolic cosine	反双曲余弦	3
+work standard	工作标准	3
+land form	地貌	5
+second equation of Maxwell	麦克斯韦第二方程	4
+motion perception	运动知觉	5
+aridity index	干燥指数	1
+polar distance	极距	3
+segmented die	拼合模	1
+homogeneous medium	均匀媒质，均匀介质	2
+half cartridge test	半药卷试验	1
+latitude and longitude	经纬度	4
+jumbo	巨型设备；钻车隧道盾构	4
+gamma	伽马；γ射线	4
+speech perception	言语知觉	2
+fluorescence spectroscopy	荧光光谱分析	5
+continuity equation	连续性方程	4
+dissipation	耗散，消耗	3
+reducing valve	减压阀	1
+floor conveyor	地面输送带	4
+single-phase alloy	单相合金	4
+out-of-plane bend	面外弯曲	5
+erosional truncation	削蚀	3
+mid-value	中值	4
+line of curvature	曲率线	2
+conductivity	传导性；导电系数	1
+electromagnetic field	电磁场	3
+line blasting	单排孔爆破；线爆破	2
+convergence	收敛，收敛性会聚；辐合	1
+fan conveyor	旋转式运送机	4
+lathe bed	（车床）床身	1
+pressure phone	压力检波器	1
+stress	应力	5
+lance bar method	熔棒钻孔法	5
+deliquescence	潮解	4
+plane<sup>1</sup>	平面	3
+C-flute	C型槽	5
+electric blasting cap	电雷管	1
+frame of reference	参照系	1
+view	视图	1
+runoff coefficient	径流系数	2
+sound-absorbing	吸声	3
+intermediate derivation	中间导数	3
+electric capacity	电容	4
+deposit contact	沉积接触	3
+filling conveyor	装料输送器	4
+pressing skin	压制壳层	3
+illegitimate error	不合理误差	1
+Pascal lag distribution	帕斯卡滞后分布	2
+hyperstereoscopy	超体视	1
+steel ruler	钢尺	3
+interferometric microscopy	干涉仪显微法	1
+capillary repulsion	毛细斥力	1
+crank-press	曲柄压机	3
+blow pipe	吹管；风管	1
+pocket	囊，袋；气孔；矿穴	5
+gneiss	片麻岩	4
+ground state	基态	5
+deflection method	偏转法	4
+ordinary differential equation	常微分方程	1
+self-hold	自锁	4
+secular variation	长期变化	3
+fine powder	细粉	4
+plate-like powder	盘状粉末	1
+equivalent resistance	等效电阻	3
+ooze	软泥	5
+flute	瓦楞状	1
+integral dimension	综合维度	2
+vitagraphy	全景摄影	1
+schistosity	片理	2
+hydrostatic pressing	液静压制	5
+replacement algorithm	替换算法	4
+orthonormal basic vector	正交标准化基向量	1
+wind run	风程	3
+Bell ship gravity meter	贝尔船上重力仪	4
+timbered stoping	支护开采法	1
+fast ancient standardization	远古时代标准化	3
+servomotor	伺服电动机	2
+gain and loss	增益和损耗	4
+analytical ultracentrifugation	分析型超速离心	1
+donor charge	主发药包；施主电荷	2
+dipole method	偶极法	1
+line frame	线框	5
+green strength	生坯强度	5
+invariant	不变式；不变量	4
+PE (polyethylene)	聚乙烯	3
+catastrophic flood	洪灾	2
+underslung conveyor	悬挂式输送机	2
+break point	断点	4
+garter spring	环状螺旋弹簧，卡紧弹簧	3
+molecular beam epitaxy (MBE)	分子束外延	2
+transition law	转变定律	4
+coplane	共面	1
+well shooting	油井射孔	1
+object of integrated standardization	综合标准化对象	1
+magnetic potential	磁位	4
+null galvanometer	指零电流计	1
+alkaline electrolyte	碱性电解质	3
+backstreaming	回流，逆流	4
+monocline	单斜褶皱，单斜结构	1
+simulator	模拟器；模拟程序	4
+line relaxation	线性松弛法	2
+finite series	有限级数	2
+influent stream	地下水补给河	1
+Liapunov direct method	李亚普诺夫直接法	2
+hyperboloid	双曲面	1
+gelatin(e)	凝胶；明胶；胶质	4
+tidal current	潮流	5
+dominating integral	优势积分	4
+simple pendulum	单摆	1
+virtual number	虚数	3
+module	模，模数；组件	1
+Brownian motion	布朗运动	5
+isotope geology	同位素地质学	1
+approximate solution	近似解	3
+optical axis	光轴	1
+concentric circle	同心圆	4
+confidence level	置信水准	2
+minimum detectable leak	最小可测漏孔	4
+electric charge	电荷	5
+nerve tissue	神经组织	1
+constant value	恒定值	5
+dehydrator	脱水机；干燥剂	5
+smoothing circuit	平滑电路	4
+composite form	合成结构	5
+tangential vector	切线向量	3
+general rule of unification	一般统一化原则	3
+sinking pump	吊泵	2
+true compact density	压坯真实密度	5
+intelligent memory	智能存储器	5
+harmonic average	调和平均	4
+robot geology	遥感地质学	5
+atomized powder	雾化粉末	5
+sine	正弦	5
+die-wall lubrication	模壁润滑	3
+Newtonian focus	牛顿焦点	4
+echo ranging	回声测距	3
+polycrystal	多晶（体）	1
+lever press	杠杆式压力机	1
+newton	牛顿	1
+law of refraction	折射定律	3
+ionic pumping	离子抽吸	3
+critical flocculation concentration	临界絮凝浓度	4
+percent sampling inspection	百分比抽样检验	1
+approximation	近似	2
+direct current main	直流电源	2
+Einstein equation	爱因斯坦方程	4
+decomposition form	分解格式	5
+inhibition-action balance	抑制行动平衡	5
+tissue engineering	组织工程	3
+mechanism	机制；结构；机械装置	3
+breakdown field strength	击穿场强	1
+capped fuse	雷管导火索	5
+spiral flow	螺旋流	5
+vision centre	视野中心	2
+equation of higher degree	高次方程	3
+residual error	残差	3
+focal-ambient vision	中央-周边视觉	5
+colluvial wedge	崩积楔	4
+preshearing	预裂爆破；预剪	1
+task interference	任务干扰	2
+operation availability	工作可用度，使用可用度	1
+inner quality standard	内控标准	4
+water vapour	水汽	2
+imagery	成像；意象	5
+rod steel	钻杆	5
+monitor button	监视器按钮	3
+sedimentation method	沉降法	2
+induction coil	感应线圈	2
+cheese cloth	柔光网罩	1
+gobi	戈壁	3
+ammeter	电流计，电流表	4
+plain detonator	火雷管，普通雷管	5
+pattern-sensitive fault	模式敏感故障	5
+precision	精确度，精度	4
+reactor	反应堆；反应器；电抗器	3
+velocity pulldown	速度下拉效应	4
+analogue data-processing system	模拟数据处理系统	5
+ACP (additive colour printing)	加色法印片	5
+high-pressure fluid	高压液	2
+void	孔隙；真空，空白	1
+modular system	模数制	5
+measure	测量；计量单位；量具	2
+boss	岩瘤；外壳	4
+hook	箍圈；变形线	4
+location dimension	定位尺寸	3
+hollow cylinder	空心圆柱体	3
+CTD (coated)	加膜的；有涂层的	1
+ventilating device	通风装置	4
+palletizing machine	堆垛机；货盘机	5
+vacuum gauge	真空计	3
+step length	步长	4
+downward continuation	向下延拓	1
+high pressure	高压	4
+spheroidal powder	球状粉末	4
+salinity	盐分；盐度	2
+C-V characteristic	伏安特性	2
+hydration force	水合力	5
+moisture-laden silty soil	饱水粉质土	4
+reaction rate	反应速率	2
+oersted	奥斯特（磁场强度单位）	2
+angular velocity	角速度	1
+round pin	圆销	1
+electron	电子	4
+pressing crack	压裂	5
+integral formula	积分公式	5
+band	波带，光谱带；夹石层	5
+photoplate	照相底板，摄影底版	5
+letterpress	活版［凸版］印刷；活版［凸版］印刷机	4
+binding energy	结合能	5
+celerity of flood waves	洪波速度	4
+isostatic mould	等静压模	5
+positive	正片；阳极；正数	5
+ratio inspection	比率检验	4
+optical-pumping magnetometer	光泵磁力仪	4
+cockpit display	座舱显示	4
+D-ring	D形垫圈	1
+brain stem	脑干	1
+gear-hobbing machine	滚齿机	2
+diameter	直径	2
+rolled compact	轧坯	1
+flatbed scanner	平台扫描仪	5
+chamber	硐室，药室	1
+beam splitter	分光束镜，光束分离器	4
+speech control	言语控制	2
+aeration	通风，通气；充气法	2
+supersonic wave	超声波	2
+blind shot	闷炮	4
+initial point	原点	3
+insensitive explosive test	钝感炸药试验	5
+SSD (shutter speed dial)	快门速度盘	1
+carbon	碳；炭精电极；炭精棒	1
+Lenz's law	楞次定律	2
+overhaul	大修，全面检修	1
+hyperbolic asymptote	双曲渐近线	1
+derivative formula	求导公式	4
+chromatic threshold	色阈	2
+macro lens	微距镜头	2
+vector	矢量，向量；幅	3
+progression	级数	1
+pendulum bearing	摆轴支座	2
+Boltzmann equation	玻尔兹曼方程式	2
+dash-and-dot line	点划线，假想线	4
+first angle method	第一角画法	2
+stalactite	钟乳石；钟乳石状物	5
+technical standard	技术标准	1
+lysimeter	测渗计；溶度计	5
+co-axial seal	同轴密封	1
+algebraic approximation	代数逼近	2
+abeyance	潜态；中止	5
+Hermitian function	埃尔米特函数	2
+shaping without pressure	无压成形	2
+flexography	苯胺印刷术	2
+Newton third law	牛顿第三定律	4
+thermocouple	热电偶，温差电偶	4
+cyclic coordinate	循环坐标	5
+organizing function	指挥职能	3
+separation distance	安全距离；间距	2
+fall hammer test	落锤试验	5
+centre of a circle	圆心	1
+effective value	有效值	4
+cropping	剪裁；裁切选取画面	2
+diverter	分流电阻；避雷针	4
+Stirling interpolation	斯特林插值	1
+surface remodelling	表面再造	5
+rock salt	石盐	2
+CD (cross direction)	横向	2
+atomic spectrum	原子光谱	2
+exchanger	交换器	1
+Boltzmann factor	玻尔兹曼因子	5
+saturation vapour pressure	饱和水汽压，饱和蒸汽压	5
+air gun	（空）气枪	3
+crust	地壳；外壳；浮渣	2
+area array	面性阵列，区域布局	2
+gas probing	天然气勘探	4
+bionic simulation	仿生仿真	4
+viscosity	黏度；黏滞性	2
+wireless blasting	无线起爆	2
+discriminability	可辨性，区分性；分辨力	3
+accepting behaviour	受爆性能；接收性能	1
+X ray	X射线，伦琴射线	1
+reflex action	反射动作	1
+shot hole	装药炮孔，爆破孔	5
+flex cracking	挠裂	1
+fixed-axis rotation	定轴转动	1
+recrystallization	再结晶	5
+oleic acid	油酸	5
+amorphous structure	无定形结构	5
+magnetic effect	磁效应	3
+adhesive	黏合剂，胶黏剂	1
+compensation measurement	补偿测量法	2
+surface filtration	表面过滤	5
+daub	打底色；抹胶；胶泥	3
+infrasonic wave	低声波；次声波	1
+reverse current	反向电流，反转电流	3
+chain-length compatibility	链长兼容性	4
+digital output terminal	数码输出终端	2
+total optimization packaging software (TOPS)	包装结构全面优化设计软件	2
+cradle	支架；保护网	1
+old corrugated container (OCC)	旧瓦楞纸箱	5
+approximate value	近似值	5
+aftertreatment	后处理，二次处理	3
+phase	相，周相，相位；阶段	5
+distribution	配电；分布	4
+Barthelmes' interpretation method	巴塞尔姆斯法	2
+binding material	黏合材料	4
+freeze-thaw weathering	冻融风化	1
+armature	衔铁，电枢；加强料	2
+bed thickness	地层厚度	4
+pneumatics	气体力学；气动装置	4
+attenuator	衰减器，衰耗器；增益调整器	2
+basin lag	流域滞时，流域迟滞	2
+hemi-spherical shell	半球壳	3
+syenite	正长岩	4
+ignition delay period	点火滞后时间	1
+slurry explosive	浆状炸药	5
+oxidizing agent	氧化剂	1
+burden	装料，荷载	1
+stump blasting	小煤柱爆破	4
+critical damping	临界阻尼	1
+catchment	流域，集水区	1
+barney	推进机车；平衡锤	1
+butterfly lighting	柔光照明	1
+frequency curve	频率曲线	3
+measuring glass	量杯	1
+technical regulation	技术规程	3
+loop	环；回路；循环	1
+steady-state response	稳态响应	5
+slideway grinder	导轨磨床	5
+safety certification	安全认证	2
+inverted steps stoping	倒台阶式回采	1
+suspending coal dust	浮游煤尘	3
+shearing strength	抗剪强度	4
+concentrated charge	集中装药	1
+composite cellulosic membrane	复合纤维膜	3
+testing gallery	试验巷道	2
+double-wall board	复壁瓦楞板	3
+molar mass	摩尔质量	1
+wall	墙；壁；间隔层	5
+form-fill-seal machine (FFS machine)	成型-充填-封口机	2
+dry valley	干谷	4
+antimicrobial activity	抗微生物活性	4
+inertia	惯量；惯性	4
+repulsion	斥力；排斥	2
+unconfined blasting	外部装药爆破	4
+wall hole	侧墙炮孔；壁小孔	4
+multi-spectral camera	多光谱摄影机	2
+motion of following	牵连运动	3
+blackdamp	窒息性气体	1
+interface	界面；接合处；接口	2
+slip crack	滑移裂纹	1
+decanoic acid	癸酸	2
+metrology	计量学，度量衡学；度量衡制	2
+water balance	水量平衡	5
+parameter optimization	参数优选	5
+colour separation	分色	2
+sublimation	升华	1
+crimp	卷边；压弯	2
+astigmatic lens	像散透镜	1
+quality management	质量管理	4
+afterdamp	炮烟，爆后气体	1
+mean daily temperature	平均日气温	1
+obtuse angle	钝角	3
+somatotype	体型	2
+rounding	舍入；倒圆角，倒角	2
+single row shot	单排孔爆破	3
+repetition effect	重复效应	1
+BIB (bag-in-box)	无菌包装袋,盒中袋	1
+ground water accumulation	地下水堆积	2
+ray tracing	射线描迹；射线跟踪	4
+infrared	红外线，红外区	5
+refractivity	折射性；折射系数	1
+scale	比例尺；刻度尺；度盘	3
+X-ray effect	X射线效应	4
+jump function	跳跃函数	5
+reciprocal	倒数	2
+visibility function value	视见函数值	4
+chain reaction	链式反应	3
+Faraday effect	法拉第效应	4
+back view	后视图	3
+parellel plane	平行面	1
+control of certified reference material	标准物质管理	3
+energizer	激发器；增能剂	5
+depression	洼地；低压；衰减	1
+compositing	叠加	1
+accommodation coefficient	适应系数，调节系数	2
+heart rate	心率	1
+beam compass	长臂圆规	1
+current accumulation	流水堆积	3
+irradiation	光渗；辐射，辐照	5
+shredded paper	碎纸	4
+detector	探测器；检波器；指示器	5
+bounce flash	反射式闪光	3
+hydrogen sulfide	硫化氢	1
+bulk loading	散装	3
+target validation	靶位点验证	5
+efficiency of borehole	炮孔利用率	1
+surface water	地表水，地面水	1
+acceptance inspection	验收检验	4
+repertoire	所有组成部分	1
+optomotor control	视动控制	3
+interaction	相互作用，相互影响	1
+karst	岩溶；喀斯特区	5
+half-decay time	半衰期	1
+instantaneous blasting	瞬发爆破，即发爆破	4
+atomic physics	原子物理学	3
+contact angle	接触角，交汇角	5
+hyperbolic cosine	双曲余弦	1
+coulomb	库仑	3
+mask	蒙片，屏蔽膜；避光框	5
+loose sintering	松装烧结	2
+summand	被加数	1
+sealing-in	封接；封入	4
+technological flow	工艺流程	4
+chilling unit	冷却装置	1
+absolute movement	绝对运动	4
+thermonuclear reaction	热核反应	3
+nested form	嵌套形式	3
+binding force	约束力	1
+chromatype	铬盐相片；铬盐片照相法	5
+centrifugal force	离心力	4
+total reflection	全反射	2
+grain corrosion	结晶类腐蚀	4
+desiccation crack	泥裂	5
+function	函数；功能	2
+low-velocity detonation	低速爆轰	1
+cohesion	内聚力；结合	2
+prospect theory	期望理论	2
+horst	地垒	2
+combustion limit	燃烧界限	5
+inside callipers	内卡钳，内径规	1
+bubble pulse	气泡脉冲	2
+ply	板层，胶合板	4
+alternating current	交流电	5
+marble	大理石；大理石制品	3
+constant term series	常数项级数	5
+blaster cap	雷管	3
+runoff	径流；流量	1
+piston seal	活塞密封圈	2
+elevation tints	高程分层设色	3
+filament	丝；阴极	5
+definite integral	定积分	1
+crop tool	修剪工具	5
+cold seal	冷封	4
+clay-coated board	黏土涂覆纸板	4
+flux-gate magnetometer	磁通门磁力仪	2
+columnar joint	柱状节理	2
+bay	底板，机架；分隔间	1
+adsorption energy	吸附能	4
+dispersion-strengthened material made by powder metallurgy	粉末冶金弥散强化材料	1
+dehumidizer	减湿剂；减湿器	2
+coalescence kinetics	聚结动力学	2
+crater cut	漏斗掏槽	3
+point of tangent (PT)	圆直点	4
+grease gun	滑脂枪	1
+object line	轮廓线，外形线	3
+diametral clearance	径向间隙	2
+non-free-flowing powder	非自由流动粉料	3
+fast shot	瞎炮	2
+random signal	随机信号	4
+series excited motor	串励电动机	3
+static function	静态函数	3
+standard program	标准程序	4
+ion beam	离子束	5
+terminology standard	术语标准	2
+hard coating	硬涂层	5
+prospecting technology	勘查技术	3
+adsorption isotherm	吸附等温线	4
+cylinder face	圆柱面	5
+Gauss theorem	高斯定理	3
+external anchor ring	外环面	1
+non-crystalline	非晶质	2
+phosphorus	磷；磷光体，磷光物质	1
+medium	媒质，媒介物	3
+seismic prospecting	地震探矿，地震勘探	3
+solid bleached sulfate board (SBS board)	硬性硫酸盐漂白纸板	5
+wet compaction	湿法成形	2
+Abbe illumination	阿贝照明	4
+twin lens reflex (TLR)	双镜头反光照相机	2
+acidic rock	酸性岩	2
+displacement	位移；排量	2
+constant-volume filling	定容积充填法	5
+column	列，纵行；柱	3
+internal resistance	内电阻	4
+Taylor series	泰勒级数	4
+nude gauge	裸规	1
+cat	起锚滑车	3
+cold-drawing	冷拔	2
+dense phase	浓相	2
+intrusion	侵入；侵入岩	1
+timeline analysis	时间线分析	1
+backboard	底板，后部挡板	4
+flood profile	水面线	4
+saturation deficit	饱和差；饱和亏缺	5
+mirror image	镜像	3
+drive	掘进；驱动	5
+debris	岩屑；覆盖岩层；尾矿	2
+ellipse	椭圆	4
+electron density gradient	电子密度梯度	3
+insight therapy	自省疗法	1
+reference condition	标准条件	2
+pick coal mining	风镐采煤	4
+bumpy flow	涡流；分离涡流	2
+granite-porphyry	花岗斑岩	5
+digital ratio	单比例	1
+tremolite	透闪石	2
+ditch blasting	挖沟爆破	2
+Devonian Period	泥盆纪	5
+tray	塔盘；垫座；支架	5
+cumulative probability distribution	累积概率分布	2
+directive standard	指导性标准	1
+critical G	临界脆值	4
+guide number (GN)	闪光灯指数	2
+hydrological cycle	水循环，水文循环	5
+radius vector	径向量，径矢	3
+extraneous stimulus	新异刺激	1
+bionic computer	仿生计算机	5
+sublevel caving	分段崩落采矿法	5
+leakage current	杂散电流；泄露电流	2
+ferric oxide	氧化铁	5
+gallery	工作台；平巷	4
+hydraulic gradient	水力比降；水力坡度	4
+haziness	（图像）模糊；朦胧	1
+scraper ring	刮油环	4
+detail drawing	零件图	4
+aquascan camera	水下扫描摄影机	2
+biological simulation	生物模拟，生物仿真	4
+item block	明细栏	3
+fluorescence	荧光	3
+gneissic granite	片麻状花岗岩	5
+aeolian deposit	风积物	5
+cascade	喷流；级联	1
+breast stoping	全面回采法；水平推进回采	4
+chain configuration	链构型	1
+mechanical wave	机械波	5
+free acid test	游离酸试验	5
+beaming	辐射；聚束	5
+Stirling formula	斯特林公式	1
+permanent set	永久变形；固定装置	2
+alloy iron	铁合金	5
+brachyfold	短轴褶皱	4
+universal decimal classification	国际十进位分类法	4
+destabilization	失稳，扰动	2
+magnetic induction	磁感应	1
+glacial accumulation	冰川堆积	1
+accordion fold	折子式折页，Z形折页	3
+time lag	时差；时滞	2
+lateral burning	侧向喷火燃烧	3
+swamping	沼泽化	5
+hydroelectric station	水力发电站	5
+system time constant	系统时间常数	4
+eccentricity	离心率，偏心距	2
+transverse wave	横波	2
+extreme high vacuum	极高真空	5
+blind shaft	暗井，盲井	5
+contact-metasomatic modification	接触交代变质	3
+gauge calibration	径规测量	2
+conventional truth value	约定真值	1
+PVF (photographic vision filter)	照相视觉滤光镜	4
+segment of a circle	弓形	2
+orthogonal plane	垂直面	3
+refracted wave	折射波	5
+unknown quantity	未知量	5
+reserve	储备；储藏量	2
+tectonics	构造地质学；筑造学	3
+Legendre function	勒让德函数	4
+cissoid	蔓叶线	5
+abundance	丰度；分布量	2
+geodetic meridian	大地子午线	5
+sintered metal	烧结金属	2
+anamorphoser	变形镜头，成像变形器	2
+ledge	矿脉；横档，壁架	3
+sampling inspection	抽样检验	5
+ECB (exposure compensation button)	曝光补偿按钮	1
+blade	叶；膜片；遮光板	3
+creeping motion	蠕动	1
+electrode	电极；电焊条	3
+alluvium	冲积层	1
+relative chronology	相对年代；相对时序	2
+crater test	爆破漏斗试验	5
+internal energy	内能	4
+path	轨迹，通道，路径	5
+lateral section	横截面	4
+hairline crack	发裂	1
+afterheat	余热，后热	4
+orthogonality	正交性，直交性	5
+parabolic equation	抛物型方程，抛物线方程	4
+grisaille	灰色装饰画法	5
+spontaneous radiation	自发辐射	3
+flood routing	洪水演进	5
+decision support	决策支持	3
+invert	倒像；换向	1
+carton	纸盒，纸板箱	2
+contact thermal modification	接触热变质	4
+disintegration equation	分裂方程	1
+areal precipitation	面降水量	5
+reflecting interface	反射界面	5
+helm	舵；舵轮；舵柄	1
+aseptic packaging	无菌包装	1
+coefficient of tamping	填塞系数	4
+double shear	双剪	5
+blasting mat	爆破挡帘，爆破覆盖材料	4
+principle of duality	对偶原理	1
+basin	盆，槽；流域；盆地	4
+geoecology	地质生态学，环境地质学	4
+side-looking radar	侧视雷达	4
+electrochemical photocell	电化学光电元件；电化学光电池	1
+ratchet	棘轮；棘爪	5
+standardization	标准化；标定法	3
+axial force	轴向力	5
+vibration transmissibility	振动传递率	4
+finite product	有限积	3
+real focus	实焦点	4
+intermediate arc	中间弧	3
+shearing deformation	剪切变形	4
+rheostat	变阻器，电阻箱	3
+channel leak	通道漏孔，毛细漏孔	2
+implicit function	隐函数	2
+corrugated board	瓦楞纸板	4
+adhesive force	附着力，黏着力	2
+standard component	标准件	2
+igneous rock	火成岩	1
+lantern ring	套环	4
+adaptive automation	自适应自动化	5
+piston pin	活塞销	5
+separation point	分离点	4
+automatic brightness control (ABC)	自动亮度控制	1
+grease	润滑脂；动物脂	4
+dielectric constant	介电常数	4
+cap insensitivity	雷管不起爆性，雷管钝感	4
+nickelage	镀镍	1
+magnetic retardation	磁滞	2
+dash line	虚线	1
+eruption	喷发；喷出物	5
+partial enlargement	局部放大	1
+persistent oscillation	等幅振荡	5
+coal planer	刨煤机	3
+washer	垫圈；洗选机	2
+gas transfer	气体迁移；气体传导	2
+angle of refraction	折射角	3
+arithmetical solution	数值解	3
+flexible packaging	软包装	1
+geologic calamity	地质灾害	2
+selective attention	选择性注意	5
+stroboscope	频闪观测器，闪光仪	4
+cybernetic model	模拟控制机	1
+megapixel	兆像素	1
+analogue	相似；模拟设备，模拟计算机	5
+profile modelling	仿形	5
+seismic exploration	地震探矿	5
+arm	臂，杆	2
+mine explosive	矿山炸药	4
+dispersion force	色散力	3
+midpoint formula	中点公式	3
+multi-planar orthogonal projection	多面正投影	4
+video outport	视频输出口	1
+gap test on sand	沙上殉爆试验	5
+physicochemical effect	理化效应	2
+gas ballast	气镇	4
+photon	光子	1
+shear stress	剪（切）应力	1
+aircraft steel	航空用钢	3
+cyclotron damping	回旋阻尼	5
+augen chroismite	眼球状混合岩	1
+film thickness	膜厚度	3
+tamping	填塞；填塞物，炮泥	3
+rainfall intensity	降雨强度	2
+line integral	线积分	2
+stress relaxation	应力松弛	4
+chassis	底架，机壳	2
+millibar	毫巴	5
+turbulent flow	湍流	5
+lecithin	卵磷脂	5
+active force	主动力，有效力	5
+reflectance	反射比；反射能力，反射率	4
+global scale factor	整体比例系数	4
+demulsification	反乳化（作用）	1
+equicentre	等心	2
+hyetograph	雨量计；雨量图	5
+wave filter	滤波器	2
+Cauchy's mid-value theorem	柯西中值定理	3
+Krasovskii method	克拉索夫斯基方法	1
+MBE (molecular beam epitaxy)	分子束外延	1
+graduation	刻度	4
+brittle substance	脆性材料	1
+compact density	压坯密度	2
+fracture	断口；断裂，破裂	4
+land subsidence	地面沉降	4
+static expansion	静态膨胀	3
+self-analogy	自比拟	3
+continuous profiling	连续剖面法	5
+Pleistocene Epoch	更新世	2
+size marking	尺寸标注	1
+high-temperature corrosion	高温腐蚀	1
+remained hole neck	残留孔口	1
+convection	对流；传递，传导	4
+failing-film evaporator	降膜蒸发器	4
+international limit system	国际公差制	3
+remote signal	遥测信号	5
+cylindrical charge	柱状装药	5
+partition	隔板；分区；拆分，划分	2
+external seal	外装式密封	1
+compass	罗盘；圆规；界限；音域	4
+conglomerate	砾岩	5
+filled die	满料压模	5
+twisting moment	扭矩	4
+object parameter of standardization	标准化对象参数	3
+octangle	八边形，八角形	2
+distinguishability	分辨率	2
+bidirectional associative memory	双向联想记忆	2
+neutral line	中线，中性线	2
+granulated powder	粒状粉	1
+nucleation	成核作用	5
+component of moment	内力矩分量	3
+spray drying	喷雾干燥	2
+reciprocity	互易性；倒易	2
+flexibility	挠性	5
+depth perception	深度知觉	2
+dip angle	倾角，磁倾角	1
+deconvolution filtering	反褶积滤波	2
+auger rock drill	螺旋钻机	4
+injection stretch blow moulding	注射延伸吹塑成型	3
+two-force balance	二力平衡	5
+thermal conductivity	导热性；热导率	5
+two-dot chain line	双点划线	4
+power capacitor	电力电容器	5
+burn hole	中空孔；空炮眼	4
+ECD (exposure control diode)	曝光控制二极管	5
+convolution	卷积；褶积；涡流	2
+superconductor	超导体；超导材料	5
+logarithmic function	对数函数	4
+stone dust	岩粉	3
+debug	调试，排错	2
+reaction sintering	反应烧结	1
+axiom	公理，原理	5
+normalized equation	正规方程	4
+plastic flow	塑性流动	3
+powdery explosive	粉状炸药	4
+degree of decay	衰减度	3
+volume filling	容量装填法	1
+seismic refraction method	地震折射法	3
+stearic acid	硬脂酸，十八酸	1
+gas burst	气体爆炸	3
+gravitational force	重力，万有引力	4
+attention span	注意广度	4
+diffusion wave	扩散波；漫射波	4
+collimation	对准；平行校正	1
+high-temperature hydrostatic extrusion	高温液静挤压	3
+leg drill	支腿钻机	2
+hydrodynamic interaction	流体动力相互作用	1
+potential energy	势能，电势能	3
+multiple-row shot	多排孔爆破	1
+updip sandstone pinchout	上倾砂岩尖灭	3
+parallel circle	平行圈	3
+Keller Box	凯勒盒法	2
+synclinorium	复向斜	2
+fault lake	断层湖	2
+Paleocene Epoch	古新世	2
+contact material	电触头材料	1
+mechanical drawing	机械制图	1
+limit value	极限值	4
+resource replication	资源重复	5
+honing machine	珩床	2
+sealing tape	密封胶带	3
+inverse relations of elasticity	逆弹性关系	5
+level	水平面，水平线；级；电平；水平巷道	3
+geochemical prospecting	地球化学勘查	3
+confining effect	约束效应	2
+dead zone	无感区，盲带	3
+phreatic water	地下水	2
+coefficient of rock resistance	岩石抗力系数	4
+argument	幅角，幅度；自变数，自变量	2
+loophole	透光孔，换气孔；漏洞	1
+Mine Safety Law	《矿山安全法》	1
+instantograph	快照；即取照相	2
+objective measurement	客观测量法	3
+standardization engineering	标准化工程学	4
+pitting	锈斑；凹痕	5
+backing pump	前极泵	1
+front view	正视图，主视图	5
+cartography	制图学；地图制图学	5
+safety explosive	安全炸药,许用炸药	3
+adhesion	附着力；黏附；黏着物	1
+biomimesis	生物拟态	2
+harsh grain	粗粒	2
+light dynamite	低密度炸药	5
+absorptance	吸收性；吸光率	2
+servo	伺服系统，伺服电动机	3
+composite body	多层压坯	3
+cooler	冷却器；冷却剂	3
+forward voltage	正向电压	3
+real circle	实形圆	5
+wavelength	波长	2
+spherical vector	球面向量	4
+lifetime	寿命，使用期限	3
+inspection in-process	工序检验	1
+free body	自由体	2
+vertical form-fill-seal (VFFS)	立式成型-充填-封口	5
+pore forming material	造孔剂	3
+parallel lines	平行线；并联线路	1
+outbreak	超挖，超爆	3
+strike board	翻矸台	3
+pressure meter	压力计	3
+conjugate	共轭；轭合物	3
+imaginary axis	虚轴	4
+contour	周线；等高线；恒值线	5
+simplification principle	简化原理	2
+escribed circle	旁切圆	4
+surface roughness	表面粗糙度,表面光洁度	3
+thermoelectric power	热电动势率	5
+registration	配准；读数；记录	2
+analytic theory of numbers	解析数论	4
+powder metallography	粉末金属学	5
+reverse X-ray effect	反X射线作用	4
+cartridge diameter	药卷直径	2
+characteristic of standardization	标准化特性	1
+elastic linear contact seal	弹性线接触密封	2
+centripetal force	向心力	1
+visualization	可视化，形象化	1
+inverter	逆变器，倒相器	3
+ferricrete	铁质壳；铁质砾岩	2
+feed	输送；给料；给料器	1
+delay electric detonator	延期电雷管	1
+explosion-proof	防爆的	1
+cross perpendicular	交叉垂直的	4
+second wave equation	二阶波动方程	2
+spatial proximity	空间接近性	5
+offset printing	胶印，平版印刷	5
+resultant motion	合成运动	3
+long-range structural force	长程结构力	1
+division plane	分界面	5
+Gaussian process	高斯过程	2
+green volume	生坯体积	1
+absorption spectroscopy	吸收光谱学	2
+non-tectonic joint	非构造节理	3
+throughput	流量，吞吐量；容许能力	3
+Coromant cut	克罗曼特掏槽	1
+high-vacuum sintering	高真空烧结	3
+diagonal element	对角元素	3
+boundary value	边值	4
+figure-8-fold	8字形折叠	4
+adsorption lifetime	吸附寿命	3
+Chernoff face	切尔诺夫脸	3
+balance coefficient	余数系数	5
+scraper elevator	刮板升运器	4
+effective number	有效数字	2
+cushioning material	缓冲材料	1
+blinker	闪光信号；眼罩	1
+hydrophobic property	恐水性能	1
+controlled atmosphere packaging (CAP)	可控气氛包装	2
+number density	数密度；数量密度	2
+skew lines	斜交叉直线	4
+melting point	熔点	2
+stulled open stoping	横撑支柱回采法	3
+complete boundary value	完全边值	5
+shale	页岩	4
+plaster shooting	覆土爆破，糊泥爆破法	2
+antineutron	反中子	1
+heave	断层；平错	2
+hone	珩磨，搪磨；珩磨机	5
+muffler	消音器	1
+range of vacuum	真空范围	5
+storage battery car	蓄电池车	4
+antifriction material	减摩材料	5
+rectilinear propagation	直线传播	2
+intercept time	截距时间	4
+viscoelasticity	黏弹性	2
+virtual focus	虚焦点	5
+UV filter	紫外滤光镜	3
+curl	旋量，旋度；涡流	5
+barn	靶，靶恩	5
+end angle	终止角	1
+depressor	抑制剂；浮选抑制剂	3
+decomposition matrix	分解矩阵	5
+gear	齿轮，传动装置	3
+approximation theory	近似理论	5
+magnetic sector analyzer	扇形磁偏转分析仪	5
+part-subassemble standard	零部件标准	2
+circuit diagram	电路图	3
+aggregate	集合体；集料，粒料	5
+steel sheet	薄钢板	5
+scalar	标量，纯量；无向量	3
+standard system of document formats	文件格式标准化体系	5
+horizontal axis	水平轴	2
+photovoltaic effect	光生伏打效应	4
+artificial joint	人工关节	3
+dimensionality	维数，度数	4
+ferromagnetic material	铁磁材料	5
+blue key	蓝底图	4
+pulse relay	脉冲继电器	5
+side drift	平硐；分支巷道	3
+production approval	生产定型	2
+hyperbolic sine	双曲正弦	1
+positive value	正值	4
+retortable pouch	蒸煮袋	5
+cooked	显影过度的	3
+constant	常数，恒量	4
+radiotracer technique	放射性示踪剂技术	3
+colour cast	偏色	3
+chocked neck	（玻璃瓶的）阻塞式瓶颈	1
+waterborne coating	水溶性涂料	4
+dimension	量纲；维；尺寸	3
+intercalated bed	夹层	1
+cushion blasting	缓冲爆破；空气间隔装药爆破	5
+lag	惰性；滞后	2
+thermoplasticity	热塑性	3
+drilling-and-blasting	钻孔爆破	5
+base metal	母材；贱金属；基底金属	4
+MDPE (medium-density polyethylene)	中密度聚乙烯	5
+hydride powder	氢氧物粉末	4
+bridging lens	桥式透镜	5
+heat-transfer printing	热传递印刷法	5
+depth cue	深度线索	5
+wide flange steel	H型钢	3
+test blasting	试验爆破	2
+tridiagonal method	三对角型解法	3
+aperture priority	光圈优先	2
+colour correction	校色	4
+EID (exposure intentional double)	特需二次曝光	1
+circular arc	圆弧	5
+thermoelectric effect	热电效应	3
+canning	外壳密封装置；封装	2
+substrate	基底，基片，衬底；结构层	3
+flood wave	洪水波	2
+sloping side	斜边	5
+particle-size distribution	粒度分布	3
+moraine	冰碛，冰碛层	5
+antiproton	反质子	5
+fragmentation time	分裂时间	4
+Rutherford	卢瑟福	4
+corrected value	修正值	2
+five-point interpolation formula	五点插值公式	5
+asynchronous starting	异步启动	4
+pressure sink	压力降；压力差	4
+net weight filling	净重充填	1
+misconnection	漏接；误接	1
+opaque	不透明体	1
+thermal conductance rate	热导率	3
+plane mirror	平面镜	1
+continuous thread (CT)	连续螺纹	1
+finite element method	有限单元法	4
+self-timer light	自拍闪光	1
+peak line	波峰线	5
+oil-water interface	油水分界面	4
+sea water accumulation	海水堆积	1
+mass curve	累积曲线	4
+marginalia line	旁注线	2
+space curve	空间曲线	5
+replica	复制品；拷贝	4
+striation	辉纹；条纹	4
+adsorbate	被吸附物	2
+photonics	光子学	5
+adsorption-desorption theory	吸附-脱附法，吸附-解吸理论	4
+theory of blasting	爆破理论	5
+atmosphere standard	大气标准	4
+staggered drilling	交错排列钻孔	2
+magnetoresistance	磁致电阻	5
+permissible explosive	许用炸药，安全炸药	1
+tide	潮汐	2
+virtual environment	虚拟环境	1
+hole placement	钻孔布置，布孔	3
+camera bellows	暗箱	2
+ethylene-vinyl alcohol	乙烯-乙烯醇	5
+kinematic viscosity	动黏滞性，动黏度	1
+spacer	垫圈，衬垫，隔离物	4
+varve clay	季候泥	5
+briquetting	压块；团矿	4
+information-security technology standardization	信息安全技术标准化	2
+steady-state value	稳态值	2
+seismic transient pulse	地震瞬时脉冲	4
+polygonal point	导线点	4
+deck loading	分段装药，间隔装药	2
+natural selection	自然选择	2
+faradic current	感应电流	5
+strip	条；带钢	5
+gas leak valve	放气阀，漏气阀	5
+tungsten filament	钨丝	3
+hillwork	山影法，地貌晕渲法	1
+differential equation	微分方程	3
+positive sign	正号	3
+equilibrium size	平衡粒径	4
+double distribution	二次式分布	2
+flo(a)tation cell	漂浮池	1
+Faraday law of electromagnetic induction	法拉第电磁感应定律	3
+compression seal	压缩密封	4
+heavy nucleus	重核	1
+cryophorus	冰凝器	5
+reverse breakdown	反向击穿	3
+bright spot	亮点	4
+cementation	黏结，硬化；渗碳处理	3
+radius control	半径控制	3
+mechanical quantity	机械量	4
+double-action pressing	双向压制	1
+ballooning gash	鼓胀裂缝	5
+block	部件；坯料；滑车	4
+carbon ring	碳环	1
+anti-extrusion device	抗挤压装置	2
+current meter	电流计；流速仪	1
+one-shot	单镜头拍摄	3
+top-down processing	自上而下加工	5
+analytic method	解析法，分析法	4
+equatorial axis	赤道轴	1
+coalescence	聚结；结合	5
+passive lagging net	无源滞后网络	3
+power transmission	输电，电传输	1
+arousal	唤醒	5
+axial clearance	轴向间隙	5
+oxidizer	氧化剂	3
+juxtaposition	斜接；并置	5
+exciting behaviour	激爆性能	3
+fabrication	制造，建造；建造物	3
+staggered spot welding	交错点焊	4
+opposite corner	对角，对角点	1
+rectangle	矩形，长方形	2
+cubic function	三次函数	2
+slip casting	粉浆浇注，粉浆浇注法	1
+conditioned response	条件反射	4
+hypervelocity particle	超速粒子	1
+nanoscale device	纳米器件	3
+electroplating	电镀（术）	3
+node	节，结点；波节；交点	1
+exterior packaging	外包装	3
+thermal electron emission	热电子发射	4
+thermal element	感热元件	2
+guide pulley	导轮	1
+aeration-cooling	通风降温	5
+aquifer medium	含水介质	2
+insulator	绝缘体，绝缘材料	2
+diabase	辉绿岩	3
+point of origin	原点	4
+geometric correction	几何校正	4
+efflux	射流；流出	5
+air return way	回风道	3
+molecular bionics	分子仿生学	5
+volt	伏（特）	2
+reaction capacity	反应能力	4
+Pascal triangle	帕斯卡三角形	4
+antitrigonometric function	反三角函数	5
+found	翻砂，铸；熔制	4
+collapsible tube	软管	3
+functional standard	功能标准	4
+relative molecular mass	相对分子量	1
+anti-static electric detonator	抗静电雷管	1
+Ampere's law	安培定律	5
+internegative	中间底片	1
+Doppler effect	多普勒效应	2
+stuffing box	填料函，填料盒	5
+postulated mechanism	假设机能	3
+relative error	相对误差	3
+interference effect	干涉效应	1
+ager	调色装置；老化器；蒸化机	2
+flaky powder	片状粉	5
+specific speed	比速度	4
+tunnel boring machine	隧道掘进机	2
+double seal	双重密封	1
+dust arrester	集尘器，挡尘器	3
+viewfinder	取景器，探视器	2
+evoked brain potential	诱发脑电位	5
+sealing element	密封件	2
+crumb rubber	粒状橡胶	3
+alternating stress	交变应力	3
+corkscrew rule	螺旋法则	2
+lens zoom control	镜头变焦控制	3
+average conjugation energy	平均结合能	3
+shade	色泽；遮罩	3
+irrational number	无理数	1
+sheet size	图纸幅面尺寸	4
+incline impact test	斜面冲击测试	3
+magnetism	磁，磁力；磁性；磁学	1
+convex bank	凸岸	5
+passive advanced net	无源超前网络	5
+viscid silk	黏胶丝	3
+visual scanning	视觉扫描	1
+press seal	冲压密封圈；压封	4
+access	入口；存取	2
+impingement rate	碰撞率	1
+
+surface integral	面积分	4
+coarse powder	粗粉	4
+regular slotted container (RSC)	规则开槽容器	2
+form of standardization	标准化形式	1
+consumer package	销售包装	5
+CAD (computer-aided design)	计算机辅助设计	3
+definition	清晰度；界说	5
+centre of rotation	旋转中心	5
+Gibbs adsorption equation	吉布斯吸附方程式	3
+living model	生物模型	4
+breeze	煤渣，炭渣	1
+reverse voltage	反向电压	1
+excavation	开挖；露天开采；巷道	2
+expander	膨胀器；膨胀剂；骤冷器	5
+semi-log frequency plot	半对数频率图	1
+magnetic permeance	磁导	2
+subterranean drainage	伏流；地下排泄；暗管排水	2
+stretch	拉伸，延伸	5
+flask filling	容积法充填	5
+furnish	供给，配备	3
+porphyritic texture	斑状结构	4
+specific surface area	比表面积	1
+vertical conveyor	立式输送器	4
+threshold of pain	痛阈，痛觉临界	5
+joint	接合；节理；接头；接缝	3
+transmission density	透射密度	3
+substation	变电站；分站	5
+cryptocrystalline	隐晶质	5
+ultra-fine powder	超细粉	5
+faraday screen	静电屏蔽	2
+cryolite	冰晶石	5
+sintering body	烧结体	2
+liar	光学镜头，光学物镜	3
+wettability measurement	润湿测定	2
+curved propagation	曲线传播	3
+reduced distance	比例距离	4
+breached cone	裂口火山锥	5
+information technology equipment	信息技术设备	1
+system	系统；分类（法）	5
+lens release button (LRB)	镜头装卸锁钮	1
+alidade	照准仪；指示规	1
+adjuvant	辅助物；佐剂	1
+elastic deformation	弹性变形	5
+flowing deformation	流变	3
+field source	场源	4
+breathing film	吸气膜	3
+ultrahigh vacuum (UHV)	超高真空	2
+design flood	设计洪水	5
+absolute convergence	绝对收敛	2
+elevation correction	高程校正	4
+particle-size range	粒度范围	5
+potential difference	电势差，电位差	1
+collar	垫圈，套管；法兰（盘）	2
+nylon	尼龙，聚酰胺	4
+normal section	法截面，正剖面，正截面	1
+polynomial	多项式	4
+magnetic recording	磁记录	4
+isopleth	等值线；等浓度线	5
+transmission	传输，传导；传动装置；变速器	4
+ion collector	离子收集器	2
+stochastic value	随机值	5
+circuit	电路；线路	4
+exponential integral function	指数积分函数	3
+gland cover	密封压盖；密封套	2
+characteristic function	特征函数，示性函数	5
+microhardness	微硬度，显微硬度	1
+clearance fit	间隙配合	4
+discrete probability distribution	离散概率分布	5
+back flash	回燃；回闪	2
+availability	可得性，可用性	1
+set dimension	定形尺寸	2
+brandreth	铁架；三脚架；井栏	2
+binder	夹；结合料，黏合剂	4
+burn-out cut	直眼掏槽，线形掏槽	3
+interpolation formula	插值公式	3
+ignition order	点火顺序；起爆顺序	4
+decomposition theorem	分解定理	3
+high frequency	高频	2
+pyroclastic rock	火成碎屑岩	5
+degree scale	标度	1
+Roentgen ray	伦琴射线，X射线	4
+foil-stamping	压箔；烫金	3
+vacuum packaging	真空包装	3
+velocity spectrum	速度谱	5
+additive process	加色法	3
+methylated glass	甲基化玻璃	4
+phase-frequency characteristic	相频特性	2
+megaphone	扩音器	4
+biomimicry	仿生	1
+multidimensional interpolation	多维插值法	4
+BFL (back focal length)	后焦距	1
+weathering	风化，侵蚀；自然时效	2
+rip blasting	落底爆破；卧底爆破	2
+HFFS (horizontal form-fill-seal)	卧式成型-充填-封口	5
+gas permeability	透气性	5
+transcendental function	超越函数	1
+analogue recording	模拟记录	3
+mechanics	力学，机械学；结构	5
+contactor	接触器；开关；触点	5
+buffer blasting	缓冲爆破	4
+parting	分金；砂箱分界线；裂理	2
+affinity partitioning	亲和分配	2
+damped vibration	阻尼振动	2
+relative sintering temperature	相对烧结温度	2
+charge carrier	载流子	4
+real shape	真实形状	5
+crossing point	交点	2
+garnet	石榴石；石榴红	3
+concave bank	凹岸	2
+universal gas constant	通用气体常数	4
+parallel projection	平行投影	1
+water infusion	注水	5
+even fracture	平坦状断口，均匀断面	1
+nickel	镍	2
+trolley conveyor	悬挂输送机，吊运式输送器	1
+feature of remote sensing information	遥感信息特征	2
+constant-level filling	等液位罐装法	2
+negative ion	负离子	3
+ultra-fines	超细粉	1
+electrical shock	电击	4
+crevice	裂隙；缝隙	5
+anion	负离子，阴离子	4
+dynamic compression	动态压力	3
+zincite	红锌矿	1
+interfacial tension	界面张力	3
+power system	电力系统	1
+tool guide	刀架导轨	5
+light water	轻水	5
+draw-and-redraw can	深冲拉拔罐	5
+capillary water	毛细水	2
+performance maintenance theory	绩效维持理论	1
+two-dimensional convection equation	二维对流方程	2
+circular motion	圆周运动	5
+system of unit	单位制	4
+post-consumer recycle (PCR)	消费后再生材料	2
+elementary work	元功	4
+overdamping	过阻尼	4
+torsion balance	扭秤	4
+pyramid cut	锥形掏槽；对称角柱掏槽	4
+snake-hole blasting	蛇穴爆破	1
+strain relaxation	应变松弛	2
+fluorite	萤石，氟石	2
+short delay detonator	毫秒延期电雷管，微差电雷管	5
+Curie point	居里点，居里温度	4
+abnormal value	异常值	4
+right-angle side	直角边	5
+modified atmosphere packaging (MAP)	气调包装	3
+continental rise	大陆隆	5
+foil	箔，薄金属片	2
+line-of-sight method	视线法	3
+kaon	K 介子	2
+multiple die	多工件压模	3
+milligram(me)	毫克	2
+setup box	固定纸盒	5
+mud-rock flow	泥石流	1
+basic module	基本模数，模数基数	1
+kinetic theory of gas	气体分子运动论	5
+ledge blasting	突岩爆破；根底爆破	1
+official standard	正式标准	1
+sensitometer	感光计，曝光表	1
+pile	桩；堆叠；电池组；核反应堆	4
+dry running	干运行	5
+remote sensing mapping	遥感制图	3
+smooth function	光滑函数	2
+conditioned reflex	条件反射	5
+hyperbola	双曲线	4
+clay rock	黏土岩	3
+sound pressure level	声压级	1
+front plane	正平面	4
+swell	隆起地；梭箱板；增减音器	5
+positive step	正阶步	5
+double lathe	复式车床	2
+double-action press	双向压机	2
+layer	层；涂层，焊层	3
+joint rose diagram	节理玫瑰图	4
+drift	冲头；漂移；水平巷道；冲积层	4
+elastic medium	弹性介质	5
+box plot	框图	5
+interbasin water transfer	跨流域调水，跨流域引水	4
+pole<sup>1</sup>	杆；测杆	2
+petrography	岩石学，岩相学	5
+adsorption equilibrium constant	吸附平衡常数	2
+electrical logging	电测井法	1
+dichotic listening	双耳分听	5
+size fraction	粒级	3
+thread gauge	螺纹规	5
+exposure	曝光；软片；方位	1
+field emission	场致发射	4
+hot-melt adhesive	热溶黏合剂	1
+weathering correction	风化层校正	3
+coefficient of friction	摩擦系数	3
+cap collar gasket	螺帽垫圈	2
+distribution packaging	运输包装	4
+trough	槽；波谷；深海槽；凹点	4
+wide strip mill	宽带轧机	4
+inertial function	惯性函数	4
+general point	一般点	5
+chemical vapour deposition	化学汽相沉积	5
+ergonomics	工效学；人类工程学；人固工程学	4
+semiellipse	半椭圆	1
+asymmetry	非对称，不平衡性	1
+anticline	背斜；背斜层	5
+binomial theorem	二项式定理	3
+extreme point	极点，极值点	5
+melt-out	熔融状态	3
+nuclear reactor	核反应堆	1
+oscillating current	振荡电流	4
+superlattice	超晶格，超点阵	2
+read	读数；读取	5
+cartographic software	地图制图软件	3
+mode error	模式错误	3
+generator	发电机；生成程序；母线	1
+clastic sedimantary rock	碎屑沉积岩	4
+taper	锥体；电位器	4
+phototimer	曝光计；光电定时器	1
+acoustic admittance	声导纳	4
+short tunnel	短隧道	5
+airborne electromagnetic survey	航空电磁法勘探	1
+fluorescent imaging	荧光成像	5
+drawing board	图板	1
+actinology	放射线学；光化学	3
+magnifier	放大镜；放大器	1
+gravitational water	重力水	2
+dynamic loading	动载荷；动态载入	5
+ion spectrometer	离子谱仪	2
+gradient of gravity	重力梯度	5
+roughness parameter	粗糙度参数	1
+time domain response	时域响应	3
+meson	介子	1
+bulk explosive	散装炸药	2
+radical sign	根号	4
+paradigm	聚合体；范例	5
+coal blasting	采煤爆破，爆破落煤	3
+single-sintering process	一次性烧结	3
+accelerant	催速剂	5
+resistance bridge	电阻电桥	4
+hyperbolic cosecant	双曲余割	3
+parallel-distributed processing system	并行分布处理系统	1
+Pascal law	帕斯卡定律	4
+continuous spectrum	连续光谱；连续频谱	1
+secondary task	辅任务	1
+densification	稠化，高密度化	3
+nuclear reaction	核反应	3
+warning fault	预警断层	1
+chemisorption	化学吸附	1
+earthquake wave	地震波	1
+wind speed	风速	4
+wing curve	机翼曲线	5
+energy minimization	能量最小化	4
+flange	法兰（盘）；凸缘	2
+distributary	分流	1
+exploitation blasting	井巷掘进爆破，采掘爆破	3
+transpiration	蒸发，散发；流逸	3
+primary optical axis	主光轴	2
+outcrop line	露头线	5
+high order	高阶，高次	4
+calibration	校准；刻度	3
+gravity number	重力系数	2
+flexible constraint	柔性约束	2
+proton magnetometer	质子磁力仪	3
+magnetic density	磁通密度	2
+blind	挡板；螺旋帽；不感光的	3
+flexible sheet	弹性膜片	2
+rapid prototyping technology	快速原型制造技术	3
+universal theodolite	全能经纬仪	3
+foam film	泡沫薄膜	4
+internal force	内力	2
+governing equation	定解方程	4
+aluminum detonator	铝壳雷管	4
+characteristic view	特征视图	2
+one-machine system	单机系统	5
+slide	滑道，导板；崩塌	4
+geomechanics	地质力学	1
+derivation	求导；衍生	2
+shear frequency	剪切频率	2
+mean anomaly	平近点角	1
+macrostructure	宏观结构	1
+self-stiffness	固有刚度；自倒电容	4
+mandrel	芯棒；紧轴	4
+superimposition	叠加；附加物；叠印	1
+collective lens	汇聚透镜	2
+sonobuoy refraction system	声呐浮标折射系统	3
+damp	瓦斯；潮气；阻尼	2
+Brownian coagulation	布朗凝结	5
+main phase	主相	5
+supplementary angle	补角	4
+mean stage	平均水位	4
+preferential grinding	选择性粉磨	3
+emergency procedure	应急程序	5
+UV (ultraviolet)	紫外线	1
+gravitation	万有引力，重力	5
+supercooling	过冷	4
+automatic identification technology	自动识别技术	4
+sediment transport	泥沙输移	5
+open bearing	开型轴承	3
+air exhaust	排气，抽气	4
+compaction equation for powder material	粉体压制方程	4
+cameratransit	摄影经纬仪	4
+hole	孔，槽；炮眼	4
+curie	居里（放射性强度单位）	1
+dunnage	垫板，垫料	3
+barchan	新月形沙丘	4
+average velocity	平均速度	4
+production capacity standard	生产能力标准	3
+excelsior	细刨花，木丝	2
+surface viscosity	表面黏度	4
+dry delta	干三角洲	2
+technical economic quota	技术经济定额	5
+pressing additive	压制添加剂	5
+spiral structure	螺旋结构	5
+secondary joint	次生节理	2
+sucrose ester	蔗糖酯	3
+projection axis	投影轴	1
+application force	施力	5
+adsorption capacity	吸附容量	3
+double-layer repulsion	双层排斥	3
+ultraminiature camera	超小型摄影机	2
+monolayer formation time	单层形成时间	1
+Y-north	坐标北	1
+dispersion coating	色散涂层	2
+luminance	亮度，发光度	3
+granite	花岗岩，花岗石	1
+clough	深谷，峡谷	3
+optical flow	光线流	4
+cubicle	密封配电器；分隔间	3
+semiconductor physics	半导体物理学	1
+phase transition	相变	5
+gravitational field	重力场	5
+ultrared ray	红外线	5
+bright-line finder (BLF)	亮框取景器	4
+pervious bed	透水层	1
+debris flow	泥石流	2
+continuous function	连续函数	3
+reduced powder	还原粉末	2
+vector stress function	矢量应力函数	4
+long-hole type blasting	深孔爆破	2
+orthogonal chord	正交弦	2
+determination of density	密度测定	3
+image-editing software	画面编辑软件	1
+fabric cloth	编织滤布	2
+broadside	漫射聚光灯；（机身）侧部	4
+dilatational viscosity	扩张黏性	4
+degauss	退磁，去磁	1
+slope function	斜坡函数，斜率函数	2
+emulsion explosive	乳化炸药	1
+discrete error	离散误差	2
+calcspar	方解石	5
+displacement chromatography	替换层析	1
+sticking coefficient	黏着系数	1
+burst	爆炸；闪光；脉冲串	4
+low-pass filter	低通滤波器	4
+heat sensitivity test	热感度试验	3
+machine direction (MD)	机器方向	1
+radiation loss	散热损失；辐射损耗	3
+backup washer	备用垫圈	4
+SAN (styrene-acrylonitrile)	苯乙烯-丙烯腈	2
+line width	线宽	2
+relative humidity (RH)	相对湿度	4
+critical mass	临界质量；中肯质量	4
+intermediate segment	中间线段	1
+stationary screen	固定筛	1
+superfines	超级细粉	5
+refraction shooting	折射法勘探；折射爆破	4
+base flow	底流；基本流量	5
+optimal control model	最佳控制模型	3
+principal coordinate	主坐标	2
+oxygen carrier	氧载体	5
+drill	钻孔，钻探；钻头	3
+water activity	水分活性	3
+Bode plot	博德图	3
+oscillating circuit	振荡电路	2
+binomial distribution	二项式分布	5
+function-of-crater index	爆破作用指数	1
+swelled ground	膨胀土	2
+uneven fracture	参差状断口	4
+pulse infusion shot firing	高压［脉冲］注水爆破	2
+code standard	代码标准	5
+bar code	条形码	3
+absolute coordinate	绝对坐标	5
+aristo paper	柠檬酸盐相纸	3
+CRF (coupled rangefinder)	连动测距对焦取景器	2
+magnetic induction line	磁感线	2
+intersecting line	交叉线	1
+roughness	粗度；粗糙性	2
+EHF (extremely high frequency)	极高频	5
+micrometer	千分尺，测微计	2
+mechanical drive	机械传动	5
+soil water	土壤水	2
+expanded polystyrene (EPS)	发泡聚苯乙烯	4
+self-potential method	自然电位法	5
+facsimile	传真，传真通信	5
+critical angle	临界角	2
+potential value	电势值	1
+biological vector	生物载体，生物媒介	3
+electron volt	电子伏特	4
+external charge blasting	外部装药爆破	3
+shock cushioning curve	缓冲曲线	1
+viscous pipe conductance	黏滞管传导	2
+OPP (oriented polypropylene)	定向聚丙烯	2
+sealing gland	密封压盖	4
+basic rock	基性岩	4
+doublet fragmentation time	偶极分裂时间	2
+tamping pole	炮棍；捣杆	2
+inlay	镶嵌，嵌入；镶嵌物	2
+combination solid	组合体	3
+specification	规格；说明书	5
+coolant	冷却剂，散热剂	4
+fisheye view	鱼眼视图	1
+type approval test	定型试验	2
+crater index	爆破作用指数	1
+gravity meter	重力仪	2
+circular level	圆水准器	5
+round	圆形物；炮孔组；横档	4
+transient response	瞬态响应	2
+vacustat	真空计	1
+basalt	玄武岩	5
+landfill	废渣填埋；废渣填埋地	1
+legend	图例，说明	1
+trimming hole	修边炮孔	5
+standing wave	驻波	5
+extrusion	挤压；压出品	4
+easier shot	辅助爆破	4
+binomial equation	二项方程	2
+areal array	面积组合	2
+general formula	一般公式	5
+granularity	颗粒性	2
+general standard	通用标准	3
+crystalline axis	晶轴	1
+game theory	对策论	1
+antecedent	前项	4
+air compressor	空气压缩机	3
+input	输入；输入端	1
+ERH (equilibrium relative humidity)	平衡相对湿度	2
+transformation	转化；换算	2
+wave celerity	波速度	4
+Laplace operator	拉普拉斯算子	2
+safety analysis	安全分析	1
+complex variable	复变量	3
+surface detention	地面滞留	3
+Rayleigh wave	瑞利波	1
+granular powder	粒状粉	3
+engineering geology	工程地质学	5
+thermal stability	耐热性，热稳定性	3
+constant temperature	恒温	1
+diffuse reflection	漫反射	2
+standard	标准；台，支座，支架	4
+elastic wave	弹性波	3
+saturation	饱和；饱和度	4
+grain size	粒度；结晶大小	1
+deflection angle	偏角	2
+pinnate tension gash	羽状张裂缝	3
+rheopectic behaviour	震凝性能，流变性能	5
+LLDPE (linear low-density polyethylene)	线性低密度聚乙烯	2
+rock-dust barrier	岩粉棚	5
+signal detection theory	信号检测理论	1
+variable reluctance transducer	可变磁阻传感器	1
+confined blasting	约束爆破	4
+cybersickness	计算机病	3
+combined weight of facing	面层综合重量	4
+mottled structure	斑点构造	3
+dynamic simulation	动态仿真	1
+critical shear rate	临界剪切速率	5
+basement structure	基底结构	5
+oil well	油井	4
+chemical energy	化学能	3
+audio-frequency transformer (AFT)	音频变压器	3
+chiaroscuro	阴暗对照法；图画明暗法	3
+vein	矿脉；岩脉；纹理	3
+disk dryer	盘式烘干机	1
+artificial meninges	人工脑膜	5
+presplitting	预裂爆破	4
+Poiseuille formula	泊肃叶规则；泊肃叶公式	4
+gaseous water	气态水	1
+oblique dimetric projection	斜二测投影	2
+temperature stress	温度力	2
+phase separation	相位分离；相位差	3
+ion implantation	离子注入	2
+convex lens	凸透镜	1
+incircle	内切圆	2
+time-to-contact	碰撞时间	4
+impulse function	脉冲函数	1
+Cartesian vector	笛卡儿向量	2
+polyethylene (PE)	聚乙烯	5
+admission	进入；进气口，进水口	3
+total displacement	总排量；总移位	5
+level of standards	标准级别	3
+wavy line	波浪线	5
+capillary interaction	毛细互作用	2
+Romberg's integration method	罗姆伯格积分法	1
+coal pick	采煤风镐	2
+reamer	铰刀；铰床；扩孔器	2
+auxiliary plane method	换面法	3
+generation	连锁反应级；产生，生成	3
+single-channel theory	单通道理论	4
+prism	棱柱体；棱镜	4
+matrix operation	矩阵运算	5
+Tertiary Period	第三纪	2
+stereoscopic model	立体模型	3
+least square method	最小二乘法	4
+compactibility	压制性能；压塑性；紧密度	2
+uniform-intensity storm	均匀强度暴雨	4
+deoxidant	脱氧剂，还原剂	1
+straight welding	直缝焊	3
+farad	法拉	3
+static indeterminacy	静不定性	4
+scientific visualization	科学可视化	2
+additive theory of numbers	堆垒数论	4
+frequency converter	变频器	1
+adjustable spanner	活动扳手	3
+insulating medium	绝缘介质	2
+ellipsograph	椭圆规	2
+insect compound eye	昆虫复眼	3
+optical microscope	光子显微镜	1
+aerosol packaging	喷雾包装	1
+jack-engine	小型蒸汽机	2
+measuring chain	测量链	2
+main stream	主流；主气流	1
+international standard	国际标准	4
+promoted sintering	加速烧结	4
+fan-shaped fold	扇形褶皱	3
+Planck constant	普朗克恒量，普朗克常数	4
+impedance	阻抗	3
+half cycle	半周期；半衰期	3
+barometric compensation	气压补偿	3
+electromagnetic relay	电磁继电器	2
+Cauchy's convergence criteria	柯西收敛准则	4
+phase inversion temperature	相转化温度，相变换温度	3
+curtain aperture	调光孔径	1
+alpha particle	α粒子，阿尔法粒子	3
+conservation	守恒	2
+Green's theorem	格林定理	4
+working memory	工作记忆	2
+hypertext	超文本	2
+electrostatic repulsion	静电排斥	2
+exponential function	指数函数	4
+explosion door	防护门，爆炸安全门	3
+bridging coefficient	连接系数	4
+flash slave unit	闪光同步控制器	2
+radiological health protection standard	放射卫生防护标准	2
+cardboard	纸板；卡纸板	2
+spectral analysis	谱分析；光谱分析	2
+argon treatment	氩气处理	5
+optimum performance	最佳绩效	4
+isochrone	等时线	1
+ballistic mortar test	弹道臼炮试验	3
+centripetal acceleration	向心加速度	1
+ball charge	球形药包	3
+pearl crack structure	珍珠裂纹构造	2
+peak acceleration	峰值最大加速度	3
+seismic reflection method	地震反射波法	5
+abstraction norm	抽象范数	5
+Euler number	欧拉数	5
+doghouse	原料预热室	1
+horizontal circle	水平度盘	4
+hangfire	迟爆，迟炮，滞火	3
+monochromatic wave	单色波	3
+mould	模，模子；模压，铸模	4
+Bessel interpolation	贝塞尔插值	1
+shot	镜头；拍摄；爆破	4
+orientation	定向，定位；方向，方位	4
+electric power	电功率	5
+diagonal	对角线；斜纹材	3
+ophitic texture	纤闪辉绿岩结构	1
+rib	棱；整体矿柱	3
+mechanical movement	机械运动	4
+wave crest	波峰	3
+blended powder	混合粉末	1
+porphyry	斑岩	3
+FDCB (flip-down camera bed)	照相机前盖	1
+soil	土质，土壤，泥土	5
+SLR (single lens reflex)	单镜头反光照相机	3
+coplane superimposition	共面叠加	5
+thermal electron	热电子	1
+insulation	绝缘；绝缘体	1
+quadratic curve	二次曲线	1
+abrasion resistance	抗磨损性	4
+output	输出量；输出信号；计算结果	3
+sensory control	感觉控制	1
+perspective standardization	超前标准化	5
+EEG (electroencephalogram)	脑电图	4
+noise of blasting	爆破噪音	5
+photomeson	光介子	1
+optically thinner medium	光疏媒质	1
+system of forces	力系	1
+blasting explosive	爆破炸药	3
+atom	原子；微粒，微量	3
+intersect	相交；横切；交点	4
+production rule	产生式规则	3
+chroma	色（品）度，色饱和度	3
+EPE (expanded polyethylene)	发泡聚乙烯	3
+ferrous powder	铁基粉末	4
+induction period	诱导期	2
+mica	云母	1
+whole cartridge test	全药卷试验	3
+damp-proof machine	防潮电机	4
+chief axis	主轴	2
+viscous drag force	黏滞曳力	5
+filtering	滤波	2
+spiral	螺线；盘旋上升，盘旋下降	3
+element property	元素性质	4
+continuous-wave system	连续波系统	3
+prosthesis	假体；修复术	2
+light nucleus	轻核	1
+bulk density	容积密度	4
+conical face	圆锥面	1
+differential geometry	微分几何	1
+cable release socket (CRS)	线插口	4
+soaking time	保温时间	4
+atomization pressure	雾化压力	3
+safety distance	安全距离	2
+ceramic cutting material	陶瓷刀具材料	4
+polar moment of inertia	极惯性矩	4
+implicit splitting technique	隐式分裂法	3
+sampler	采样器	1
+motion electric charge	运动电荷	4
+mechanical press	机械压机	4
+spotlight	聚光灯	3
+biofuel cell	生物燃料电池	1
+earth current	大地电流	1
+albite	钠长石	3
+headspace	（容器的）顶空；留空	3
+parallel mobile mode	平行移动方式	1
+just-in-time  manufacturing (JIT manufacturing)	实时制造	4
+additive colour printing (ACP)	加色法印片	1
+optical invariant	光的不变量	3
+resolution corrosion	分解类腐蚀	5
+colour reversal intermediate (CRI)	彩色反转中间片	5
+multiplicand	被乘数	4
+bolster	垫板；软垫	2
+antitrigonometric tangent	反三角正切	4
+torsional deformation	扭转变形	3
+equivalent	当量；等效，等值	2
+ring current	环形电流	3
+incomplete element	不完整要素	3
+ill-conditional system of equations	病态方程组	5
+water hole blasting	水孔爆破	1
+radial force	径向力	1
+mole number	摩尔数	1
+significance evaluation for economic effects	经济效果重要度评定	2
+Seebeck effect	塞贝克效应	2
+gal	伽（重力加速度单位）	2
+wave velocity	波速	5
+inverse matrix	逆矩阵	4
+specimen	样品；试样	5
+roof spreader hole	顶板辅助炮孔	1
+biomimetic processing	仿生过程	3
+heart seal	中心密封	3
+parallax phenomenon	视差现象	3
+constant force	常力，恒力	5
+rainfall	降雨	5
+Pliocene Epoch	上新世	2
+optomotor reaction	视动反应	3
+formulation	公式；格式化；成分	4
+compressibility	压缩性；压缩系数	2
+photochromic effect	光致变色效应	1
+admixture	掺和；附加剂；杂质	1
+vacuum conveyor	真空吸入式输送器	2
+solid angle	立体角	5
+normal probability	正态概率	5
+auxiliary	辅助设备，附属设备	4
+target identification	靶点识别	1
+low flow	枯水	4
+geometry sum	几何和	4
+plane motion	平面运动	2
+aftershock	余震	3
+stationary dislocation	静止位错	3
+pentagonal prism	五棱柱	3
+resolution monitor	清晰度显示器	4
+index function	指数函数	5
+initial tension	初张力	2
+magnetic separation	磁性分离法	2
+split blasting	劈裂爆破，碎裂爆破	1
+inalterability	不变性	1
+atoll	环礁，环状珊瑚岛	5
+quality arbitration	质量仲裁	1
+die-cut	模切	5
+close-up button	特写按钮	5
+chlorinated fluorocarbons (CFC)	氟利昂	3
+terrestrial hydrology	陆地水文学	5
+foreign body	异物，杂质	2
+survey knowledge	测量知识	2
+misfire	瞎火，瞎炮	5
+AFT<sup>2</sup> (automatic fine tuning)	自动微调	3
+double series	二重级数	4
+secondary coil	副线圈，次级线圈	5
+polar angle	极轴角	5
+electrolytic capacitor	电解电容器	4
+response pattern	反应模式	1
+linear steady system	线性定常系统	3
+triangular item	三角项	4
+sintered piece	烧结零件	4
+horizontal layer	水平层	3
+interflow	合流	3
+deviation permit	超差许可证	1
+canard airplane	鸭式飞机	3
+lathe	车床	4
+capacity rating	额定功率	5
+scaling	定标；按比例测量	5
+dynamic friction	动力摩擦	1
+multiple seal	多重密封	4
+dividend	被除数	5
+spline curve	样条曲线	4
+inductive operation	诱导操作	5
+residual magnetism	剩磁	5
+transmission probability	透射概率	3
+connecting line	连线	4
+addend	加数，被加数；附加物	5
+blackout	灯光转暗，遮蔽	3
+floating axle	浮动轴	2
+trace	轨迹；迹线；跟踪	4
+international standardization information network	国际标准化信息网络；国际标准化情报网络	1
+direct proportion	正比	4
+Langmuir trough	朗缪尔型槽	5
+lateral spread	侧向扩展	1
+magnetic field	磁场	5
+epimorph	外附同态体；（晶体的）天然色痕；外形模	2
+cross-section curve	截交线	3
+static-geometric analogy	静力-几何比拟	3
+bed roughness	河床粗糙度	4
+robot arm	机器人手臂	2
+service life	使用寿命，使用有效期	3
+twist	扭曲；螺旋运动；捻度	1
+cushion shooting	气垫爆破	3
+electroosmosis	电渗	2
+condensed phase	凝相，缩相	2
+floating die	浮动模	3
+snow slide blasting	崩雪爆破	1
+explicit function	显函数	5
+choke valve	阻风门	2
+catchment flow	流域流量	5
+variable capacitor	可变电容器	5
+hot extrusion pressing	热挤压	2
+acetylene	乙炔	5
+hard material powder	硬质材料粉	2
+Cretaceous Period	白垩纪	2
+uranium	铀	5
+Paleozoic Era	古生代	1
+Darcy' law	达西定律	4
+asbestos	石棉，石绒	4
+adsorptive equilibrium	吸附平衡	4
+coefficient of coupling	耦合系数	3
+matrix method	矩阵法	4
+elasticity modulus	弹性模量	4
+pressure depletion performance	压力递减动态	5
+biomimetic sensor	仿生传感器	2
+spew	喷出，渗出；渗出物	5
+amplitude	幅度，振幅，变幅	5
+evaporative cooling	蒸发冷却	2
+rate of flow	流速，流率；流量	1
+capture	拍摄；吸收	1
+blow-and-blow	吹制	2
+loading density	装填密度	2
+back explosive	退库炸药	5
+fidelity	逼真度；精确	5
+standard resistance	标准电阻	1
+earth material	土石，土料	3
+quadravalence	四价	4
+quality cost	质量成本	4
+oil seal	油封	1
+subtangent	次切距，次切线	5
+Stokes' theorem	斯托克斯定理	2
+molecular current	分子电流	2
+feeler	测隙规；探针，探测仪	3
+surface deformation	表面变形	3
+algebraic item	代数项	2
+manned acclimatization	人工习服	3
+slant height	斜高	2
+plaster stone	生石膏	2
+separation characteristic	分选特征	3
+time-area graph	流时-面积图；时间-面积图	1
+precision sintered part	烧结精密零件	2
+wide line profile	宽线剖面	5
+integrated circuit	集成电路	2
+absolute error	绝对误差	3
+point	点；尖端	5
+momentum theorem	动量定理	2
+square	平方，二次幂；正方形；直角尺	1
+rain gauge	雨量器	3
+transition line	过渡线	5
+Monte Carlo method	蒙特卡罗法	1
+stiction	静摩擦；静态阻力	2
+antiperiodic	反周期的	5
+chemical compound	化合物	4
+VFFS (vertical form-fill-seal)	立式成型-充填-封口	4
+gas colliery	瓦斯煤矿	2
+algebraic equation	代数方程	3
+difference	差，差分	4
+built-in flash	内置式闪光	3
+relay	中继；继电器	4
+stylolite	缝合线；缝合岩面	3
+achromatism	消色差性，无色	1
+normal spherical triangle	正球面三角形	4
+initial force	首力，起始力	1
+flapping wing	扑翼；扑翼机	2
+laminate	分层；层压；层压板	5
+kink	扭结；弯曲	3
+transforming growth factor	转化生长因子	1
+focus mode	聚焦模式	5
+cosine integral function	余弦积分函数	4
+reflector prism	反射棱镜	5
+electric current	电流	2
+tilter	倾斜体；焊接翻转机	5
+Quaternary Period	第四纪	1
+runoff concentration	汇流	4
+topography	地形；地形学	5
+gravity anomaly	重力异常	1
+gasket-type seal	静密封	4
+sealing wax	封蜡	4
+closed orbit	闭合轨道	1
+erratic	漂砾	2
+geologic map	地质图	4
+applied moment	作用力矩	3
+frequency response	频响应	2
+Marangoni flow	马来哥尼流	4
+actinolite	阳起石	2
+roughness coefficient	粗糙系数，粗糙率	3
+multiform function	多值函数	1
+discrete stochastic variable	离散随机变量	3
+thermit welding	热剂焊	3
+flap	副翼；阻力板；挡水板	5
+cleavage face	分裂面，分解面	5
+transducer	转换器；变频器；传感器	2
+absorption dosage	吸收剂量	1
+perennial stream	常流河	5
+echo trouble	回波干扰；回声干扰	3
+leakage current detector	杂散电流测定仪	3
+competitive coupler	竞争型成色剂	4
+cutoff state	截止状态	1
+three views	三视图	1
+geochronometry	地质年代测定学	1
+whitewashing	粉饰，刷石灰水	4
+CTFE (chlorotrifluoroethylene)	氯三氟乙烯	1
+entrail chroismite	肠状混合岩	4
+proportion judgment	比例判断	4
+air-operated blasting device	压气爆破落煤器；气动鼓风装置	5
+differential settlement	不均匀沉降	5
+characteristic value	特征值	3
+hanger	吊架；挂钩，吊杆	1
+atmospheric pressure	大气压	1
+ethylene-vinyl acetate (EVA)	乙烯-醋酸乙烯共聚物	4
+reticular formation	网状结构	1
+inertia law	惯性定律	4
+gamma function	伽马函数	5
+child-resistant closure (CR closure)	儿童安全盖	5
+argon instability	氩不稳定性	4
+global information infrastructure standardization	全球信息基础设施标准化	3
+vacuum arc	真空电弧	2
+phospholipid	磷脂	1
+plane geometry	平面几何	4
+spherical spreading	球面扩散	4
+amphiphilic structure	分子两性结构	5
+singular matrix	奇异矩阵	3
+secondary emission electron	次级发射电子	4
+antiozonant	抗臭氧剂	4
+kalvar	卡尔瓦	2
+blackbody	黑体	4
+medium grain	中粒	4
+PPI (pixels per inch)	每英寸像素	5
+extrapolation	外推法，外延法	5
+ionization	电离，离子化	1
+brittle point	脆化点	4
+epoch	世；历元，纪元；恒定相位延迟	2
+quantum mechanics	量子力学	3
+host	主体，基质材料；主岩	1
+arsenopyrite	毒砂；砷黄铁矿	1
+replication	复制；复制品	3
+press	压制；压机，冲床	1
+critical unacceptable product	致命不合格品	5
+component of elongation	伸长变形分量	1
+river longitudinal profile	河流纵剖面	1
+living organism	生物，有机生物体	5
+volcaniclastic rock	火山碎屑岩	1
+difference limen	差别阈限	5
+trim	调整；修边；修坯	5
+calcium oxide	氧化钙，石灰	4
+electronic data interchange	电子数据交换	1
+fault tree	故障树	1
+basis weight	（单位面积材料的）基本重量	4
+watermark	水印	5
+air traffic control	空中交通控制	2
+vector of rotation	转动矢量	2
+accuracy adjustment	精度调整	3
+storage	储存，存储；蓄电；存储器	1
+remainder	余数；余项	2
+atomization	雾化，化成微粒	2
+gland seal	压盖密封	5
+spectrogram	光谱图	5
+open stoping	无支护采矿法	1
+bridge balance	电桥平衡	5
+crushed stone concrete	碎石混凝土	3
+characteristic vector	特征向量	5
+dead axle	静轴	2
+lithium deuteride	氘化锂	2
+strain energy function	应变能函数	1
+pixel	像素	4
+moulded pulp	纸浆模塑	5
+outgassing	除气	1
+gap sensitivity	殉爆感度	2
+shearing stress	剪（切）应力	4
+silico-manganese steel	硅锰钢	5
+coefficient of heat transmission	传热系数	5
+foundation bolt	地脚螺栓	5
+segregation	分离，分凝；离析	2
+ground water inventory	地下水平衡计算表	3
+electrostatic equilibrium	静电平衡	2
+tube-style carton	管式折叠纸盒	1
+qualitative pumping process	定性抽气过程	2
+partial view	局部视图	5
+alluviation	冲积（作用）	5
+polyline	折线，多线	1
+plasma	等离子体，等离子区	4
+WVTR (water-vapour transmission rate)	水蒸气透过率	4
+protecting device	保险器	2
+malacolite	透辉石	1
+rejection quality level	不合格质量水平	2
+root	根；根基	4
+waveform analysis	波形分析	4
+neutral point	中和点，中性点	3
+growth inhibition	生长抑制	5
+bench cut blasting	梯段爆破，台阶爆破	5
+simulation	模拟；模拟实验	5
+matrix	矩阵；基体，基质	1
+end effect	末端效应；端面燃烧效应	5
+gas volumeter	气体容量计	4
+implicit method	隐式法	3
+ablative light source	烧蚀光源	1
+aberration	像（色）差，光行差；误差	4
+cabin depressurization	座舱减压	5
+gangue mineral	脉石；废石	2
+shock absorber	缓冲器，防震器	3
+volcanic breccia	火山角砾岩	4
+liquid state	液态	4
+constant current	恒定电流	2
+ringing system	振铃系统	2
+wave path	波程；波径	4
+isobath	等深线	5
+pressure jump technique	压力突变技术	1
+polyamide (PA)	聚酰胺，尼龙	4
+colloidal state	胶态	3
+refrigerant	制冷液，冷冻剂	3
+gravity acceleration	重力加速度	3
+space charge effect	空间电荷作用	5
+ray tube	射线管	3
+channelling machine	滚槽机；截煤机	1
+high-energy milling	高能球磨	1
+intersection	相交；横切；交叉线	1
+transparence	透明性；穿透性	5
+graphite	石墨	3
+carbon reduction	碳还原	2
+fluid	流体，流质，液	3
+jet piercing	喷焰穿孔，热力穿孔	4
+wire blasting	有线起爆	3
+upright fold	直立褶皱	5
+side blow	打横炮；（爆炸气体）喷出裂缝	4
+foaming	起泡	2
+hardening	硬化；硬化剂，固化剂	3
+silica	硅石，二氧化硅	5
+fractional power	分数幂	4
+liquid-solid interface	液固分界面	4
+damping force	阻尼力，减震力	2
+crack	裂隙；裂化	1
+Knudsen number	克努森系数	1
+rule	律；条例，规定；尺	1
+GN (guide number)	闪光灯指数	3
+elasticity	弹性，伸缩性；弹性力学	1
+rigidimeter	刚度计	5
+timber blasting	伐树爆破；木材爆破	1
+analogous generalization	相似通用化	2
+integrator	积分仪，积分装置	3
+black blasting powder	黑火药	2
+rotary press	圆盘压机	2
+thermomotor	热发动机	3
+warning fuse	警告导火索	1
+leach	沥滤	1
+backheating	逆热，回热	4
+grammage	（材料）克重	2
+apparent dip	视倾角	4
+aerosurveying	航空摄影测量学	2
+silicon wafer	硅晶片	5
+compaction	成形；压（制）坯；压实	4
+gamma ray	γ射线	1
+fines	细粉，碎屑	5
+collapsible tool	可拆模	3
+filling condition	装粉状态	4
+crease	折痕；折叠	3
+macro mode	微距模式	3
+route knowledge	航线知识	3
+artificial retina component chip	人造视网膜组件芯片	4
+ultralow interfacial tension	超低界面张力	5
+fast lens	快镜头	1
+durometer hardness	计示硬度	2
+click drive	点击驱动	4
+static thrust	静推力	4
+bionic ear	仿生耳	4
+membrane	膜，膜片；表层；膜材料	3
+configuration	构型；外形；结构	5
+storage loop	槽蓄曲线绳套；库容流量曲线绳套	5
+key	楔，栓；键槽	5
+cutting torch	割炬	4
+free oscillation	自由振荡	1
+nodal analysis	节点分析（法）	4
+aerodynamics	空气动力学，气体动力学	5
+electromagnetic oscillation	电磁振荡	1
+multifocal lens	变焦透镜	4
+magneton	磁子	1
+gauge	规；测量仪表；轨距	2
+Airy's theory of isostasy	埃里地壳均衡理论	5
+near-point	近点	1
+group technology	成组工艺	5
+spotted slate	斑点板岩	1
+rubber face	橡胶表面	3
+sequential circuit	顺序电路，时序电路	2
+degree factor of product structure standardization	产品结构标准化程度系数	5
+voltage	电压	2
+column charge	柱状装药；柱状药包	1
+hyperbolic secant	双曲正割	2
+lens	透镜；扁豆状矿体	1
+water jet	水喷射	2
+Jacobi iteration method	雅可比迭代法	3
+initial value	初值	4
+energy level	能级	4
+sedimentary rock	沉积岩，水成岩	1
+ounce	盎司	5
+cube	立方；立方体	2
+task analysis	任务分析	5
+decrepitation	爆裂	5
+gravitational coagulation	引力凝结	1
+ruled surface	直纹（曲）面	1
+recharge area	补给区	5
+Ohm's law	欧姆定律	3
+common normal	公法线	5
+flutter	颤振	2
+phase line	相（位）线	4
+interpolation	插值；插值法	1
+zero drift	零漂移	1
+cutoff frequency	截止频率	2
+stress wave	应力波	4
+activation	激活，活化	5
+sial	硅铝带	5
+electrolytic polishing	电解抛光	4
+streamflow wave	河川径流波	3
+oblique coordinate coefficient	斜坐标系数	1
+cantilever	悬臂	1
+cap crimper	火帽压紧钳，雷管钳	4
+napier	奈培	2
+electromagnetic wave	电磁波	1
+microgram	微克；显微图，显微照片	4
+cathode ray	高速电子；阴极射线	3
+dual property	二象性	4
+bio-robot	仿生机器人；仿生自动机	1
+oblique angle	斜角	2
+normal cylinder	正圆柱	1
+terrestrial magnetism	地磁	2
+dome	穹隆；干汽室；岩穹	1
+sinusoidal distribution	正弦分布	5
+short crack	短裂纹	2
+land development blasting	土地开发爆破	1
+dilatational elasticity	扩张弹性	4
+optical fibre	光纤	1
+diversion	分流；转向	3
+thermal heat	热能	2
+shell	壳；框架；弹药筒	1
+phosphatic rock	磷质岩	1
+medium-density polyethylene (MDPE)	中密度聚乙烯	3
+equal-sign	等号	5
+perched water	静滞地下水；上层滞水	4
+sharpness	清晰度，锐度	2
+cutback	稀释产物；反逆作用；后移	2
+plane couple system	平面力偶系	1
+photoconductor	光敏电阻；光电导体	5
+linear algebraic equation	线性代数方程	4
+mass point	质点	2
+electromagnetic damping effect	电磁阻尼效应	2
+plane of refraction	折射面	3
+pressed volume	压坯体积	2
+total pressure	总压力	3
+accelerating agent	促进剂	1
+electrical signal	电信号	5
+base charge	底部装药，孔底装药	4
+ductility	延展性，可锻性，韧性	4
+gravitational potential	重力位	4
+pressure-resistant explosive	耐压炸药	3
+trigger	触发器；起动冲量	1
+excitation source	激励源	3
+acid catalyzed condensation	酸催化浓缩	4
+rock stratum	岩层	2
+cold chisel	冷錾	2
+leakproof seal	防漏密封	1
+automatic processing	自动加工	2
+short arc welding	短弧焊	3
+shelf	支架，搁板；大陆架	3
+zooming ratio	变焦比	5
+partial derivative	偏导数，偏微商	5
+inscribed figure	内接形	5
+MD (machine direction)	机器方向	1
+accelerator	加速器；加速剂，促凝剂	2
+circular arc motion	圆弧运动	2
+grammite	硅灰石	1
+deformation value	变形值	3
+snowmelt flood	融雪洪水	1
+bichromate process	重铬酸盐处理法	4
+rock burst	岩爆；冲击地压	2
+high explosive	烈性炸药；高级炸药	5
+gradient	梯度；增减率	3
+information medium standardization	信息交换媒体标准化	5
+centre-weighted metering	中央均衡测光	4
+fertile material	增殖性材料，燃料原料	5
+intensity	明暗度；密度；强度	4
+indicating mechanism	指示装置	3
+hydration repulsion	水合排斥	1
+search gas	探索气体	1
+surface pressure	表面压力	4
+classical solution	古典解	5
+radiant energy	辐射能	2
+decomposition method	分解法	3
+common multiple	公倍数	2
+LKWASH (lock washer)	锁紧垫圈	5
+heat seal	热封；熔接	1
+pure bending state	纯弯状态	4
+neural system identification	神经系统辨识	1
+diffraction	衍射	2
+maintainability	维修度	3
+neutron lifetime log	中子寿命测井	2
+transfer effectiveness ratio	迁移效率比	1
+auxiliary surface	辅助面	2
+cornea	角膜	5
+ultrasound	超声；超声波	1
+desensitization	减少感光度；降低灵敏度	1
+oblique projection	斜投影	3
+colour constancy	彩色守恒	2
+biomimetic synthesis	仿生合成	2
+radial distribution function	径向分布函数	3
+zero root	零根	1
+linear interpolation	线性插值	2
+central line	中心线	2
+inert gas	惰性气体	4
+polarization	极化；偏振；极化度	4
+jumper	长钻；跳线	1
+well logging	测井	1
+colour conditioning	色彩调节	2
+vertical projection plane	正立投影面	1
+right triangle	直角三角形	3
+axial interference	轴向干扰	2
+capacity	容量；电容；额定功率	1
+limiting pressure	极限压力	5
+end vector	终止向量	2
+equipment complement	设备配套	5
+bellows	波纹管；真空膜盒；风箱	3
+relative density	相对密度	2
+automatic chrominance control (ACC)	自动色品控制	2
+professional generalization	专业通用化	1
+analytic function	解析函数，分析函数	1
+overall dimension	总体尺寸	2
+filling ratio	装粉系数	4
+vernier calliper	游标卡尺	4
+proton beam	质子束	2
+mass spectrum	质谱	5
+tailfirst configuration	鸭式结构；鸭式图形	5
+wave source	波源	1
+Cretaceous System	白垩系	3
+blown-out shot	空炮	1
+bench cut	阶段式回采，台阶式回采	3
+unit seal	单元密封	2
+blow through	漏气；穿透	3
+observed result	实测结果	1
+burning velocity	燃烧速度	2
+mini-flute	微槽	3
+fitting curve	拟合曲线	3
+oscillating arm mechanism	摆动臂机构	3
+maximum reflectance	最大反射比	5
+light parameter	光参量	1
+near-ring	近拟环	3
+fluorescent microscopy	荧光显微技术	3
+non-uniplanar straight line	异面直线	1
+response modality	反应方式	1
+terminal voltage	路端电压	2
+viscosity coefficient	黏性系数，黏度系数	5
+blackening	黑度；涂炭粉；变黑	2
+alpha ray	α射线，阿尔法射线	3
+quantum	量子；份额；总量	3
+compound pendulum	复摆	5
+regular powder	规则状粉末	3
+restoring force	回复力	2
+sima	硅镁带	1
+bucket elevator	斗式提升机	1
+quality loop	质量环	5
+Lorentz force equation	洛伦兹力方程	5
+plane force system	平面力系	3
+pass band	通带	3
+law of conservation of momentum	动量守恒定律	2
+surveying reference point	测量参考点，测量基准点	4
+resultant force vector	合力矢	3
+pantograph	缩放仪，比例绘图器；受电弓	2
+spiral spring	螺旋弹簧	5
+static quenching	静淬火	3
+dynamic surface tension	动表面张力	4
+absolute damping	绝对衰减，绝对阻尼	2
+hygroscopic material	吸湿性材料	3
+photoconductive resistance	光敏电阻	5
+nitride	氮化物	1
+attention switching	注意转换	2
+cutting law	切割律	3
+distil(l)	蒸馏；提炼	3
+Helmholtz equation	亥姆霍兹方程	1
+specific gravity	比重	4
+arc	弧，弓形；弧光	5
+float	浮子，浮标	4
+single-crystalline array	单晶排列	5
+clayey soil	黏性土层	1
+gauge block	量块	5
+magnetic flux	磁通量	1
+external leak	外部泄露	4
+complete counterforce	全反力	5
+firing current	发火电流	2
+corrugation	瓦楞状	4
+drilling pattern	钻孔布置；炮孔排列	5
+bureaucratic structure	层峰结构	4
+robot	机器人；自动仪器，自动控制设备	1
+zone purification	逐区提纯；区域净化	3
+rotary seal	转动密封	5
+extensional deformation	伸展变形	2
+swing cut	摆式掏槽；扇形掏槽	4
+linerboard	挂面纸板，箱纸板	2
+aeolian accumulation	风成堆积	4
+rider ring	斜撑垫圈	2
+hydrophobic interation chromatography	疏水层析	5
+elliptic equation	椭圆方程式	4
+secondary	次级线圈；次级电路	4
+ultimate stress	极限应力	5
+AFFP (automatic first-frame positioning)	自动返回初始位置	4
+hydrology	水文学	1
+anhydrite	硬石膏	1
+differential pressure	压差	2
+pressure forming	加压成型	1
+imaginary root	虚根	3
+calcium	钙	5
+Rydberg	里德伯	2
+sound wave	声波	1
+voltage stabilizer	稳压器	2
+universal meter	万用表	5
+distributor	分配器，配电盘	3
+LCD (liquid crystal display)	液晶显示；液晶显示器	1
+elimination by aspects	方面消元法	1
+hydrometry	水文测量学；液体比重测定法	2
+time shifting	时间迁移，时间移动	4
+ion	离子	2
+ray	射线；半直线	4
+auditory processing	听觉加工	1
+electronic frogeye	电子蛙眼	5
+pulse	脉冲；脉动	3
+slope filter	斜率滤波器	2
+phase diagram	相图	3
+oblique perspective	斜透视	4
+grey scale	灰阶	2
+plane of unconformity	不整合面	1
+hybrid process	混合处理	4
+subsieve	微粒	3
+antitrigonometric cotangent	反三角余切	2
+diffusion seal	扩散密封	3
+soil moisture content	土壤含水量，土壤含水率	5
+artificial heart valve	人工心脏瓣膜	5
+point charge	点电荷	4
+stratum media	地层介质	1
+dry friction	干摩擦	5
+hypsometry	测高学	4
+fluid dynamics	流体力学	3
+graded seal	过渡焊接；递级封接	4
+diffraction pattern	衍射图样	1
+denominator	分母	4
+generalization	通用化，通用性	4
+cut hole	掏槽孔	2
+Kelvin's thermometric scale	开尔文温标	3
+withdrawal process	拉下脱模法	3
+low pressure	低压	1
+access value	访问值，存取值	1
+time sharing	分时	4
+carbon film	碳膜	3
+registration dimension	对齐尺寸	5
+aiming	瞄准，对准	2
+hygrophotography	湿态摄影	3
+isohyet	等雨量线，等沉淀线	1
+square-set stoping	方框支架回采法	5
+catchment wetness index	流域湿润指数	2
+cross axle	横轴	4
+end point	端点，终点，边界点	1
+short wave	短波	5
+photovaristor	光敏电阻	1
+degradation	陵削；衰变；退化	2
+straightway	直线段	2
+vectorization	向量化，矢量化	1
+Bouguer anomaly	布格异常	5
+tonal range	色调范围	4
+plane cut	平面剖切	2
+andesite	安山岩	2
+digital ratio equation	单比例方程	1
+complex tone	复音	4
+gas source	气体源	1
+platform	地台；平台	5
+induction blasting	诱导爆破，感应爆破	3
+negative work	负功	4
+Cartesian coordinate	笛卡儿坐标	4
+pneumatic press	气动压机	5
+controlled release	控制性释放	4
+carry	进位；负载；传送	4
+electro-physical property	电物理性能	4
+cushion piece	间隔物，垫层	5
+ballistic pendulum test	弹道摆试验	5
+hysteresis	磁滞现象；迟滞	3
+acetone	丙酮	1
+boil-in bag	蒸煮袋	5
+surfaceness	表面光洁度，表面粗糙度	5
+loader	装料机，装载机；装入程序	4
+Abbe number	阿贝数	3
+average value	平均值	5
+resultant force	合力	4
+fault mountain	断层山	4
+tablet(t)ing machine	压片机	2
+inner seal	内部封接	4
+measuring unit	计量单位	5
+sensibilization	敏化	4
+inequation	不等式	4
+plastic deformation	塑性变形	2
+relative position	相对位置	3
+composite	混合体；复合材料	5
+Poisson's ratio	泊松比	5
+audio-oscillator	声频振荡器	5
+free electron	自由电子	5
+check weigher	重量选别机	1
+reference acoustic pressure	基准声压	2
+silhouette	黑像，剪影	1
+section line	剖面线	1
+taper gauge	锥度规	1
+magnetostriction	磁致伸缩	1
+aquifer	蓄水层，潜流水道	4
+balance equation	平衡方程	3
+stratified sampling	分层抽样	5
+divide	除；分水岭；分离	2
+co-extrusion	共挤法	2
+floating dot	浮点	5
+edge crush test (ECT)	边压测试	2
+diurnal correction	日变化校正	4
+Dubrovin gauge	杜布罗文真空规	5
+short circuit	短路	3
+distant-point	远点	5
+foco-collimator	焦距准直仪	1
+monochromatic light	单色光	1
+methane gas	沼气，甲烷	5
+digital pulse	数字脉冲	4
+chain conveyor	链式输送器	5
+consumption of explosives	炸药消耗	3
+bed	层；床身	4
+modulator	调制器，调幅器	4
+spectral line	光谱线	1
+single phaser	单相交流发电机	1
+reductant	还原剂	3
+minimum burden	最小抵抗线	3
+third angle method	第三角画法	4
+complex fraction	繁分数	4
+polysize powder	多粒度粉末	3
+permeation	渗透作用；渗气	1
+anode current	阳极电流	1
+lake current	湖流	3
+metamorphism	变质	4
+minus sign	减号	3
+Love wave	勒夫波	3
+non-singular matrix	非奇异矩阵	3
+in-line	一列的；联机的；进油管路	5
+slope	斜面，斜率；倾斜角；斜井；斜坡	3
+second difference	二阶差分	3
+staff gauge	水尺	4
+characteristic of explosives	炸药特性	1
+beam	波束；射束；横杆	4
+cold cathode ionization gauge	彭宁规，冷阴极电离规	5
+water-gel explosive	水胶炸药	3
+finite automaton	有限自动机	5
+induction motor	感应电动机	3
+molecular flow	分子流	4
+thermonuclear fusion	热核聚变，热核反应	1
+plutonium	钚	3
+polydispersity	多分散性，聚合度分布性	3
+biological control mechanism	生物控制机能	5
+rounding-off	四舍五入	2
+fractionator	分馏器，气体分离装置	3
+voltage vector	电压向量	3
+mutual inductance coefficient	互感系数	2
+chip	芯片；碎渣；切片	1
+inverted image	倒像	4
+kinetic energy	动能	5
+equation	等式，方程式；反应式	4
+Faraday's law	法拉第定律	4
+entropy	熵	5
+fixed capacitor	固定电容器	1
+structure factor	结构因素	5
+toggle press	肘杆式压力机，肘杆式冲床	2
+tritium	氚	3
+homoeostatic control	稳态控制	4
+irradiance	辐照度，辐射度	1
+heat death	热寂	3
+excluded volume effect	体斥效应	4
+geometric method	几何法	2
+electronic circuit	电子线路	3
+infiltration	渗入；渗透；渗滤	2
+image analysis	影像分析	3
+infrared detection	红外探测	2
+hoisting	吊装	2
+relief printing	凸版印刷	5
+wide area network (WAN)	广域网	2
+automaticity	自动性；自动化程度	3
+plus sign	加号	2
+photoelectric effect	光电效应	5
+series of preferred number	优先数系	5
+relief blasting	辅助爆破	2
+interaxial angle	轴间角	1
+controlled language	规范语言	5
+reduced pressure epitaxy	减压外延	4
+cushioning ability	减震能力	1
+drill cuttings	钻屑	4
+frequency distribution	频率分布	3
+shear failure theory	剪切破坏理论	4
+monazite	独居石	3
+parallel resistance	并联电阻	5
+buffer	缓冲器；阻尼器；缓冲剂	4
+almond structure	杏仁构造	1
+line of centres	连心线	2
+articulation	清晰度；铰，铰链轴	3
+uranium lump	铀块	3
+burr	毛刺，毛边；垫圈	4
+non-permitted explosive	非许用炸药，非安全炸药	2
+gauge sensitivity	规管灵敏度	3
+harmonic analysis	调和分析	5
+billow forming	波浪成形	3
+projecting line	投射线	2
+Abney's law	阿布尼定律	3
+Langmuir interface	朗缪尔界面	3
+die formed ring	模压成型垫圈	1
+hexagonal prism	六棱柱	2
+full-size tunneling shot	全断面掘进炮；全断面隧道爆破	2
+detonation pressure	爆轰压力	1
+multiple-channel streamer cable	多道拖缆	3
+connection	卡口，接点；连接法；连接装置	4
+arbitrary constant	任意常数	4
+inverse ratio	反比	5
+ariscope	移像光电摄像管	1
+phototropy	光色互变	5
+short rinse	短时间漂洗	1
+solution function	解函数	4
+tension spline	拉力样条	4
+cross direction (CD)	横向	5
+digit	数，数位；数字式	3
+pressing die	压模	2
+sequence	序列，顺序；系	4
+uniformly variable motion	匀变速运动	5
+mean free path	平均自由行程	3
+interference fit	干涉配合，静配合	2
+electric excitation	电激发	5
+catalyst fines	催化剂粉末	3
+getter	吸气剂；消气器	2
+depression storage	填洼；洼地蓄水	5
